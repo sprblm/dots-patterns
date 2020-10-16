@@ -4,11 +4,11 @@
 
 ### Examples 
 
-## Why Choose …? 
+## Why Choose Network Heath Indicator? 
 
-## Best Practice: How to Implement…
+## Best Practice: How to Implement Network Health Indicator
 
-## Potential Problems with…
+## Potential Problems with Network Health Indicator
 
 ## The Take-Away
 
