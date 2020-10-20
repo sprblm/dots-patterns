@@ -1,3 +1,5 @@
+## Why Choose Time Machine?
+
 ## The Design Problem 
 
 ## The Design Solution 
@@ -5,8 +7,6 @@
 ### Examples 
 
 - https://spideroak.com/
-
-## Why Choose Time Machine?
 
 ## Best Practice: How to Implement Time Machine
 

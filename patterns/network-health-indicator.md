@@ -1,10 +1,10 @@
+## Why Choose Network Heath Indicator? 
+
 ## The Design Problem 
 
 ## The Design Solution 
 
 ### Examples 
-
-## Why Choose Network Heath Indicator? 
 
 ## Best Practice: How to Implement Network Health Indicator
 

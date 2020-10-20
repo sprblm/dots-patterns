@@ -1,3 +1,8 @@
+## Why Choose Full Username?
+
+- When you want to enable users to freely move between providers and usernames
+  with ease
+
 ## The Design Problem
 
 In a centralized world, it's assumed that other users are mediated through the
@@ -41,11 +46,6 @@ PGP (+Keybase)
 Various P2P Social Profile Systems (Cabal, SSB, Textile, 3box)
 
 Matrix (p2p beta)
-
-## Why Choose ... ?
-
-- When you want to enable users to freely move between providers and usernames
-  with ease
 
 ## Best Practice: How to Implement ...
 

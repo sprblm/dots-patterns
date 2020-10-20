@@ -1,3 +1,7 @@
+## Why Choose Discovery Pub?
+
+When your application is heavily enriched by the ability to search and discover new content (e.g., social networks).
+
 ## The Design Problem
 
 In a centralized world, search and discovery within a service doesn't involve too many difficult decisions on the part of the user. When typing into a search box, the user trusts that the service is giving them the results they've asked for. This usually involves algorithms to display information in a way that makes sense to the user — including filtering, ranking, and selecting information intelligently. For most services, user has little-to-no choice on how this search and discovery is executed on their behalf, and if controls are offered, these options are usually buried within profile and platform settings.
@@ -23,10 +27,6 @@ These considerations can be governed by the protocol or client. For example, the
 - Mastodon Search
 - Sonar P2P Search 
 - Fediverse network 
-
-## Why Choose ... ?
-
-When your application is heavily enriched by the ability to search and discover new content (e.g., social networks).
 
 ## Best Practice: How to Implement Discovery Pub
 

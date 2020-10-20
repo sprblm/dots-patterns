@@ -1,3 +1,5 @@
+## Why Choose Village or City? 
+
 ## The Design Problem 
 
 ## The Design Solution 
@@ -5,8 +7,6 @@
 ### Examples 
 - Biton
 - Mastodon 
-
-## Why Choose Village or City? 
 
 ## Best Practice: How to Implement Village or City
 - Guidelines and parameters regarding community size and interactive elements must be communicated clearly. 

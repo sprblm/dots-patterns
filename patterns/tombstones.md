@@ -1,3 +1,7 @@
+## Why Choose Tombstones?
+
+* When you want to protect the safety and privacy of user generated content.
+
 ## The Design Problem
 
 User-generated content may be available forever on some Devices; and thus, could stay on the network somewhere forever. This is more likely the longer this content is online, as crawlers will begin to find it, copy it, and syncronize it to other people.
@@ -12,17 +16,12 @@ We can encourage deletion across the network quite well by using Tombstones.
 
 ### Examples
 
-* Mapeo
 
 ## How to best implement
 
 * When a message is deleted, show users if the content is still available somewhere on the network (e.g., it could be that some client is not respecting the message). 
 * Some clients may not respect tombstones, give users visibility into this and allow blocking replication with those clients.
 * Allow 'reversing' tombstones, that is, a tombstone should be a boolean value that can be turned off or on in the future.
-
-## Why Choose Tombstones?
-
-* When you want to protect the safety and privacy of users.
 
 ## Potential Problems with Tombstones
 

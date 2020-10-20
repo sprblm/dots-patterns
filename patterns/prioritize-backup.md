@@ -1,10 +1,10 @@
+## Why Choose Prioritize Backup? 
+
 ## The Design Problem 
 
 ## The Design Solution 
 
 ### Examples 
-
-## Why Choose Prioritize Backup? 
 
 ## Best Practice: How to Implement Prioritize Backup
 

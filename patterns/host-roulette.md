@@ -1,3 +1,7 @@
+## Why Choose Host Roulette ?
+
+When you want to steer the network into further distribution
+
 ## The Design Problem
 
 In a centralized world, onboarding users to a service doesn't involve too many
@@ -31,10 +35,6 @@ provider over another, randomly assign new users to a hosting provider.
 ### Examples
 
 Nextcloud
-
-## Why Choose Host Roulette ?
-
-- When you want to steer the network into further distribution
 
 ## Best Practice: How to Implement Host Roulette
 

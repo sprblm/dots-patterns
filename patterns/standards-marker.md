@@ -1,12 +1,14 @@
+## Why Choose Standards Marker? 
+
 ## The Design Problem 
 
 ## The Design Solution 
 
 ### Examples 
 
+- .cobox
+- .mapeosettings
 - .docx vs .pdf
-
-## Why Choose Standards Marker? 
 
 ## Best Practice: How to Implement Standards Marker
 

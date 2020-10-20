@@ -1,10 +1,10 @@
+## Why Choose Protocol Agnosticism? 
+
 ## The Design Problem 
 
 ## The Design Solution 
 
 ### Examples 
-
-## Why Choose Protocol Agnosticism? 
 
 ## Best Practice: How to Implement Protocol Agnosticism
 

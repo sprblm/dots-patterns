@@ -1,3 +1,8 @@
+## Why Choose Cautious Optimism?
+
+Trust is more fine-grained than a rigid protocol presumes; it can be
+revoked at any moment, and is tied to human behavior.
+
 ## The Design Problem
 
 In a centralized world, the trust model is simple: all participants have to
@@ -31,11 +36,6 @@ a code-of-conduct-abiding network participant.
 - regular unchoking in BitTorrent
 - Secure Scuttlebutt
 - Mastodon
-
-## Why Choose Cautious Optimism?
-
-Trust is more fine-grained than a rigid protocol presumes sometimes; it can be
-revoked at any moment, and is usually tied to actual behavior.
 
 ## Best Practice: How to Implement Cautious Optimism
 
