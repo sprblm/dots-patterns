@@ -9,7 +9,7 @@
 ## Why Choose Village or City? 
 
 ## Best Practice: How to Implement Village or City
-- Gideline and parameters regarding community size and interactive elements must be communicated clearly. 
+- Guidelines and parameters regarding community size and interactive elements must be communicated clearly. 
 - Make sure that the artifical retrictrions and parameters are visible so that people with the same values can find each other in the same villages or cities. 
 
 ## Potential Problems with Village or City
