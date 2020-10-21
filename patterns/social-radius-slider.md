@@ -9,12 +9,16 @@ of overhead.
 Use a radius to indicate how "big" your circle is for today.
 
 ### Examples 
+- Information bubble 
+- Google+
 
 ## Why Choose Social Radius Slider? 
 
 ## Best Practice: How to Implement Social Radius Slider
+- Social Radius Slider is a temporary filter and doesn't have to be persistent. It allows users to control and extend their network as well as to moderate their data consumption. 
 
 ## Potential Problems with Social Radius Slider
+
 
 ## The Take-Away
 
