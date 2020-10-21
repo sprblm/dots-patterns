@@ -19,9 +19,8 @@ These considerations can be governed by the protocol or client. For example, the
 
 ### Examples
 
-SSB pubs
-
-Mastodon Search
+- SSB pubs
+- Mastodon Search
 
 ## Why Choose ... ?
 
@@ -29,7 +28,8 @@ When your application is heavily enriched by the ability to search and discover 
 
 ## Best Practice: How to Implement ...
 
-Allow users and services to create and share 'block' and 'allow' lists of instances, peers, or keywords that they do not want to include in search. First-time users should be able to adopt already well-known filters for abusive, fraudulent, or spam content. This is critical to prevent the 'Welcome to Hell' problem, where first-time users see a bombardment of irrelevant or harmful content.
+- Allow users and services to create and share 'block' and 'allow' lists of instances, peers, or keywords that they do not want to include in search. 
+- First-time users should be able to adopt already well-known filters for abusive, fraudulent, or spam content. This is critical to prevent the 'Welcome to Hell' problem, where first-time users see a bombardment of irrelevant or harmful content.
 
 ## Potential Problems with ...
 
