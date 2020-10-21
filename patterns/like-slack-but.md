@@ -7,6 +7,9 @@ Decentralized tools are often conceived as alternatives to centralized tools. Ho
 Explain your tool by referring to a more familiar tool. Meet your user where they are. How is your tool similar or different from this dominant tool?
 
 ### Examples
+- Mattermost
+- Rocket.chat
+- Matrix.org/Element
 
 ## Why Choose Like Slack, but ?
 
