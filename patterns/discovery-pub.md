@@ -21,19 +21,24 @@ These considerations can be governed by the protocol or client. For example, the
 
 - SSB pubs
 - Mastodon Search
+- Sonar P2P Search 
+- Fediverse network 
 
 ## Why Choose ... ?
 
 When your application is heavily enriched by the ability to search and discover new content (e.g., social networks).
 
-## Best Practice: How to Implement ...
+## Best Practice: How to Implement Discovery Pub
 
+- Allow users and services to create and share 'block' and 'allow' lists of instances, peers, or keywords that they do not want to include in search. First-time users should be able to adopt already well-known filters for abusive, fraudulent, or spam content. This is critical to prevent the 'Welcome to Hell' problem, where first-time users see a bombardment of irrelevant or harmful content.
+- Provide the possibilities to curate data and expand one's network while staying local. 
 - Allow users and services to create and share 'block' and 'allow' lists of instances, peers, or keywords that they do not want to include in search. 
 - First-time users should be able to adopt already well-known filters for abusive, fraudulent, or spam content. This is critical to prevent the 'Welcome to Hell' problem, where first-time users see a bombardment of irrelevant or harmful content.
 
-## Potential Problems with ...
+## Potential Problems with Discovery Pub
 
-This can cause a dependency on particular services, re-centralizing the technical architecture and causing potential failures. To mitigate this, providing a search function should not be special or privileged in the protocol. The protocol should allow for any peer to provide the search functions to another peer. In practice, the search feature can be implemented as a 'bot' user that runs on a server rather than a laptop.
+- This can cause a dependency on particular services, re-centralizing the technical architecture and causing potential failures. To mitigate this, providing a search function should not be special or privileged in the protocol. The protocol should allow for any peer to provide the search functions to another peer. In practice, the search feature can be implemented as a 'bot' user that runs on a server rather than a laptop.
+- There is still a need to address the privacy concerns regarding search queries and end-to-end encrypted contents. 
 
 ## The Take Away
 
