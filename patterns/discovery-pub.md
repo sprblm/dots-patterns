@@ -32,13 +32,12 @@ When your application is heavily enriched by the ability to search and discover 
 
 - Allow users and services to create and share 'block' and 'allow' lists of instances, peers, or keywords that they do not want to include in search. First-time users should be able to adopt already well-known filters for abusive, fraudulent, or spam content. This is critical to prevent the 'Welcome to Hell' problem, where first-time users see a bombardment of irrelevant or harmful content.
 - Provide the possibilities to curate data and expand one's network while staying local. 
-- Allow users and services to create and share 'block' and 'allow' lists of instances, peers, or keywords that they do not want to include in search. 
-- First-time users should be able to adopt already well-known filters for abusive, fraudulent, or spam content. This is critical to prevent the 'Welcome to Hell' problem, where first-time users see a bombardment of irrelevant or harmful content.
+- Algorithmic content is normally more common on mainstream centralized networks than within the decentralized ecosystem so it is important that users obtain a basic understanding of the differences between search that is mediated by federation and search enabled by a central discovery pub. 
 
 ## Potential Problems with Discovery Pub
 
 - This can cause a dependency on particular services, re-centralizing the technical architecture and causing potential failures. To mitigate this, providing a search function should not be special or privileged in the protocol. The protocol should allow for any peer to provide the search functions to another peer. In practice, the search feature can be implemented as a 'bot' user that runs on a server rather than a laptop.
-- There is still a need to address the privacy concerns regarding search queries and end-to-end encrypted contents. 
+- There is still a need to address the privacy concerns regarding search queries and end-to-end encrypted contents. For example, in pure P2P, users' search queries might encounter a risk of exposure to the network. 
 
 ## The Take Away
 
