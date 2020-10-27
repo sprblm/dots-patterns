@@ -2,7 +2,7 @@
 
 In a centralized world, search and discovery within a service doesn't involve too many difficult decisions on the part of the user. When typing into a search box, the user trusts that the service is giving them the results they've asked for. This usually involves algorithms to display information in a way that makes sense to the user — including filtering, ranking, and selecting information intelligently. For most services, user has little-to-no choice on how this search and discovery is executed on their behalf, and if controls are offered, these options are usually buried within profile and platform settings.
 
-In a decentralized world, discovering new information and users can be problematic for different reasons. Users often have questions like
+In a decentralized world, discovering new information and users can be problematic for different reasons. Users often have questions like:
 
 - Whose data am I searching?
 - Am I searching across the entire network, or just a subset of the network?
