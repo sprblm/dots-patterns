@@ -13,11 +13,11 @@ a distributed (p2p) network, all participants are equal, and have to be trusted
 on an individual basis. But deciding the level of trust for all connections to
 the network individually can sometimes be too taxing for users.
 
+## The Design Solution
+
 Trust can be governed by a protocol. For example, the protocol can be generous
 (trust all by default) or guarded (trust none by default). But these approaches
 can sometimes be too rigid.
-
-## The Design Solution
 
 Consider modelling game-theoretic insights on cautious optimism, e.g. trust
 each node until they violate a rule (“tit for tat”). This means the level of
@@ -28,7 +28,7 @@ a code-of-conduct-abiding network participant.
 
 ### Examples
 
-- regular unchoking in BitTorrent
+- Regular unchoking in BitTorrent
 - Secure Scuttlebutt
 - Mastodon
 
@@ -63,3 +63,7 @@ bad behavior.
 ## References & Where to Learn More
 
 The "tit for tat" strategy
+
+## Tags
+
+protocol
