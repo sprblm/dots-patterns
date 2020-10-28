@@ -1,19 +1,5 @@
 ## The Design Problem
 
-In a centralized world, it's assumed that other users are mediated through the
-same service. For example, my username on Twitter is displayed the same for
-every other user on Twitter. There is a global Twitter "namespace" where
-usernames are obtained. If I change my username, it might be difficult for
-others to find me unless I tell them my new name.
-
-In a decentralized world, users may not be connecting to you from the exact
-same service or application that you are. Data can be hosted by different
-parties, and usernames could be displayed differently depending on the
-application or service each person is using to connect. There may also be many
-different "namespaces" that guide what usernames are available or not, leading
-to two users to have the same username. Because of this, a username alone is
-often not sufficient to understand who you're talking to.
-
 A good design practice is to display extra information that can be used to
 locate a particular user. For example, for a federated service like e-mail, you
 add the service provider's domain in addition to the username
@@ -42,12 +28,12 @@ Various P2P Social Profile Systems (Cabal, SSB, Textile, 3box)
 
 Matrix (p2p beta)
 
-## Why Choose ... ?
+## Why Choose Persistent Identity?
 
-- When you want to enable users to freely move between providers and usernames
-  with ease
+- When you want to enable users to securely move between providers and usernames
+  with ease.
 
-## Best Practice: How to Implement ...
+## Best Practice: How to Implement Persistent Identity
 
 - Users need to have strict control over when and where their id is shared.
   Never automatically share this id on a public network or discovery service
@@ -56,31 +42,30 @@ nefariously by 3rd parties to contact a user without their consent.
 - Make sure that the same id is not reused across usernames that are intended
   to be separate (e.g., two users on the same device should have two different
 ids).
-- To more easily detect impersonation attempts, store a contact list locally on
-  the device that can be used to verify known users. Somehow display to the
-user when someone has a username that matches one in their contact list, but
-has a different id.
 
-## Potential Problems with Full Username
-
-Full usernames increase complexity for users who want to use the same account
-on multiple devices. To enable multiple devices, either require 3rd-party
-proofs (see Keybase) or maintain a public append-only log signed by a secret
-key linked to the original id. 
+## Potential Problems with Persistent Identity 
 
 By assigning an id to a particular account, it can make it more difficult to
 create entirely anonymous accounts. For example, if a 3rd-party finds the id
 secret in the profile on the device's hard drive, they have linked that device
-to that account. To give users more anonymity, ensure ids are deleted
-completely from devices upon account deletion.
+to that account. To give extra security guarantees, ensure any identifiers are deleted
+completely from devices upon account deletion. See
+[disposable-identity](disposable-identity.md) for more information about
+anonymous, one-time, and short-lived accounts.
 
 ## The Take Away
 
-Full Username can help give users continuity and trust in who they're talking
-to.
+Persistent identities can help give users continuity and trust in who they're
+talking to. It also encourges healthy competition between clients that
+implement the protocol, as it's more difficult to lock users into
+a specific provider.
 
 ## References & Where to Learn More
 
 - PGP local device storage/contact list
 - Keybase proofs
 - Research papers
+
+## Tags
+
+protocol, identity
