@@ -71,4 +71,4 @@ Network health indicators reassure users and build trust in the stability and re
 
 ## Tags
 
-protocol
+protocol, usability

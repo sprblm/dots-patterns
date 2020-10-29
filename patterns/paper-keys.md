@@ -18,3 +18,7 @@ Paper Keys is a safe backup choice to verify devices
 ## The Take-Away
 
 ## References & Where to Learn More 
+
+## Tags
+
+app, identity

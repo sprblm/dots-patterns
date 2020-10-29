@@ -44,3 +44,7 @@ When your application is heavily enriched by the ability to search and discover 
 Search is possible in a decentralized network, and can provide users better control over which algorithms and filters to use, opening space for private, collaborative, open source, and platform-cooperative recommendation engines that can be run by anybody.
 
 ## **References & Where to Learn More**
+
+## Tags
+
+protocol, archiving

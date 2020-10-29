@@ -17,7 +17,7 @@ particularly memorable, and they are not accessible (literacy, language, bad eye
 
 Encrypted instant messaging services (Signal, Threema, Delta.Chat, Element)
 
-## Why Choose ? 
+## Why Choose QR Code Verifcation? 
 
 When you want to securely verify or transfer information between two peers
 
@@ -36,3 +36,7 @@ BIP39 should be translated into the user's native language.
 
 ## References & Where to Learn More
 https://www.usenix.org/system/files/conference/soups2018/soups2018-vaziripour.pdf
+
+## Tags
+
+app, identity

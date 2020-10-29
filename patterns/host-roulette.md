@@ -58,3 +58,7 @@ test the copy with users to see if they all sound similarly attractive.
 Host Roulette can help you decentralize a network among equal, federated nodes.
 
 ## References & Where to Learn More
+
+## Tags
+
+app
