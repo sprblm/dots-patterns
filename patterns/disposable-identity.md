@@ -8,10 +8,11 @@ with trusted contacts.
 In many centralized applications, users are forced to create an account before
 interacting or creating content. Not only do "mandatory registration" pages
 pose a barrier to adoption, they also create a potential privacy breach and
-safety concern for some users. Certain scenarios and contexts could be
+safety concern for some users. Furthermore, certain scenarios and contexts could be
 dangerous when long-lived identities are required, and can lead to violence and
-harassment.  .
+harassment.  
 
+In a decentralized application, users can more freely create identities. 
 When involving vulnerable populations in your target user base, you need to
 allow users to create and share content with trusted contacts in a way that
 does not expose any identifying information to a third-party. 
@@ -69,4 +70,4 @@ this is much more difficult to implement safely.
 
 ## Tags
 
-app, identity, safety
+app, identity
