@@ -23,7 +23,10 @@ syncronize data to new devices.
 
 Allow the user to see what other devices have access and are rehosting their
 data to the network. Visualize this information in the user interface at
-multiple scales depending on the details necessary per screen. 
+multiple scales depending on the details necessary per screen. You can use this
+in conjunction with [age-indicator](age-indicator.md) to understand how long
+it's been since a device has seen another, helping users understand if their
+data is safely replicated to another device and they can turn off their computer.
 
 ### Examples 
 
@@ -56,8 +59,16 @@ them.
   should automatically tell Bob that she saw John while Bob was offline.  This
   will ensure that users know who has seen the latest information.
 
+- Some protocols by default will not have the ability to acknowledge or verify how much
+  of a dataset has been replicated by particular devices. This is required
+  to make Network Health Indicator more informative and accurate.
+
 ## The Take-Away
 
 Network health indicators reassure users and build trust in the stability and resilience of their data. 
 
 ## References & Where to Learn More 
+
+## Tags
+
+protocol
