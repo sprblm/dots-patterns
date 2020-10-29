@@ -45,3 +45,7 @@ the trusted algorithm they want to use.
 This is more of an opt-in option rather than a catch-all solution for curating feeds. 
 
 ## References and Where to Learn More 
+
+## Tags
+activity
+
