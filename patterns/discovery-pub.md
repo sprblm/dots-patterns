@@ -24,7 +24,7 @@ These considerations can be governed by the protocol or client. For example, the
 - Sonar P2P Search 
 - Fediverse network 
 
-## Why Choose ... ?
+## Why Choose Discovery Pub?
 
 When your application is heavily enriched by the ability to search and discover new content (e.g., social networks).
 
