@@ -28,3 +28,9 @@ We can encourage deletion across the network quite well by using Tombstones.
 
 * It won't always be clear that content won't be deleted immediately from the network. It can take time before the tombstone message is sent to other devices. 
 * Depending on the protocol or library you choose for storage, it may not be possible to delete historical data. In this case, tombstones only 'hide' data from view, rather than delete it from disk. 
+
+## References & Where to Learn More
+
+## Tags
+recency, infrastructure 
+
