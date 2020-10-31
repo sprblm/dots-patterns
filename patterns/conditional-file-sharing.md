@@ -9,14 +9,6 @@ anyone with access to the data can choose to rehost it to others at their
 discresion. Similarly, in federated applications, it's hard to know when and
 how your data is being shared between instances.
 
-This has marked benefits -- it means that the most popular information is more
-resilient to outages and censorship, as users do not depend upon a single
-provider hosting the data, and instead can ask multiple providers (either
-peer-to-peer or federated instances) for the data. 
-
-However, this causes problems for long-term data access -- if data is not
-popular, it can become obsolete or disappear from the network. 
-
 ## The Design Solution 
 
 - Allow users to set **parameters** for what to host. For example, "host until
@@ -24,7 +16,7 @@ popular, it can become obsolete or disappear from the network.
   trying to improve application or protocol performance if there are many
   users on the network.
 - **Create incentives** that encourage hosting less popular content. For example,
-  "Users who share datasets with less than 5 peers get a free gold account."
+  "Users who share datasets with less than 5 peers get a free gold account." See [sharing is caring](sharing-is-caring.md) for more details. 
 
 ### Examples
 
@@ -42,7 +34,7 @@ When there is a large amount of information on the network with varied relevance
   and when, including individual blocks. 
 - Create smart defaults based on the type of information and group dynamics of
   your application, but allow users to modify this easily using sliders and
-  toggles.
+toggles.
 
 ## Potential Problems with Conditional Sharing  
 

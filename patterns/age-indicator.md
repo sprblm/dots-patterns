@@ -30,6 +30,8 @@ Trello’s Card Aging
 - During the sync, prioritizing offline and old content in the network is
   recommended. In addition, make sure context is always clear so that it won't
   affect readers' perception. 
+- Use Age Indicator in combination with a [network health
+  indicator](network-health-indicator.md) to give advanced users more fine-grained detail.
 
 ## Potential Problems with Age Indicator
 
