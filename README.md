@@ -8,11 +8,11 @@ This is the work-in-progress library of patterns to support the design and devel
 
 ## Contributing
 
-We are actively seeking more input and expertise to advance existing patterns we've already released in this repository. 
+This pattern library would not exist without YOUR contributions. Please feel free to open an issue or pull request to start a discussion or suggest changes to any of these patterns -- or add a new one! We are actively seeking more input and expertise to advance existing patterns we've already released in this repository. 
 
 If you'd like to contribute to an existing pattern or propose a new pattern, please feel free to open a pull request or [open an issue](https://github.com/simplysecure/dots-patterns/issues/new/choose). 
 
-Maintainers will be prompt in responding to inquiries and usually respond relatively quickly!
+Stay up to date by watching this repository. Maintainers will be prompt in responding to inquiries!
 
 
 ## Governance
