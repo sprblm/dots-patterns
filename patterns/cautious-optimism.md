@@ -1,3 +1,11 @@
+---
+layout: pattern
+title: Cautious Optimism
+tags:
+  - pattern
+  - protocol
+---
+
 ## The Design Problem
 
 In a centralized world, the trust model is simple: all participants have to
@@ -49,10 +57,10 @@ revoked at any moment, and is usually tied to actual behavior.
 
 - Cautious optimism is still optimism. Plenty of bad actors could already benefit
   from being trusted once — especially if it's easy to create new disposable identities
-  on the network. This strategy is only going to be useful if bad actors can be permanently removed.  
+  on the network. This strategy is only going to be useful if bad actors can be permanently removed.
 - Tit for tat risks punishing those that are new and unfamiliar with the platform. Make sure this
   policy is transparently communicated up-front.
-- Justice may not always come in the form of punishment (e.g. blocking users), also 
+- Justice may not always come in the form of punishment (e.g. blocking users), also
   consider what transformative justice might look like for your community.
 
 ## The Take Away
@@ -63,7 +71,3 @@ bad behavior.
 ## References & Where to Learn More
 
 The "tit for tat" strategy
-
-## Tags
-
-protocol

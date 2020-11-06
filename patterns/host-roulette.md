@@ -1,3 +1,11 @@
+---
+layout: pattern
+title: Host Roulette
+tags:
+  - pattern
+  - app
+---
+
 ## The Design Problem
 
 In a centralized world, onboarding users to a service doesn't involve too many
@@ -40,7 +48,7 @@ Nextcloud
 
 - Make sure you indicate that the host was randomly chosen, e.g. write "choose
   a different host" next to it, and visualizing the next randomly assigned host
-in a similar fashion. Think about animating this, too.
+  in a similar fashion. Think about animating this, too.
 - Always offer users their own choice by making the choice editable (choose
   from list, for example).
 
@@ -58,7 +66,3 @@ test the copy with users to see if they all sound similarly attractive.
 Host Roulette can help you decentralize a network among equal, federated nodes.
 
 ## References & Where to Learn More
-
-## Tags
-
-app
