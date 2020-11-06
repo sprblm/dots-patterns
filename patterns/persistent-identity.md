@@ -1,10 +1,10 @@
 ---
-layout: pattern
 title: Persistent Identity
 tags:
   - pattern
   - protocol
   - identity
+layout: pattern
 ---
 
 ## The Design Problem

@@ -1,10 +1,10 @@
 ---
-layout: pattern
 title: Discovery Pub
 tags:
   - pattern
   - protocol
   - archiving
+layout: pattern
 ---
 
 ## The Design Problem

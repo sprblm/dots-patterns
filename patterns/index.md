@@ -1,6 +1,6 @@
 ---
-layout: pattern-index.njk
 title: Patterns
+layout: pattern-index.njk
 ---
 
 These are patterns for decentralised software.

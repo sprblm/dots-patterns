@@ -1,9 +1,9 @@
 ---
-layout: pattern
 title: Cautious Optimism
 tags:
   - pattern
   - protocol
+layout: pattern
 ---
 
 ## The Design Problem

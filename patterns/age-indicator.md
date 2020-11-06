@@ -1,8 +1,8 @@
 ---
-layout: pattern
 title: Age Indicator
 tags:
   - pattern
+layout: pattern
 ---
 
 ## The Design Problem

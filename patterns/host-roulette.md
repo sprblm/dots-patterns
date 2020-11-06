@@ -1,9 +1,9 @@
 ---
-layout: pattern
 title: Host Roulette
 tags:
   - pattern
   - app
+layout: pattern
 ---
 
 ## The Design Problem

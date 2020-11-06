@@ -1,5 +1,4 @@
 ---
-layout: pattern
 title: Network Health Indicator
 tags:
   - pattern
@@ -8,6 +7,7 @@ tags:
   - resillience
   - recency
   - presence
+layout: pattern
 ---
 
 ## The Design Problem

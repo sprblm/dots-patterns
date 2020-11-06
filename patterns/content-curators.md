@@ -1,9 +1,9 @@
 ---
-layout: pattern
 title: Content Curators
 tags:
   - pattern
   - activity
+layout: pattern
 ---
 
 ## The Design Problem

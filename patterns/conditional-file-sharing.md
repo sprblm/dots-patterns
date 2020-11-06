@@ -1,10 +1,10 @@
 ---
-layout: pattern
 title: Conditional File Sharing
 tags:
   - pattern
   - resilience
   - app
+layout: pattern
 ---
 
 ## The Design Problem

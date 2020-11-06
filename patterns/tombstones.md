@@ -1,10 +1,10 @@
 ---
-layout: pattern
 title: Tombstones
 tags:
   - pattern
   - recency
   - infrastructure
+layout: pattern
 ---
 
 ## The Design Problem

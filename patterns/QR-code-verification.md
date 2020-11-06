@@ -1,10 +1,10 @@
 ---
-layout: pattern
 title: QR Code Verification
 tags:
   - pattern
   - app
   - identity
+layout: pattern
 ---
 
 ## The Design Problem
