@@ -42,6 +42,7 @@ their IP address, city, country, provider name (e.g., URL), and latency.
 - Holochain
 - Cobox
 - Syncthing
+- Tor
 
 ## Why Choose Physical Beacon? 
 
