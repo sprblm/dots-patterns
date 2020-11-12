@@ -33,7 +33,7 @@ when clicked on, your application will automatically open.
 speaking the same enchanted phrase at the same time, and causing a mystical
 connection to pop into existence between them. The wizards then throw books
 into the wormhole and they fall out the other side. Transferring files securely
-should be that easy." - [Read more about Magic Wormhole's whisper
+should be that easy."* - [Read more about Magic Wormhole's whisper
 links](https://magic-wormhole.readthedocs.io/en/latest/welcome.html#motivation)
 - Jitsi: *"Then there’s the matter of choosing the name. If you start a meeting with the name “Test”, “Yoga” or “FamilyMeeting” for example, chances of having some random uninvited people joining are very, very high. How does one pick a good room name then? Our random meeting name generator is a great start. It offers names that are easy to remember and read out loud on a phone call, and come from a set of over a trillion possible combinations. Picking out one of the auto-generated names is therefore quite safe."* [Read more about Jitsi's whisper links](https://jitsi.org/security/)
 - Cabal
