@@ -20,7 +20,7 @@ When exporting data, such as keys or backups, from the application, ensure that 
 - .docx vs .pdf
 - Mapeo
 - Cobox
-- Deltachat
+- Delta Chat
 
 ## Why Choose Standards Marker? 
 
