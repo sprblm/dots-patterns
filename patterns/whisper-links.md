@@ -58,8 +58,14 @@ Consider only allowing a certain number of failed attempts to protect against sp
 Use longer lengths for higher security use cases and shorter lengths for
 links intended to be publicly-accessible. The longer the code, the less likely
 it is that an attacker could randomly guess the whisper link and connect to
-a computer they were not authorized. However, longer links may be more
-difficult to copy and remember. 
+an unauthorized computer. However, longer links may be more difficult to copy
+and remember. 
+
+When users are able to choose their own whisper links, it's possible they will
+choose names that are easy to guess. Consider implementing a "bad meeting name
+detector" which tells users when their link could be hijacked by an suspicious
+third-party attacker.
+
 
 ## The Take-Away
 
