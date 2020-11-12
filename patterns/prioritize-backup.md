@@ -13,7 +13,7 @@ layout: pattern
 
 In a centralized application, it is assumed that the owner will prioritize backing up all your data. If there was some natural disaster at one of Google's data centers, for example, they have a variety of backups of your data in various locations around the world. 
 
-In a decentralized application, we have no guarantee that data will be replicated to other locations. In fact, for some use cases, this user agency and control over who has access to their data is a feature, not a bug. But if users expect the same level of archiving and long-term storage across the world's data centers, your app needs to provide timely information about syncronization status and availability, as well as any accompanying security concerns.
+In a decentralized application, we have no guarantee that data will be replicated to other locations. In fact, for some use cases, this user agency and control over who has access to their data is a feature, not a bug. But if users expect archiving and long-term storage across the world's data centers, your app needs to provide timely information about syncronization status and availability.
 
 ## The Design Solution 
 
@@ -21,6 +21,7 @@ Prioritize backing up all data in multiple locations, ideally across the world. 
 
 ### Examples 
 
+- Dropbox app (checkmarks)
 - IPFS
 - Matrix
 
