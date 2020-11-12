@@ -4,6 +4,7 @@ tags:
   - pattern
   - app
   - sharing
+  - peer-to-peer
 layout: pattern
 ---
 
@@ -57,6 +58,7 @@ difficult to copy and remember.
 
 ## The Take-Away
 
-Whisper Links
+Whisper Links make it easy to share information quickly between two trusted users.
 
 ## References & Where to Learn More 
+
