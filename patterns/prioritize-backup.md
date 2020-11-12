@@ -5,6 +5,7 @@ tags:
   - app
   - sync
   - archiving
+  - status
 layout: pattern
 ---
 
@@ -12,11 +13,11 @@ layout: pattern
 
 In a centralized application, it is assumed that the owner will prioritize backing up all your data. If there was some natural disaster at one of Google's data centers, for example, they have a variety of backups of your data in various locations around the world. 
 
-In a decentralized application, we have no guarantee that data will be replicated to other locations. In fact, for some use cases, this lack of resilliency is a feature, not a bug. But if users expect the same level of archiving and long-term storage as Google, we need to have a solution for them.
+In a decentralized application, we have no guarantee that data will be replicated to other locations. In fact, for some use cases, this user agency and control over who has access to their data is a feature, not a bug. But if users expect the same level of archiving and long-term storage across the world's data centers, your app needs to provide timely information about syncronization status and availability, as well as any accompanying security concerns.
 
 ## The Design Solution 
 
-Prioritize backing up all data in multiple locations, ideally across the world. Tell the user when data has been syncronized to long-term storage locations. Pair this with [Network Health Indicator](network-health-indicator.md) for more fine-grained information about where data is syncronized.
+Prioritize backing up all data in multiple locations, ideally across the world. Tell the user when data has been syncronized to long-term storage locations. Pair this with [Network Health Indicator](network-health-indicator.md) for more fine-grained information about where data is syncronized. 
 
 ### Examples 
 
