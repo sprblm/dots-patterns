@@ -1,3 +1,12 @@
+---
+title: Persistent Identity
+tags:
+  - pattern
+  - protocol
+  - identity
+layout: pattern
+---
+
 ## The Design Problem
 
 A good design practice is to display extra information that can be used to
@@ -37,13 +46,13 @@ Matrix (p2p beta)
 
 - Users need to have strict control over when and where their id is shared.
   Never automatically share this id on a public network or discovery service
-unless users explicitly opt-in to publicly sharing this id, as it could be used
-nefariously by 3rd parties to contact a user without their consent.
+  unless users explicitly opt-in to publicly sharing this id, as it could be used
+  nefariously by 3rd parties to contact a user without their consent.
 - Make sure that the same id is not reused across usernames that are intended
   to be separate (e.g., two users on the same device should have two different
-ids).
+  ids).
 
-## Potential Problems with Persistent Identity 
+## Potential Problems with Persistent Identity
 
 By assigning an id to a particular account, it can make it more difficult to
 create entirely anonymous accounts. For example, if a 3rd-party finds the id
@@ -65,7 +74,3 @@ a specific provider.
 - PGP local device storage/contact list
 - Keybase proofs
 - Research papers
-
-## Tags
-
-protocol, identity
