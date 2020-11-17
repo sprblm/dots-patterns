@@ -54,3 +54,5 @@ When there is a large amount of information on the network with varied relevance
 Conditional sharing helps users collectively keep data online when it needs to be without a central coordinator.
 
 ## References and Where to Learn More
+
+Integrating the data availability layer (p2p redundant hosting) with tracking where data is being shared can provide insight into how data is being used by peers. See [network health indicators](patterns/network-health-indicator.md) for more.

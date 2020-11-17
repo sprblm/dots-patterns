@@ -48,8 +48,10 @@ data is safely replicated to another device and they can turn off their computer
 
 ## Why Choose Network Heath Indicator?
 
-When users are trusting your application with storing data that is important to
-them.
+- Confirm that shared data remains widely available
+- Confirm that hosts supply data for a long time
+- Confirm that hosts do _not_ continue providing files after a deletion request
+- Identify peers with similar interests
 
 ## Best Practice: How to Implement Network Health Indicator
 
@@ -75,8 +77,22 @@ them.
   of a dataset has been replicated by particular devices. This is required
   to make Network Health Indicator more informative and accurate.
 
+- Network Health Indicators may be unreliable in offline-first or sneakernet networks,
+  where peers are online and synchronizing data infrequently, and disconnect from the
+  network for large stretches of time. Implementing indicators in these environments
+  may require tracking detailed network health history rather than continued uptime.
+  Alternatively, utilize a notification protocol, such that peers notify one another
+  when they are connected and available, rather than nodes polling all peers
+  periodically to discover availability.
+
 ## The Take-Away
 
 Network health indicators reassure users and build trust in the stability and resilience of their data.
 
 ## References & Where to Learn More
+
+Network health indicators overlap with reputation and trust management, in that hosting data for a long period of time can be used to gauge the reliability of a peer. See [cautious optimism](patterns/cautious-optimism.md) and [conditional file sharing](patterns/conditional-file-sharing.md). There are potential applications related to preventing DDoS and Sybil attacks.
+
+Network [heartbeats](https://en.wikipedia.org/wiki/Heartbeat_(computing)) confirm _lack of data availability_, a component of [tombstones](patterns/tombstones.md).
+
+Tracking peers that re-host content can be used for social peer discovery, because someone mirroring files on an obscure topic likely shares that obscure interest.
