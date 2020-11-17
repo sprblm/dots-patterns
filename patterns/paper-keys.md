@@ -1,5 +1,7 @@
 ## The Design Problem 
 
+
+
 ## The Design Solution 
 
 ### Examples 
@@ -19,6 +21,4 @@ Paper Keys is a safe backup choice to verify devices
 
 ## References & Where to Learn More 
 
-## Tags
-
-app, identity
+Projects by IF has outlined a similar design pattern called [Recovery Codes](https://catalogue.projectsbyif.com/patterns/recovery-codes/).
