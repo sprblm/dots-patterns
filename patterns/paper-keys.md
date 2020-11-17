@@ -1,3 +1,13 @@
+---
+title: Paper Keys
+tags:
+  - pattern
+  - app
+  - identity
+  - recovery
+layout: pattern
+---
+
 ## The Design Problem 
 
 
