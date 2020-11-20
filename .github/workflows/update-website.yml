@@ -11,9 +11,13 @@ jobs:
     name: Dispatch update
     runs-on: ubuntu-latest
     steps:
-      - run: |
+      - name: Send request
+        env:
+          user: ${{ secrets.PAT_DOTS_WEBSITE_USER }}
+          pass: ${{ secrets.PAT_DOTS_WEBSITE }}
+      run: |
         curl -XPOST \
-          -u "${{ secrets.PAT_DOTS_WEBSITE_USER }}:${{ secrets.PAT_DOTS_WEBSITE }}" \
+          -u "$user:$pass" \
           -H "Accept: application/vnd.github.everest-preview+json" \
           -H "Content-Type: application/json" \
           https://api.github.com/repos/simplysecure/dots-website/actions/workflows/update-patterns.yaml/dispatches \
