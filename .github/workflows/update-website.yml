@@ -1,0 +1,23 @@
+name: Update dots-website
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  dispatch:
+    name: Dispatch update
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send request
+        env:
+          user: ${{ secrets.PAT_DOTS_WEBSITE_USER }}
+          pass: ${{ secrets.PAT_DOTS_WEBSITE }}
+        run: |
+          curl -XPOST \
+            -u "$user:$pass" \
+            -H "Accept: application/vnd.github.everest-preview+json" \
+            -H "Content-Type: application/json" \
+            https://api.github.com/repos/simplysecure/dots-website/actions/workflows/3742993/dispatches \
+            --data '{"ref": "develop"}'
