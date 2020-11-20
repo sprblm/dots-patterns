@@ -21,4 +21,4 @@ jobs:
             -H "Accept: application/vnd.github.everest-preview+json" \
             -H "Content-Type: application/json" \
             https://api.github.com/repos/simplysecure/dots-website/actions/workflows/3742993/dispatches \
-            --data '{"ref": "master"}'
+            --data '{"ref": "develop"}'
