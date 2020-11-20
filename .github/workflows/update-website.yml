@@ -15,10 +15,10 @@ jobs:
         env:
           user: ${{ secrets.PAT_DOTS_WEBSITE_USER }}
           pass: ${{ secrets.PAT_DOTS_WEBSITE }}
-      run: |
-        curl -XPOST \
-          -u "$user:$pass" \
-          -H "Accept: application/vnd.github.everest-preview+json" \
-          -H "Content-Type: application/json" \
-          https://api.github.com/repos/simplysecure/dots-website/actions/workflows/update-patterns.yaml/dispatches \
-          --data '{"ref": "master"}'
+        run: |
+          curl -XPOST \
+            -u "$user:$pass" \
+            -H "Accept: application/vnd.github.everest-preview+json" \
+            -H "Content-Type: application/json" \
+            https://api.github.com/repos/simplysecure/dots-website/actions/workflows/update-patterns.yaml/dispatches \
+            --data '{"ref": "master"}'
