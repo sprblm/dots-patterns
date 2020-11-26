@@ -30,13 +30,14 @@ codes with the device's camera.
 
 ### Examples 
 
-- Disk encryption keys, (iOS)
+- Disk encryption recovery keys (Apple)
 - 2FA backup codes, (GitHub, Lastpass)
 - [Keybase](https://keybase.io/blog/keybase-new-key-model)
+- [Delta Chat](https://deltachat) burner account codes.
 
 ## Why Choose Paper Keys? 
 
-Paper Keys is a safe backup choice to verify information. 
+Paper Keys is a safe and accessible method to verify, share, or backup information. 
 
 ## Best Practice: How to Implement Paper Keys
 
