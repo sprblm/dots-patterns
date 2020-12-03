@@ -2,7 +2,7 @@
 
 Decentralized technologies enable alternative applications that challenge the traditional models: where government and corporate control are causing harm, decentralized technologies have the potential to bring about autonomy, resilience, and equity.
 
-One of the missing aspects are tools that developers and designers can use to understand how to build applications.  Designers need new patterns and approaches for driving the development of decentralized protocols and applications.
+One of the missing pieces for mass adoption are resources to help teams build decentralized applications.  Designers need new patterns and approaches for driving the development of decentralized protocols and applications.
 
 This is the work-in-progress library of patterns to support the design and development of better user-facing applications that are backed by decentralized architecture.
 
