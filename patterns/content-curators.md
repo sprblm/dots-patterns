@@ -1,4 +1,12 @@
-## The Design Problem 
+---
+title: Content Curators
+tags:
+  - pattern
+  - activity
+layout: pattern
+---
+
+## The Design Problem
 
 In a decentralized social network, people cannot (or should not) rely on
 centralized algorithms to view their feed. Socila network providers struggle to
@@ -6,46 +14,42 @@ decide between displaying everything and allowing users to choose certain
 filter options. This requires a lot of overhead in managing user feeds, and
 restricts user choice in what they are able to see.
 
-## The Design Solution 
+## The Design Solution
 
 Users can pick third-party organizations, providers, or services to curate
 their content feed. Make it easy for developers to write programs that provide
 curation for social network feeds. Allow users to go their settings and choose
 the trusted algorithm they want to use.
 
-### Examples 
+### Examples
 
-- Twitter lists 
-- Are.na 
-- Mastodon 'Who's on this instance' 
+- Twitter lists
+- Are.na
+- Mastodon 'Who's on this instance'
 
-## Why Choose Content Curators? 
+## Why Choose Content Curators?
 
 - When you want to give users choice, flexibility, and control over feeds.
 - When you want to enable an ecosystem of curation algorithms and promote
   a marketplace.
 
-## Best Practices: How to Implement Content Curators? 
+## Best Practices: How to Implement Content Curators?
 
 - Only place trusted and verified third parties in the role of content curators.
 - Allow users to access more interesting and relevant content and therefore
   fosters a stronger and meaningful relationship with their network.
 
-
 ## Potential Problems with Content Curators?
+
 - Keep in mind that not all media and news organisations are necessarily good
   at curating content. In addition, the majority of them might tend to have
-  some certain biases and or positions. 
+  some certain biases and or positions.
 - The level of content relevance and stability will vary and can poorly affect
   the user experience if content curators are not vetted properly or if the
   developer API is difficult to use.
 
 ## The Take-Away
 
-This is more of an opt-in option rather than a catch-all solution for curating feeds. 
+This is more of an opt-in option rather than a catch-all solution for curating feeds.
 
-## References and Where to Learn More 
-
-## Tags
-activity
-
+## References and Where to Learn More
