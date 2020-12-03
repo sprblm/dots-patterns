@@ -39,4 +39,4 @@ Sponsors support this project by contributing $100 a month or more. [Become a sp
 
 ## License
 
-Work in progress; remains unlicensed for now.
+All design patterns are licensed CC-BY
