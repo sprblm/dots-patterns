@@ -93,6 +93,6 @@ Network health indicators reassure users and build trust in the stability and re
 
 Network health indicators overlap with reputation and trust management, in that hosting data for a long period of time can be used to gauge the reliability of a peer. See [cautious optimism](patterns/cautious-optimism.md) and [conditional file sharing](patterns/conditional-file-sharing.md). There are potential applications related to preventing DDoS and Sybil attacks.
 
-Network [heartbeats](https://en.wikipedia.org/wiki/Heartbeat_(computing)) confirm _lack of data availability_, a component of [tombstones](patterns/tombstones.md).
+Network [heartbeats](<https://en.wikipedia.org/wiki/Heartbeat_(computing)>) confirm _lack of data availability_, a component of [tombstones](patterns/tombstones.md).
 
 Tracking peers that re-host content can be used for social peer discovery, because someone mirroring files on an obscure topic likely shares that obscure interest.

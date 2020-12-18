@@ -7,22 +7,22 @@ tags:
 layout: pattern
 ---
 
-## The Design Problem 
+## The Design Problem
 
 Decentralized applications prioritize portability. In other words, data is not tied to one centralized location and should be easily moved between installations, devices, or instances. Although beneficial for many use cases, this feature poses usability challenges when exporting and importing data.
 
-## The Design Solution 
+## The Design Solution
 
-When exporting data, such as keys or backups, from the application, ensure that the file has a distinguisable and noticable file extension. You can simply use the name of your application, or some other signifier. 
+When exporting data, such as keys or backups, from the application, ensure that the file has a distinguisable and noticable file extension. You can simply use the name of your application, or some other signifier.
 
-### Examples 
+### Examples
 
 - .docx vs .pdf
 - Mapeo
 - Cobox
 - Delta Chat
 
-## Why Choose Standards Marker? 
+## Why Choose Standards Marker?
 
 When there are sharable or backup files.
 
@@ -34,10 +34,10 @@ When there are sharable or backup files.
 
 ## Potential Problems with Standards Marker
 
-If you're using a common file format, like sql or zip, it won't be immediately obvious. Include in your help desk and documentation a clear description of what your file format contains and how to use it outside of the application.  
+If you're using a common file format, like sql or zip, it won't be immediately obvious. Include in your help desk and documentation a clear description of what your file format contains and how to use it outside of the application.
 
 ## The Take-Away
 
 Standards marker helps users quickly find and open files that are related to your application.
 
-## References & Where to Learn More 
+## References & Where to Learn More
