@@ -15,7 +15,7 @@ jobs:
       - name: Prettify markdown files
         uses: creyD/prettier_action@v3.2
         with:
-          prettier_options: "--write **/*.md"
+          prettier_options: "--write \"**/*.md\""
           commit_message: "Prettify content formatting"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
