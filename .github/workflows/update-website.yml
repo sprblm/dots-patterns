@@ -4,13 +4,23 @@ on:
   push:
     branches:
       - master
+      - prettier-action
 
 jobs:
   dispatch:
     name: Dispatch update
     runs-on: ubuntu-latest
     steps:
-      - name: Send request
+      # All markdown files are reformatted using prettier to prevent
+      - name: Prettify markdown files
+        uses: creyD/prettier_action@v3.2
+        with:
+          prettier_options: "--write **/*.md"
+          commit_message: "Prettify content formatting"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Call update script on dots-website repo
         env:
           user: ${{ secrets.PAT_DOTS_WEBSITE_USER }}
           pass: ${{ secrets.PAT_DOTS_WEBSITE }}
