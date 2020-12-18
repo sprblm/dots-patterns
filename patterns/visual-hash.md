@@ -1,4 +1,4 @@
-## The Design Problem 
+## The Design Problem
 
 Differentiating between users on a social network scales in difficulty with the
 amount of information. To quickly discern the difference between one person and
@@ -9,17 +9,17 @@ using a thumbnail version of the content.
 However, when neither of these are available, it's difficult to tell content or
 users a part quickly.
 
-## The Design Solution 
+## The Design Solution
 
 Generate a placeholder image based upon the hash of the content or the ID of
-the user. 
+the user.
 
-### Examples 
+### Examples
 
-- Cabal 
+- Cabal
 - [Github Identicons](https://github.blog/2013-08-14-identicons/)
 
-## Why Choose Visual Hash? 
+## Why Choose Visual Hash?
 
 When you need a default image to quickly differentiate between two users or peices
 of content.
@@ -38,9 +38,9 @@ visible in a typical user's social network (e.g., 1000 items).
 
 ## The Take-Away
 
-Visual hash is a good default image picker. 
+Visual hash is a good default image picker.
 
-## References & Where to Learn More 
+## References & Where to Learn More
 
 ## Tags
 
