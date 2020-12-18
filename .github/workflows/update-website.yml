@@ -12,10 +12,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # All markdown files are reformatted using prettier to prevent
-      - name: Prettify markdown files
+      - name: Prettify files
         uses: creyD/prettier_action@v3.2
         with:
-          prettier_options: "--write \"**/*.md\""
+          prettier_options: '--write .'
           commit_message: "Prettify content formatting"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
