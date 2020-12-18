@@ -1,13 +1,11 @@
-name: Check and update markdown style
+name: Prettify markdown
 
 on:
-  push:
-    branches:
-      - prettier-action
+  pull_request:
 
 jobs:
   dispatch:
-    name: Dispatch update
+    name: commit fixes
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
