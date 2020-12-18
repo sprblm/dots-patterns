@@ -15,7 +15,7 @@ jobs:
       - name: Prettify files
         uses: creyD/prettier_action@v3.2
         with:
-          prettier_options: '--write .'
+          prettier_options: '--check --loglevel debug .'
           commit_message: "Prettify content formatting"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
