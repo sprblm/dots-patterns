@@ -4,22 +4,12 @@ on:
   push:
     branches:
       - master
-      - prettier-action
 
 jobs:
   dispatch:
     name: Dispatch update
     runs-on: ubuntu-latest
     steps:
-      # All markdown files are reformatted using prettier to prevent
-      - name: Prettify files
-        uses: creyD/prettier_action@v3.2
-        with:
-          prettier_options: '--check --loglevel debug .'
-          commit_message: "Prettify content formatting"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Call update script on dots-website repo
         env:
           user: ${{ secrets.PAT_DOTS_WEBSITE_USER }}
