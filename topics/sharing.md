@@ -1,6 +1,6 @@
 ---
 layout: topic
-title: Agency & Identity
+title: Sharing & Permissions
 tags:
   - topic
 ---

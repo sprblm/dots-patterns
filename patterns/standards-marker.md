@@ -4,6 +4,7 @@ tags:
   - pattern
   - app
   - sharing
+  - files
 layout: pattern
 ---
 

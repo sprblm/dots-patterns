@@ -2,6 +2,7 @@
 title: Age Indicator
 tags:
   - pattern
+  - sync
 layout: pattern
 ---
 

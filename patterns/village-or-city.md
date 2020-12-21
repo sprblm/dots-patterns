@@ -3,7 +3,7 @@ title: Village or City
 tags:
   - pattern
   - app
-  - moderation
+  - curation
   - community
   - social
 layout: pattern

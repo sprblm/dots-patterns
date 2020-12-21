@@ -7,6 +7,7 @@ tags:
   - resillience
   - recency
   - presence
+  - sync
 layout: pattern
 ---
 

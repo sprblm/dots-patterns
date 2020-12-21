@@ -3,8 +3,8 @@ title: Paper Keys
 tags:
   - pattern
   - app
-  - identity
   - recovery
+  - sharing
 layout: pattern
 ---
 

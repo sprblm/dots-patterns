@@ -3,7 +3,7 @@ title: QR Code Verification
 tags:
   - pattern
   - app
-  - identity
+  - sharing
 layout: pattern
 ---
 

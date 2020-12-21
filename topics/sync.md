@@ -1,6 +1,6 @@
 ---
 layout: topic
-title: Agency & Identity
+title: Sync & Status
 tags:
   - topic
 ---
