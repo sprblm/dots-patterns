@@ -4,6 +4,7 @@ tags:
   - pattern
   - app
   - social networks
+  - curation
 layout: pattern
 ---
 

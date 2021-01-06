@@ -5,7 +5,6 @@ tags:
   - app
   - sync
   - archiving
-  - status
 layout: pattern
 ---
 

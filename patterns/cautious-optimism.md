@@ -2,6 +2,7 @@
 title: Cautious Optimism
 tags:
   - pattern
+  - curation
   - protocol
 layout: pattern
 ---

@@ -3,6 +3,7 @@ title: Host Roulette
 tags:
   - pattern
   - app
+  - identity
 layout: pattern
 ---
 

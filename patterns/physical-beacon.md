@@ -1,3 +1,13 @@
+---
+title: Physical Beacon
+tags:
+  - pattern
+  - sync
+  - location
+  - archiving
+layout: pattern
+---
+
 ## The Design Problem
 
 In a centralized world, you must trust that your provider is managing

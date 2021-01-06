@@ -4,6 +4,7 @@ tags:
   - pattern
   - protocol
   - archiving
+  - discovery
 layout: pattern
 ---
 

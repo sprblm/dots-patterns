@@ -4,7 +4,6 @@ tags:
   - pattern
   - app
   - sharing
-  - peer-to-peer
 layout: pattern
 ---
 
