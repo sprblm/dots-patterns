@@ -1,17 +1,19 @@
-## The Design Problem 
+## The Design Problem
 
-## The Design Solution 
+## The Design Solution
 
-### Examples 
+### Examples
 
-## Why Choose Physical Beacon? 
+## Why Choose Physical Beacon?
 
 ## Best Practice: How to Implement Physical Beacon
-- The concept of physical beacon serves as 'always-on nodes'. It is good for grasping the specific aspects of the network for those who might not understand the conceptual aspect of it. 
+
+- The concept of physical beacon serves as 'always-on nodes'. It is good for grasping the specific aspects of the network for those who might not understand the conceptual aspect of it.
 
 ## Potential Problems with Physical Beacon
-- Physical Beacon can be a target for attack surface or a point of failure. 
+
+- Physical Beacon can be a target for attack surface or a point of failure.
 
 ## The Take-Away
 
-## References & Where to Learn More 
+## References & Where to Learn More

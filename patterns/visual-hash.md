@@ -1,12 +1,12 @@
-## The Design Problem 
+## The Design Problem
 
-## The Design Solution 
+## The Design Solution
 
-### Examples 
+### Examples
 
 - https://github.blog/2013-08-14-identicons/
 
-## Why Choose Visual Hash? 
+## Why Choose Visual Hash?
 
 ## Best Practice: How to Implement Visual Hash
 
@@ -14,4 +14,4 @@
 
 ## The Take-Away
 
-## References & Where to Learn More 
+## References & Where to Learn More

@@ -1,8 +1,8 @@
-## The Design Problem 
+## The Design Problem
 
-## The Design Solution 
+## The Design Solution
 
-### Examples 
+### Examples
 
 - https://spideroak.com/
 
@@ -10,10 +10,10 @@
 
 ## Best Practice: How to Implement Time Machine
 
-- Make sure the network can rationalize the multiple branches of activities 
+- Make sure the network can rationalize the multiple branches of activities
 
 ## Potential Problems with Time Machine
 
 ## The Take-Away
 
-## References & Where to Learn More 
+## References & Where to Learn More

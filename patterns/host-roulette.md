@@ -40,7 +40,7 @@ Nextcloud
 
 - Make sure you indicate that the host was randomly chosen, e.g. write "choose
   a different host" next to it, and visualizing the next randomly assigned host
-in a similar fashion. Think about animating this, too.
+  in a similar fashion. Think about animating this, too.
 - Always offer users their own choice by making the choice editable (choose
   from list, for example).
 

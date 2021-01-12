@@ -1,6 +1,6 @@
-## The Design Problem 
+## The Design Problem
 
-In a centralized world, users trust a particular hosting provider with 
+In a centralized world, users trust a particular hosting provider with
 data. It's assumed that the website will always be online, and if it goes down,
 you aren't able to access that data.
 
@@ -11,15 +11,15 @@ This is very similar to how distributed content delivery networks work.
 
 However, in a peer to peer or federated application, each of these servers is
 run by a different entity. It's sometimes unclear how and when these servers
-are online. 
+are online.
 
-## The Design Solution 
+## The Design Solution
 
 Monitor and record device that downloads data. Keep a history of
 the time that data was syncronized for each device, and periodically check on
 these devices to ensure they have the latest copies. You can use this in
 conjunction with [conditional-sharing](conditional-sharing.md) to intelligently
-syncronize data to new devices. 
+syncronize data to new devices.
 
 Allow the user to see what other devices have access and are rehosting their
 data to the network. Visualize this information in the user interface at
@@ -28,20 +28,20 @@ in conjunction with [age-indicator](age-indicator.md) to understand how long
 it's been since a device has seen another, helping users understand if their
 data is safely replicated to another device and they can turn off their computer.
 
-### Examples 
+### Examples
 
 - uTorrent client
 - IPFS daemon
 - Syncthing GUI
 
-## Why Choose Network Heath Indicator? 
+## Why Choose Network Heath Indicator?
 
 When users are trusting your application with storing data that is important to
 them.
 
 ## Best Practice: How to Implement Network Health Indicator
 
-- Allows users to perform self-diagnosis and debug their own network and get updated on the uptime of other devices. 
+- Allows users to perform self-diagnosis and debug their own network and get updated on the uptime of other devices.
 - Provides a variety of different network indicators such as confirmation of uptime, number of active connections, percent downloaded, etc.
 
 ## Potential Problems with Network Health Indicator
@@ -54,9 +54,9 @@ them.
 - Keeping a local history may not be enough to have the full scope of history,
   especially in peer to peer applications. Consider gossiping the data as part
   of the replication protocol. For example, if Bob syncronizes with Sally, and
-  then logs off. Later Sally syncronizes with John, and John logs off.  When Bob
+  then logs off. Later Sally syncronizes with John, and John logs off. When Bob
   logs back on, he will not know that John also has the data. Sally's device
-  should automatically tell Bob that she saw John while Bob was offline.  This
+  should automatically tell Bob that she saw John while Bob was offline. This
   will ensure that users know who has seen the latest information.
 
 - Some protocols by default will not have the ability to acknowledge or verify how much
@@ -65,9 +65,9 @@ them.
 
 ## The Take-Away
 
-Network health indicators reassure users and build trust in the stability and resilience of their data. 
+Network health indicators reassure users and build trust in the stability and resilience of their data.
 
-## References & Where to Learn More 
+## References & Where to Learn More
 
 ## Tags
 
