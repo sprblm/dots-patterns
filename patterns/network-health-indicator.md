@@ -62,8 +62,7 @@ data is safely replicated to another device and they can turn off their computer
 ## Potential Problems with Network Health Indicator
 
 - There can be a lot of information about each device that isn't really useful
-  to all users. Some users will want to see advanced information, like the IP
-  IP address. Consider 'advanced' and 'basic' views that users can toggle on or
+  to all users. Some users will want to see advanced information, like the IP address. Consider 'advanced' and 'basic' views that users can toggle on or
   off depending on what they need from the interface.
 
 - Keeping a local history may not be enough to have the full scope of history,
