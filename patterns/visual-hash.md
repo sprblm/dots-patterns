@@ -21,7 +21,7 @@ the user.
 
 ## Why Choose Visual Hash?
 
-When you need a default image to quickly differentiate between two users or peices
+When you need a default image to quickly differentiate between two users or pieces
 of content.
 
 ## Best Practice: How to Implement Visual Hash
