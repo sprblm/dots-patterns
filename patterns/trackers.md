@@ -17,9 +17,9 @@ These challenges do not exist in centralized platforms: On centralized social ne
 
 ## The Design Solution
 
-Create centralized but redundant "tracker" servers to introduce peers. These trackers have well known addresses so they can be easily found by users, and may even have their addresses hardcoded into client software to aid peer discovery.
+Create centralized "tracker" servers to introduce peers. These trackers have well known addresses (e.g., HTTP or IP addresses) so they can be easily found by users, and may even have their addresses included in client software to aid peer discovery.
 
-Trackers serve as a key/value store, where the "key" is a unique identifier representing content, and the "value" is a list of contact information for introductory peers related to the content. Traditionally this contact information is in the form of an IP address and port number, and may contain additional metadata about the peer's bandwidth and supported functionality. However, the contact information could take a variety of other forms, including onion addresses, public keys, or other content identifiers to indicate related content.
+Trackers are a database of content that is available and the contact information for devices that have that content. Traditionally this contact information is in the form of an IP address and port number, and may contain additional metadata about the peer's bandwidth and supported functionality. However, the contact information could take a variety of other forms, including onion addresses, public keys, or other related content.
 
 ### Examples
 
@@ -45,12 +45,13 @@ Trackers are a simple technique to solve "first introduction" problems in peer-t
 ## Potential Problems with Trackers
 
 - Centralized trackers make surveillance easier and introduce a small number of critical hubs that can be disrupted to prevent new clients from joining a network
-- By default, trackers can read any contact information supplied to them, and so can identify the number of peers interested in a content identifier and their contact information
-    - Mitigate this vulnerability by encrypting the contact information before submitting it to a tracker, and using a derived hash of the encryption key as a tracker content identifier, so interested peers will be able to read the peer contact data
-- Trackers only solve discovery of peers based on a shared content identifier, but do _not_ facilitate discovery of new relevant content identifiers
+- By default, trackers can read any contact information supplied to them, and so can identify the number of peers interested in an identifier and their contact information
+- Mitigate this vulnerability by encrypting the contact information before submitting it to a tracker, and using a derived hash of the encryption key as a tracker identifier, so interested peers will be able to read the peer contact data
+- Trackers only solve discovery of peers based on a shared content, but do _not_ necessarily facilitate discovery of new content.
+- Content identifiers must be shared beforehand, so trackers do not completely solve content discovery.
 
 ## The Take Away
 
-Trackers are a common component of many peer-to-peer networks, and facilitate peer introduction based on a content identifier. Content identifiers must be shared beforehand, so trackers do not completely solve content discovery.
+Trackers are a common component of many peer-to-peer networks, and facilitate peer introduction. 
 
 ## **References & Where to Learn More**
