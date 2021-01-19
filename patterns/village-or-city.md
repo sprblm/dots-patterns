@@ -25,7 +25,7 @@ entering or creating?
 ## The Design Solution
 
 Give users and moderators clear controls on how to grow their communities.
-Utilize interface elements like [social radius slider](social-radius-slider.md)
+Utilize patterns like [social radius slider](social-radius-slider.md)
 and [content curators](content-curators.md) to give fine-grained control over
 social feeds.
 

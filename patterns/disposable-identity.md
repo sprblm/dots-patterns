@@ -14,26 +14,21 @@ layout: pattern
 
 ## The Design Problem
 
-In many centralized applications, users are forced to create an account before
-interacting or creating content. Not only do "mandatory registration" pages
-pose a barrier to adoption, they also create a potential privacy breach and
-safety concern for some users. Furthermore, certain scenarios and contexts could be
-dangerous when long-lived identities are required, and can lead to violence and
-harassment.
-
-In a decentralized application, users can more freely create identities.
-When involving vulnerable populations in your target user base, you need to
-allow users to create and share content with trusted contacts in a way that
-does not expose any identifying information to a third-party.
+In many centralized applications, users are forced to create an identity (i.e.,
+username and password) before interacting or creating content. Not only do
+"mandatory registration" pages pose a barrier to adoption, they also create
+a potential privacy breach and safety concern for some users. Furthermore,
+certain scenarios and contexts could be dangerous when long-lived identities
+are required, and can lead to violence and harassment.
 
 ## The Design Solution
 
 Store as much identifying information as possible on the user's device, and as
 little as possible identifying information on any service. Allow users to
-manually "self-destruct" their identity and all related account information.
+manually "self-destruct" all related identity information.
 
-You can also create an internal timer that deletes the account after a certain
-amount of time. Display this prominently to the user upon account creation.
+You can also create an internal timer that deletes the identity after a certain
+amount of time. Display this prominently to the user upon identity creation.
 
 ### Examples
 
@@ -44,7 +39,7 @@ Discord
 ## Best Practice: How to Implement Disposable Identity
 
 - Identities could be created with limits set up front. For example, "this
-  account will self-destruct after 90 days". Allow the user to change this
+  identity will self-destruct after 90 days". Allow the user to change this
   parameter.
 
 - Some users may want to decide to keep their identities as their permanent
@@ -52,7 +47,7 @@ Discord
   identity](persistent-identity.md) if they want to keep it.
 
 - Consider making disposible identtity very easy to create or even the default
-  account creation action. Allow users to simply scan a QR Code or click a link
+  identity creation action. Allow users to simply scan a QR Code or click a link
   to generate their disposable identity.
 
 ## Potential Problems with Disposable Identity

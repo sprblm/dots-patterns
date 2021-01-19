@@ -9,9 +9,6 @@ layout: pattern
 
 ## The Design Problem
 
-In a centralized application, there is always a server that brokers and transfers
-information between two users.
-
 In a peer-to-peer application, two devices are able to connect their computers
 and share content directly. However, stabilizing that initial connection can be
 challenging.
