@@ -11,11 +11,12 @@ layout: pattern
 ## The Design Problem
 
 When wanting to grant access to a resource in a decentralized system, we can't
-necessarily depend on a trusted single central controller. Instead, we use
-cryptographicly-secure secret passwords, or "keys," that grant access to
-resources. A reosurce could be an account, a group invitation, or a piece of data.
+necessarily depend on a trusted entity. Instead, we use a randomly generated
+list of numbers and letters, commonly called "keys," that grant access to
+resources. A resource could be an account, a group invitation, or a piece of
+data.
 
-These cryptographically-secure keys can be very large, sometimes hundreds of
+These passwords can be very large, sometimes hundreds of
 characters. Because of this, it can be difficult to save or share these keys
 in the physical world.
 

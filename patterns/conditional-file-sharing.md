@@ -39,8 +39,8 @@ When there is a large amount of information on the network with varied relevance
 
 ## Best Practices: How to Implement Conditional Sharing?
 
-- Ensure you use a protocol & library that allows you to control with whom data is shared
-  and when, including individual blocks.
+- Ensure you can control with whom data is shared and when, including
+  individual blocks of data.
 - Create smart defaults based on the type of information and group dynamics of
   your application, but allow users to modify this easily using sliders and
   toggles.

@@ -11,11 +11,10 @@ layout: pattern
 ## The Design Problem
 
 In a centralized world, you must trust that your provider is managing
-access and resiliency in data centers across the world. Hosting giants and
-content delivery networks have made this relatively easy for the vast majority
-of cases. However, the choice of provider (e.g., Cloudflare, Amazon, or
-Google) can dictate the policies and terms of use of data, based on where the
-user lives.
+access and resiliency across the world. Hosting giants have made this
+relatively easy for the vast majority of cases. However, the choice of provider
+(e.g., Cloudflare, Amazon, or Google) can dictate the policies and terms of use
+of data, based on where the user lives.
 
 For example, in Fall 2019, a change in export law required that US companies
 block users connecting from [Syria, Iran, Venezuela, Crimea and
