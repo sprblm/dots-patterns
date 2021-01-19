@@ -1,7 +1,4 @@
-
-
 # Network of Networks (working title)
-
 
 ## The Design Problem
 
