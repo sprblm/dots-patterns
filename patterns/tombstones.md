@@ -40,4 +40,4 @@ We can encourage deletion across the network quite well by using Tombstones.
 
 ## References & Where to Learn More
 
-Network "[heartbeats](https://en.wikipedia.org/wiki/Heartbeat_(computing))" can track which peers with a copy of data continue to share it after a tombstone has been sent. See [network health indicators](patterns/network-health-indicator.md) for more on this approach.
+Network "[heartbeats](<https://en.wikipedia.org/wiki/Heartbeat_(computing)>)" can track which peers with a copy of data continue to share it after a tombstone has been sent. See [network health indicators](patterns/network-health-indicator.md) for more on this approach.
