@@ -1,0 +1,36 @@
+Word,Definition,AKA
+Computer,"Anything with computing power (e.g., mobile phone, laptop, raspberry pi, router)",device
+Data,Zeros and ones stored in a computer.,
+Database,"Software that organizes, manages, and queries data.",
+Information,A representation of data.,
+Access,The ability to read or write data on a computer.,
+Protocol,A set of well-defined rules for how data is sent between computers.,
+Network,Many computers connected by a protocol.,
+Server,A computer that manages access to data in a network.,
+Cloud,Many connected servers.,
+System,A set of computers and software working together as parts of an interconnecting network.,
+Federation,Many connected servers where each server has autonomy over access rules.,
+Replication,When a computer downloads the same data as another computer.,
+Sync,When multiple computers see the same information.,
+Peer to Peer,"Each computer can act as a server for others, without needing a single (central) server.",
+Seed,A computer in a peer to peer network that uploads data to another computer.,"host, pin"
+Leech,A computer in a peer to peer network that downloads data from a seed.,
+Peer,A computer in a peer to peer network that both uploads and downloads data.,node
+Discovery,The process by which one peer is able to make a connection with another peer.,search
+Third party,"A person or group besides the two (i.e., two computers) primarily involved.",
+Distributed Hash Table (DHT),A common data structure used across servers so that peers can discover each other.,
+Gossip,When one computer (A) tells another computer (B) about data it received from a 3rd computer (C) without B and C talking directly.,
+Group,A set of users who share some common data. Anyone can edit.,
+Swarms,A set of peers on a peer to peer network that are all serving the same data.,"backups, peers, hosts"
+Fork,An editable copy.,remixing
+Keypair,A two-part key used in cryptography to provide end-to-end encryption and signature verification.,
+Public key,The part of a keypair that can be used by others to verify a signature.,
+Private key,The part of a keypair that is used to create signatures and should be kept secret.,
+Signed Data,Data with associated cryptographic payload that confirms the creator of the data also possessed the associated private key at the time the data was created.,
+Interoperable,When two systems are able to exchange and make use of information from each other.,
+Identifier,A number or string of characters that does not change and can be used to reference a piece of data or user at any point in time.,
+Content Addressible,A piece of data that can be queried or referenced by what it contains.,
+Hash,A list of characters that uniquely represents a piece of data as long as the same hash function is used.,
+Tree,A data structure.,
+Merkle Tree,A data structure common in peer-to-peer applications that protects and verifies data from tampering.,
+Block,"A small piece of data (amongst many other small pieces of data) with a specified maximum length. A block on it’s own may not be useful or interesting, but many blocks combined may represent more meaningful information.","mute, hide, ban"
