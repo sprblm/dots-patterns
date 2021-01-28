@@ -1,6 +1,6 @@
 ---
 layout: topic
-title: Agency & Identity
+title: Moderation & Curation
 tags:
   - topic
 ---

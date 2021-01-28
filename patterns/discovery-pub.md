@@ -4,12 +4,13 @@ tags:
   - pattern
   - protocol
   - archiving
+  - discovery
 layout: pattern
 ---
 
 ## The Design Problem
 
-In a centralized world, search and discovery within a service doesn't involve too many difficult decisions on the part of the user. When typing into a search box, the user trusts that the service is giving them the results they've asked for. This usually involves algorithms to display information in a way that makes sense to the user — including filtering, ranking, and selecting information intelligently. For most services, user has little-to-no choice on how this search and discovery is executed on their behalf, and if controls are offered, these options are usually buried within profile and platform settings.
+In a centralized world, searching doesn't involve too many difficult decisions on the part of the user. When typing into a search box, the user trusts that the service is giving them the results they've asked for. This usually involves algorithms to display information in a way that makes sense to the user — including filtering, ranking, and selecting information intelligently. For most services, user has little-to-no choice on how this search and discovery is executed on their behalf, and if controls are offered, these options are usually buried within profile and platform settings.
 
 In a decentralized world, discovering new information and users can be problematic for different reasons. Users often have questions like:
 
@@ -18,7 +19,7 @@ In a decentralized world, discovering new information and users can be problemat
 - Who can I ask for help if the search doesn't work as intended?
 - How did this content get in my search, and how can I see more or less of the same?
 
-In a peer-to-peer application, you can only search for what you have downloaded, or what your known peers have downloaded. Similarly, in a federated context, search is only possible through your known fediverse or home instance. In both cases, if the network is very large, this 'decentralized search' begins to cause problems in safety, performance, and usability when dealing with very large networks.
+In a peer-to-peer application, you can only search for what you have downloaded, or what your known peers have downloaded. Similarly, in a federated context, search is only possible through your known server or federated server network. In both cases, if the network is very large, this 'decentralized search' begins to cause problems in safety and performance when searching.
 
 ## The Design Solution
 
@@ -39,7 +40,7 @@ When your application is heavily enriched by the ability to search and discover 
 
 ## Best Practice: How to Implement Discovery Pub
 
-- Allow users and services to create and share 'block' and 'allow' lists of instances, peers, or keywords that they do not want to include in search. First-time users should be able to adopt already well-known filters for abusive, fraudulent, or spam content. This is critical to prevent the 'Welcome to Hell' problem, where first-time users see a bombardment of irrelevant or harmful content.
+- Allow users and services to create and share 'block' and 'allow' lists of instances, peers, or keywords that they do not want to include in search. First-time users should be able to adopt already well-known filters for abusive, fraudulent, or spam content. This is critical to prevent what can be called the "Welcome to Hell" problem, where first-time users see a bombardment of irrelevant or harmful content.
 - Provide the possibilities to curate data and expand one's network while staying local.
 - Algorithmic content is normally more common on mainstream centralized networks than within the decentralized ecosystem so it is important that users obtain a basic understanding of the differences between search that is mediated by federation and search enabled by a central discovery pub.
 

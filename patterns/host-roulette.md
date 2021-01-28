@@ -3,6 +3,7 @@ title: Host Roulette
 tags:
   - pattern
   - app
+  - identity
 layout: pattern
 ---
 
@@ -28,7 +29,7 @@ recommended "host" and not let users research and choose among the many
 options.
 
 But this introduces another special problem: if all users get the same default,
-recommended "host", then that host will become a super node in the networks,
+recommended "host", then that host will become a super server in the networks,
 thus accidentally introducing centralization again.
 
 ## The Design Solution
@@ -63,6 +64,7 @@ test the copy with users to see if they all sound similarly attractive.
 
 ## The Take Away
 
-Host Roulette can help you decentralize a network among equal, federated nodes.
+Host Roulette can help you decentralize a network among equal, federated
+servers.
 
 ## References & Where to Learn More

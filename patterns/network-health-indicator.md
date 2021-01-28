@@ -4,22 +4,20 @@ tags:
   - pattern
   - protocol
   - activity
-  - resillience
-  - recency
   - presence
+  - sync
 layout: pattern
 ---
 
 ## The Design Problem
 
-In a centralized world, users trust a particular hosting provider with
-data. It's assumed that the website will always be online, and if it goes down,
-you aren't able to access that data.
+In a centralized world, users trust a particular server with data. It's assumed
+that the website will always be online, and if it goes down, you aren't able to
+access that data.
 
 In a decentralized world, we're able to increase the resillience of data by
 relying on multiple providers instead of a single provider. This means that if
 for some reason one service loses your data, another provider will have a copy.
-This is very similar to how distributed content delivery networks work.
 
 However, in a peer to peer or federated application, each of these servers is
 run by a different entity. It's sometimes unclear how and when these servers
@@ -61,11 +59,10 @@ data is safely replicated to another device and they can turn off their computer
 ## Potential Problems with Network Health Indicator
 
 - There can be a lot of information about each device that isn't really useful
-  to all users. Some users will want to see advanced information, like the IP
-  IP address. Consider 'advanced' and 'basic' views that users can toggle on or
+  to all users. Some users will want to see advanced information, like the IP address. Consider 'advanced' and 'basic' views that users can toggle on or
   off depending on what they need from the interface.
 
-- Keeping a local history may not be enough to have the full scope of history,
+- Keeping a local database may not be enough to have the full scope of history,
   especially in peer to peer applications. Consider gossiping the data as part
   of the replication protocol. For example, if Bob syncronizes with Sally, and
   then logs off. Later Sally syncronizes with John, and John logs off. When Bob
@@ -77,17 +74,18 @@ data is safely replicated to another device and they can turn off their computer
   of a dataset has been replicated by particular devices. This is required
   to make Network Health Indicator more informative and accurate.
 
-- Network Health Indicators may be unreliable in offline-first or sneakernet networks,
-  where peers are online and synchronizing data infrequently, and disconnect from the
-  network for large stretches of time. Implementing indicators in these environments
-  may require tracking detailed network health history rather than continued uptime.
+- Network Health Indicators may be unreliable in offline (i.e., [sneakernet](https://en.wikipedia.org/wiki/Sneakernet)) networks,
+  where people share data offline using hard drives or other physical methods.
+  This is also true for applications where users may disconnect from the network
+  for large stretches of time. Implementing indicators in these environments may
+  require tracking detailed network health history rather than continued uptime.
   Alternatively, utilize a notification protocol, such that peers notify one another
   when they are connected and available, rather than nodes polling all peers
   periodically to discover availability.
 
 ## The Take-Away
 
-Network health indicators reassure users and build trust in the stability and resilience of their data.
+Network health indicators reassure users and build trust in your application.
 
 ## References & Where to Learn More
 

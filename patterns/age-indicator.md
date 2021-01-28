@@ -2,14 +2,14 @@
 title: Age Indicator
 tags:
   - pattern
+  - sync
 layout: pattern
 ---
 
 ## The Design Problem
 
-In a local-first world, peers may or may not be connected to the network at all
-times, and information left by the users could be out-of-date. When and how is
-dated information is shown on the network?
+In a local-first world, peers may or may not be connected at all
+times, and information left by the users could be out-of-date.
 
 ## The Design Solution
 
@@ -24,27 +24,25 @@ Trello’s Card Aging
 
 ## Why Choose Age Indicator?
 
-- Age indicator shows you information about network participants without taking up too much space.
-- It comes in handy when distinguishing a viral thread in a yet-to-be federated part of the network.
+- Age indicator shows you information about participants without taking up too much space.
+- It comes in handy to distinguish if information is viral or stale.
 
 ## Best Practice: How to Implement Age Indicator
 
-- Age Indicator is most effective when it comes to time sensitive content,
+- Age Indicator is most effective when it comes to time sensitive information,
   like a 'best-before-date' feature. It highlights when something needs to be
-  checked for validity. As such, it enables an assertion of truth as legacy
+  checked for validity. As such, it enables an assertion of truth as 
   information gets referenced over time.
-- During the sync, prioritizing offline and old content in the network is
-  recommended. In addition, make sure context is always clear so that it won't
-  affect readers' perception.
+- Make sure context is always clear.
 - Use Age Indicator in combination with a [network health
   indicator](network-health-indicator.md) to give advanced users more fine-grained detail.
 
 ## Potential Problems with Age Indicator
 
-- **Content vs. Location**. When there are multiple dimensions of aging, it can be difficult to know what
-  is being displayed. Is it when a peer was last seen? The last time this file
-  was updated? Use age indicator coupled with clear visual cues about what has
-  aged.
+- **Dimensions**. When there are multiple dimensions of ways information could
+  age, it can be difficult to know what is being displayed. Is it when a peer
+  was last seen? The last time this file was updated? Use age indicator coupled
+  with clear visual cues about what about that information has aged.
 - **Contrast**. Ensure you pick a color contrast that allows for fading.
 - **Action**. A single visual indication is not enough to accommodate both spectrums of the
   'aging' quality: Is it becoming irrelevant and out-of-date? Or has it become

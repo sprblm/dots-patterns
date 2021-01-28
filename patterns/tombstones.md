@@ -4,6 +4,9 @@ tags:
   - pattern
   - recency
   - infrastructure
+  - curation
+  - moderation
+  - deletion
 layout: pattern
 ---
 
@@ -21,7 +24,8 @@ We can encourage deletion across the network quite well by using Tombstones.
 
 ### Examples
 
-- Mapeo
+- "Delete" as seen in Mapeo
+- "Unpublish" as seen in hackmd
 
 ## How to best implement
 
