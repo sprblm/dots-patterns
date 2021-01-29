@@ -36,7 +36,7 @@ how best to offer this choice to users.
 
 A physical beacon is as an 'always-on node' that operates in a particular
 jurisdiction. In peer-to-peer and federated contexts, there could be many
-physical beacons that are syncronizing and backing up the data on the internet.
+physical beacons that are synchronizing and backing up the data on the internet.
 
 It is good for grasping a concrete aspect of the network for those who might
 not understand the conceptual aspect of it.
@@ -63,7 +63,7 @@ their IP address, city, country, provider name (e.g., URL), and latency.
 - It should be easy to manage active beacons and transfer data from one beacon to another through a user interface.
 - Make an easy "out-of-the-box" setup experience for new physical beacons.
 - Hosting fees to beacon operators can help sustain infrastructure when users
-  do not want to setup and maintain the beacon themselves.
+  do not want to set up and maintain the beacon themselves.
 
 ## Potential Problems with Physical Beacon
 
