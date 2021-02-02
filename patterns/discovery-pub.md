@@ -8,6 +8,7 @@ tags:
   - curation
 related:
   - content-curators
+description: "Define scope and filters for decentralized search, and provide users better control over which algorithms and filters to use."
 layout: pattern
 ---
 
