@@ -1,25 +1,28 @@
 ---
 title: trackers
+category: sync-status
 tags:
   - pattern
   - protocol
+  - p2p
   - infrastructure
+description: "Trackers can facilitate introduction in peer-to-peer networks."
 layout: pattern
 ---
 
 ## The Design Problem
 
-A common problem in peer-to-peer systems is how to "join" a network. Once a user has found peers offering relevant content they can ask those peers for contact information for adjacent peers, and connect to a larger portion of the network - but finding the initial "introduction" peers is a complicated challenge.
+On centralized social networks, users can identify content and peers relevant to their own interests and "follow" or "subscribe" to the content. The platform provides the supporting infrastructure to connect with peers and browse available content.
 
-Even once relevant peers are identified, creating a peer-to-peer network connection between two home networks requires NAT traversal, also referred to as NAT hole punching. This usually involves utilizing a third party to exchange network address and port information to facilitate a direct connection.
+This is not always true in peer-to-peer systems. Once a user found peers offering relevant content, they can ask those peers for contact information for adjacent peers, and connect to a larger portion of the network - but finding the initial "introduction" peers is a complicated challenge.
 
-These challenges do not exist in centralized platforms: On centralized social networks users must identify content and peers relevant to their own interests and "follow" or "subscribe" to the content, but the platform provides the supporting infrastructure to connect with peers and browse available content.
+(Even once relevant peers are identified, creating a peer-to-peer network connection between two home networks requires NAT traversal, also referred to as NAT hole punching. This usually involves utilizing a third party to exchange network address and port information to facilitate a direct connection.)
 
 ## The Design Solution
 
 Create centralized "tracker" servers to introduce peers. These trackers have well known addresses (e.g., HTTP or IP addresses) so they can be easily found by users, and may even have their addresses included in client software to aid peer discovery.
 
-Trackers are a database of content that is available and the contact information for devices that have that content. Traditionally this contact information is in the form of an IP address and port number, and may contain additional metadata about the peer's bandwidth and supported functionality. However, the contact information could take a variety of other forms, including onion addresses, public keys, or other related content.
+Trackers are a database of content that is available and the contact information for devices that have that content. Traditionally, this contact information is in the form of an IP address and port number, and may contain additional metadata about the peer's bandwidth and supported functionality. However, the contact information could take a variety of other forms, including onion addresses, public keys, or other related content.
 
 ### Examples
 
