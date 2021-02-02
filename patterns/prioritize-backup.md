@@ -4,6 +4,9 @@ tags:
   - pattern
   - app
   - sync
+related:
+  - tombstones
+description: "Prioritizing backup is crucial for competing with centralized services that provide long-term storage."
 layout: pattern
 ---
 
@@ -38,7 +41,7 @@ When users depend upon long-term storage of their data.
 
 - Without encryption of contents that are being syncronized across the network, users could be subject to attacks. Be sure to communicate when unencrypted data will be stored and readable by back up services.
 - Prioritize backup can be too technical. Hide advanced metrics and show users simple indicators for cancelled, paused, in progress, completed, and error.
-- It could be difficult to delete data if there are many storage providers or peers on the network. See [Tombstones](tombstones.md) for more information on how to request data removal.
+- It could be difficult to delete data if there are many storage providers or peers on the network.
 
 ## The Take-Away
 
