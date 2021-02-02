@@ -1,37 +1,40 @@
 ---
 title: Village or City
+category: moderation-curation
 tags:
   - pattern
-  - app
   - curation
-  - community
   - social
+related:
+  - cautious-optimism
+  - social-radius-slider
+  - content-curators
+description: "Set clear expectations around the kinds of social interactions you want to see."
 layout: pattern
 ---
 
 ## The Design Problem
 
-First, you have to think about who you're building for and what kind of
-interactions they'll have with others. If it’s more like a village, you'll have
+When building a new platform (e.g., a social network), it is hard to make design decisions about features and workflows that fit a variety of users, use cases, and contexts. Decentralized technologies often want to be "forked" and implemented by many different and vibrant communities. This means that there won't be a unifying way to describe user groups and their needs, and the design process can feel "stuck".
+
+## The Design Solution
+
+Instead of thinking specifically about user groups and their needs, consider the feeling or atmosphere you want to create.
+What kinds of interactions do you want to see? If it’s more like a village, you'll have
 close connections with everyone you talk to. Think of a texting app, or an
 invite-only chat room. If it's more like a city (think Twitter), your users will have more
 interactions with strangers.
 
-Some users will want to be in a village in certain contexts; but some
-communities may want to feel more like cities. The problem then is how do we
-give users clear and ample choice in what kind of community they are
-entering or creating?
+Some users will want to be in a village in certain contexts; but some communities may want to feel more like cities. Making sure your assumptions about village or city is built into your platform will help users understand the kinds of interactions that are possible and appropriate.
 
-## The Design Solution
+If you envision a city-like platform, make posts public and anonymous by default - people are used to random and rude behavior in cities. But if you are building a village-like platform, people will expect posts to be shared within a smaller and safer group.
 
-Give users and moderators clear controls on how to grow their communities.
+This aspect also affects community growth. For example, communities that are invite-only will feel more like villages. The more
+controls you create around who is allowed to issue invites (e.g., only
+moderators/admins or everyone) will further restrict community growth. Give users and moderators clear controls on how to grow their communities.
 Utilize patterns like [social radius slider](social-radius-slider.md)
 and [content curators](content-curators.md) to give fine-grained control over
 social feeds.
-
-Communities that are invite-only will feel more like villages. The more
-controls you create around who is allowed to issue invites (e.g., only
-moderators/admins or everyone) will further restrict community growth.
 
 ### Examples
 
@@ -47,15 +50,11 @@ When you are building an application that relies heavily on social interaction.
 - Guidelines and parameters regarding community size and interactive elements
   must be communicated clearly.
 
-- Make sure that the artifical retrictrions and parameters are visible so that
-  people with the same values can find each other in the same villages or
-  cities.
-
 ## Potential Problems with Village or City
 
 It can cause more cognitive load to have more choices in moderation,
-community interaction, and growth. Create default settings or an in depth
-onboarding flow that helps moderators and users understand what the
+community interaction, and growth. Decide on where you fall on the "Village or City?" spectrum and make consistent design decisions throughout.
+Create default settings or an in depth onboarding flow that helps moderators and users understand what the
 implications are for community openness, public visibility, and invitation rules.
 
 ## The Take-Away
