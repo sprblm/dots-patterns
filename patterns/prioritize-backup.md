@@ -3,7 +3,7 @@ title: Prioritize Backup
 tags:
   - pattern
   - ui
-category: moderation-curation 
+category: moderation-curation
 description: "Prioritizing backup is crucial for competing with centralized services that provide long-term storage."
 layout: pattern
 ---

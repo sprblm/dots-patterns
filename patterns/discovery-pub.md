@@ -1,6 +1,6 @@
 ---
 title: Discovery Pub
-category:  sync-status
+category: sync-status
 tags:
   - pattern
   - protocol
@@ -23,7 +23,7 @@ In a peer-to-peer application, you can only search for what you have downloaded,
 
 ## The Design Solution
 
-Users need to obtain a basic understanding of the differences between search that is mediated by federation and search enabled by a central service. Pair with the [Content Curators](content-curators.md) pattern. 
+Users need to obtain a basic understanding of the differences between search that is mediated by federation and search enabled by a central service. Pair with the [Content Curators](content-curators.md) pattern.
 
 Allow users to opt-in to search and discovery of content. For search, add indicators for scope (e.g., local vs global). For discovery, add indicators for filtering and curation. Allow users to opt-out of having their content searched through (e.g. locally vs globally).
 
@@ -44,7 +44,7 @@ When your application is heavily enriched by the ability to search and discover 
 
 - Allow users and services to create and share 'block' and 'allow' lists of instances, peers, or keywords that they do not want to include in search. First-time users should be able to adopt already well-known filters for abusive, fraudulent, or spam content. This is critical to prevent what can be called the "Welcome to Hell" problem, where first-time users see a bombardment of irrelevant or harmful content.
 - Provide the possibilities to curate data and expand one's network while staying local.
-- If you are using a service for your search algorithm, transparently show the name of the service along with a way to contact those people (e.g., a git repository or website). 
+- If you are using a service for your search algorithm, transparently show the name of the service along with a way to contact those people (e.g., a git repository or website).
 
 ## Potential Problems with Discovery Pub
 

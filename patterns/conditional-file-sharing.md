@@ -3,7 +3,7 @@ title: Conditional File Sharing
 category: moderation-curation
 tags:
   - pattern
-  - ui 
+  - ui
 layout: pattern
 description: "Help users collectively keep data online"
 ---

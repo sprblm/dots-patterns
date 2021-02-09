@@ -51,4 +51,3 @@ visible in a typical user's social network (e.g., 1000 items).
 Visual hash is a good default image picker.
 
 ## References & Where to Learn More
-

@@ -3,9 +3,9 @@ title: Disposable Identity
 category: agency-identity
 tags:
   - pattern
-  - protocol 
+  - protocol
 layout: pattern
-description: 
+description:
 ---
 
 ## Why Choose Disposable Identity?
