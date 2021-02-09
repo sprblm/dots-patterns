@@ -1,10 +1,10 @@
 ---
 title: Standards Marker
+category: sharing-permissions
+description: "Quickly find and open files that are related to your application."
 tags:
   - pattern
-  - app
-  - sharing
-  - files
+  - ui
 layout: pattern
 ---
 

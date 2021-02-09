@@ -2,8 +2,9 @@
 title: QR Code Verification
 tags:
   - pattern
-  - app
-  - sharing
+  - ui 
+category: sharing-permissions
+description: "Securely verify or transfer information between two peers."
 layout: pattern
 ---
 

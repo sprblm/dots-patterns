@@ -1,10 +1,12 @@
 ---
 title: Address
+category: identity-agency
 tags:
   - pattern
-  - identity
-  - federation
+  - ui 
+  - protocol
 layout: pattern
+description: "Users are uniquely identified by their handle and a server name."
 ---
 
 ## The Design Problem

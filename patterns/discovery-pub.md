@@ -1,13 +1,9 @@
 ---
 title: Discovery Pub
+category:  sync-status
 tags:
   - pattern
   - protocol
-  - archiving
-  - discovery
-  - curation
-related:
-  - content-curators
 description: "Define scope and filters for decentralized search, and provide users better control over which algorithms and filters to use."
 layout: pattern
 ---
@@ -27,7 +23,7 @@ In a peer-to-peer application, you can only search for what you have downloaded,
 
 ## The Design Solution
 
-Users need to obtain a basic understanding of the differences between search that is mediated by federation and search enabled by a central discovery pub. 
+Users need to obtain a basic understanding of the differences between search that is mediated by federation and search enabled by a central service. Pair with the [Content Curators](content-curators.md) pattern. 
 
 Allow users to opt-in to search and discovery of content. For search, add indicators for scope (e.g., local vs global). For discovery, add indicators for filtering and curation. Allow users to opt-out of having their content searched through (e.g. locally vs globally).
 

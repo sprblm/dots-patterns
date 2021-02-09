@@ -4,8 +4,6 @@ category: sync-status
 tags:
   - pattern
   - protocol
-  - p2p
-  - infrastructure
 description: "Trackers can facilitate introduction in peer-to-peer networks."
 layout: pattern
 ---

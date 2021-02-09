@@ -1,10 +1,10 @@
 ---
 title: Paper Keys
+category: sharing-permissions
+description: "Accessible verification, backup, and sharing"
 tags:
   - pattern
-  - app
-  - recovery
-  - sharing
+  - ui
 layout: pattern
 ---
 

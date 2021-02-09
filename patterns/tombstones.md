@@ -1,12 +1,10 @@
 ---
 title: Tombstones
+category: moderation-curation
+description: "Protect privacy & safety through networked deletion"
 tags:
   - pattern
-  - recency
-  - infrastructure
-  - curation
-  - moderation
-  - deletion
+  - protocol
 layout: pattern
 ---
 

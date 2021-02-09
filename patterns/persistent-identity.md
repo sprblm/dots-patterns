@@ -1,9 +1,10 @@
 ---
 title: Persistent Identity
+category: identity-agency
 tags:
   - pattern
   - protocol
-  - identity
+description: "Securely move between providers and aliases."
 layout: pattern
 ---
 
