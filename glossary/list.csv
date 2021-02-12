@@ -2,7 +2,7 @@ Word,Definition,AKA
 Information,,
 Computer,"Anything with computing power (e.g., mobile phone, laptop, raspberry pi, router); that is, anything that can store, read, or write zeros and ones.",device
 Data,Zeros and ones stored in a computer, often combining to represent information.,
-Software,A defined process that reads or writes data.,program
+Software,A defined process that reads or writes data.,program,
 Database,"Software that organizes, manages, and queries data.",
 Access,The ability to read or write data on a computer.,
 Protocol,A set of well-defined rules for how data is sent between computers.,
