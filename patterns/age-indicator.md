@@ -1,9 +1,7 @@
 ---
 title: Age Indicator
 tags:
-  - pattern
   - sync
-layout: pattern
 ---
 
 ## The Design Problem

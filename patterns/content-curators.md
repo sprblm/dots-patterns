@@ -1,10 +1,8 @@
 ---
 title: Content Curators
 tags:
-  - pattern
   - curation
   - activity
-layout: pattern
 ---
 
 ## The Design Problem

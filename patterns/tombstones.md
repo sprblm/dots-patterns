@@ -1,13 +1,11 @@
 ---
 title: Tombstones
 tags:
-  - pattern
   - recency
   - infrastructure
   - curation
   - moderation
   - deletion
-layout: pattern
 ---
 
 ## The Design Problem

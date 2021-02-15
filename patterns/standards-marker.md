@@ -1,11 +1,9 @@
 ---
 title: Standards Marker
 tags:
-  - pattern
   - app
   - sharing
   - files
-layout: pattern
 ---
 
 ## The Design Problem

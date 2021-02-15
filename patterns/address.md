@@ -1,10 +1,8 @@
 ---
 title: Address
 tags:
-  - pattern
   - identity
   - federation
-layout: pattern
 ---
 
 ## The Design Problem

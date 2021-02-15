@@ -1,7 +1,6 @@
 ---
 title: Discovery Pub
 tags:
-  - pattern
   - protocol
   - archiving
   - discovery
@@ -9,7 +8,6 @@ tags:
 related:
   - content-curators
 description: "Define scope and filters for decentralized search, and provide users better control over which algorithms and filters to use."
-layout: pattern
 ---
 
 ## The Design Problem

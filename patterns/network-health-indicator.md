@@ -1,12 +1,10 @@
 ---
 title: Network Health Indicator
 tags:
-  - pattern
   - protocol
   - activity
   - presence
   - sync
-layout: pattern
 ---
 
 ## The Design Problem

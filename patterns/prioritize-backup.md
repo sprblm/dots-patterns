@@ -1,13 +1,11 @@
 ---
 title: Prioritize Backup
 tags:
-  - pattern
   - app
   - sync
 related:
   - tombstones
 description: "Prioritizing backup is crucial for competing with centralized services that provide long-term storage."
-layout: pattern
 ---
 
 ## The Design Problem

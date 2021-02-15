@@ -2,7 +2,6 @@
 title: Village or City
 category: moderation-curation
 tags:
-  - pattern
   - curation
   - social
 related:
@@ -10,7 +9,6 @@ related:
   - social-radius-slider
   - content-curators
 description: "Set clear expectations around the kinds of social interactions you want to see."
-layout: pattern
 ---
 
 ## The Design Problem

@@ -1,10 +1,8 @@
 ---
 title: QR Code Verification
 tags:
-  - pattern
   - app
   - sharing
-layout: pattern
 ---
 
 ## The Design Problem

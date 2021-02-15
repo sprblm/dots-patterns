@@ -1,10 +1,8 @@
 ---
 title: Disposable Identity
 tags:
-  - pattern
   - app
   - identity
-layout: pattern
 ---
 
 ## Why Choose Disposable Identity?

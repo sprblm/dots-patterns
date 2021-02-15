@@ -1,11 +1,9 @@
 ---
 title: Social Radius Slider
 tags:
-  - pattern
   - app
   - social networks
   - curation
-layout: pattern
 ---
 
 ## The Design Problem

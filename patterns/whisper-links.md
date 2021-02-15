@@ -1,10 +1,8 @@
 ---
 title: Whisper Links
 tags:
-  - pattern
   - app
   - sharing
-layout: pattern
 ---
 
 ## The Design Problem

@@ -1,11 +1,9 @@
 ---
 title: Paper Keys
 tags:
-  - pattern
   - app
   - recovery
   - sharing
-layout: pattern
 ---
 
 ## The Design Problem

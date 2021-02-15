@@ -1,11 +1,9 @@
 ---
 title: Physical Beacon
 tags:
-  - pattern
   - sync
   - location
   - archiving
-layout: pattern
 ---
 
 ## The Design Problem
