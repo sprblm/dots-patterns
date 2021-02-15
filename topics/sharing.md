@@ -1,8 +1,5 @@
 ---
-layout: topic
 title: Sharing & Permissions
-tags:
-  - topic
 ---
 
 This is a description of the identity topic. It adds context and makes this
