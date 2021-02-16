@@ -1,6 +1,6 @@
 ---
 layout: topic
-title: Identity & Agency 
+title: Identity & Agency
 tags:
   - topic
 ---
