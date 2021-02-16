@@ -1,10 +1,11 @@
 ---
 title: Disposable Identity
+category: agency-identity
 tags:
   - pattern
-  - app
-  - identity
+  - protocol
 layout: pattern
+description:
 ---
 
 ## Why Choose Disposable Identity?

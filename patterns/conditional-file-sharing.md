@@ -1,10 +1,11 @@
 ---
 title: Conditional File Sharing
+category: moderation-curation
 tags:
   - pattern
-  - resilience
-  - app
+  - ui
 layout: pattern
+description: "Help users collectively keep data online"
 ---
 
 ## The Design Problem

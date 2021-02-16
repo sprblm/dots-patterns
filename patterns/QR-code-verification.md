@@ -2,16 +2,17 @@
 title: QR Code Verification
 tags:
   - pattern
-  - app
-  - sharing
+  - ui
+category: sharing-permissions
+description: "Securely verify or transfer information between two peers."
 layout: pattern
 ---
 
 ## The Design Problem
 
-Use QR codes to quickly scan and verify that a device or some information is secure. In a typical centralized application, we trust the person or company operating the website to verify content. A particular profile or piece of content is mediated by this central server. 
+Use QR codes to quickly scan and verify that a device or some information is secure. In a typical centralized application, we trust the person or company operating the website to verify content. A particular profile or piece of content is mediated by this central server.
 
-However, decentralized applications often rely upon very long strings of characters and/or numbers to identify people or a piece of information, especially for secure communication or secret groups. These very long URLS can be difficult to share in some cases. 
+However, decentralized applications often rely upon very long strings of characters and/or numbers to identify people or a piece of information, especially for secure communication or secret groups. These very long URLS can be difficult to share in some cases.
 
 ## The Design Solution
 

@@ -1,10 +1,11 @@
 ---
 title: Content Curators
+category: moderation-curation
 tags:
   - pattern
-  - curation
-  - activity
+  - ui
 layout: pattern
+description: "Choice, flexibility, and control over feeds."
 ---
 
 ## The Design Problem

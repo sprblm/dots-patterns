@@ -1,3 +1,13 @@
+---
+title: Visual Hash
+category: sharing-permissions
+tags:
+  - pattern
+  - ui
+description: "Quickly differentiate between two users or pieces of content."
+layout: pattern
+---
+
 ## The Design Problem
 
 Differentiating between users on a social network scales in difficulty with the
@@ -41,7 +51,3 @@ visible in a typical user's social network (e.g., 1000 items).
 Visual hash is a good default image picker.
 
 ## References & Where to Learn More
-
-## Tags
-
-Social

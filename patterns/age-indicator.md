@@ -1,9 +1,11 @@
 ---
 title: Age Indicator
+category: sync-status
 tags:
   - pattern
-  - sync
+  - ui
 layout: pattern
+description: "Quickly distinguish if information is viral or stale"
 ---
 
 ## The Design Problem
@@ -24,14 +26,13 @@ Trello’s Card Aging
 
 ## Why Choose Age Indicator?
 
-- Age indicator shows you information about participants without taking up too much space.
-- It comes in handy to distinguish if information is viral or stale.
+Age indicator shows you information about participants without taking up too much space. It comes in handy to distinguish if information is viral or stale.
 
 ## Best Practice: How to Implement Age Indicator
 
 - Age Indicator is most effective when it comes to time sensitive information,
   like a 'best-before-date' feature. It highlights when something needs to be
-  checked for validity. As such, it enables an assertion of truth as 
+  checked for validity. As such, it enables an assertion of truth as
   information gets referenced over time.
 - Make sure context is always clear.
 - Use Age Indicator in combination with a [network health
@@ -51,7 +52,7 @@ Trello’s Card Aging
 
 ## The Take-Away
 
-Age indicator is very important when the age of content affects how a user
+Age indicator helps guide users when the age of content affects how a user
 should interact with it.
 
 ## References and Where To Learn More

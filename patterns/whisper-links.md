@@ -1,9 +1,11 @@
 ---
 title: Whisper Links
+category: sharing-permissions
 tags:
   - pattern
-  - app
-  - sharing
+  - ui
+  - protocol
+description: "Share resources quickly between two trusted users."
 layout: pattern
 ---
 

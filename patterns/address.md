@@ -1,10 +1,12 @@
 ---
 title: Address
+category: identity-agency
 tags:
   - pattern
-  - identity
-  - federation
+  - ui
+  - protocol
 layout: pattern
+description: "Users are uniquely identified by their handle and a server name."
 ---
 
 ## The Design Problem
@@ -59,4 +61,3 @@ Identity](persistent-identity.md) for making portability more secure.
 Address can help give users trust in who they're talking to.
 
 ## References & Where to Learn More
-
