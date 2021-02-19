@@ -1,6 +1,6 @@
 ---
 title: Village or City
-category: moderation-curation
+topic: moderation-curation
 tags:
   - ui
 description: "Set clear expectations around the kinds of social interactions you want to see."

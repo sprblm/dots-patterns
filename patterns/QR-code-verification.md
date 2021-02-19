@@ -2,7 +2,7 @@
 title: QR Code Verification
 tags:
   - ui
-category: sharing-permissions
+topic: sharing-permissions
 description: "Securely verify or transfer information between two peers."
 ---
 

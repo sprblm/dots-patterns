@@ -1,6 +1,6 @@
 ---
 title: Address
-category: identity-agency
+topic: identity-agency
 tags:
   - ui
   - protocol

@@ -1,6 +1,6 @@
 ---
 title: Host Roulette
-category: identity-agency
+topic: identity-agency
 description: "Encourage an equal distribution of users per server."
 tags:
   - ui

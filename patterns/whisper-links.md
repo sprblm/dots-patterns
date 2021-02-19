@@ -1,6 +1,6 @@
 ---
 title: Whisper Links
-category: sharing-permissions
+topic: sharing-permissions
 tags:
   - ui
   - protocol

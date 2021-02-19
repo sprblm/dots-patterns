@@ -1,6 +1,6 @@
 ---
 title: Visual Hash
-category: sharing-permissions
+topic: sharing-permissions
 tags:
   - pattern
   - ui

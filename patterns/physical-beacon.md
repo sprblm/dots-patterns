@@ -1,6 +1,6 @@
 ---
 title: Physical Beacon
-category: sync-status
+topic: sync-status
 description: "Control the physical location of data."
 tags:
   - ui

@@ -1,6 +1,6 @@
 ---
 title: Protocol Agnosticism
-category: sync-status
+topic: sync-status
 tags:
   - pattern
   - protocol

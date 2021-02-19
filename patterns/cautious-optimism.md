@@ -1,6 +1,6 @@
 ---
 title: Cautious Optimism
-category: moderation-curation
+topic: moderation-curation
 tags:
   - protocol
 descrpition: "Build opportunities for detecting and reacting to bad behavior"

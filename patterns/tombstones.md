@@ -1,6 +1,6 @@
 ---
 title: Tombstones
-category: moderation-curation
+topic: moderation-curation
 description: "Protect privacy & safety through networked deletion"
 tags:
   - protocol

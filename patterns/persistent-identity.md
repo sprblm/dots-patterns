@@ -1,6 +1,6 @@
 ---
 title: Persistent Identity
-category: identity-agency
+topic: identity-agency
 tags:
   - protocol
 description: "Securely move between providers and aliases."

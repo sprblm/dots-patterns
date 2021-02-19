@@ -1,6 +1,6 @@
 ---
 title: Conditional File Sharing
-category: moderation-curation
+topic: moderation-curation
 tags:
   - ui
 description: "Help users collectively keep data online"

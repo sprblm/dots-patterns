@@ -1,6 +1,6 @@
 ---
 title: Content Curators
-category: moderation-curation
+topic: moderation-curation
 tags:
   - ui
 description: "Choice, flexibility, and control over feeds."
