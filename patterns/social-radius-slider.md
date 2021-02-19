@@ -1,9 +1,9 @@
 ---
 title: Social Radius Slider
+category: moderation-curation
+description: "Control information overload in large networks."
 tags:
-  - app
-  - social networks
-  - curation
+  - ui
 ---
 
 ## The Design Problem

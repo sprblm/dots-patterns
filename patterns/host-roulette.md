@@ -1,8 +1,9 @@
 ---
 title: Host Roulette
+category: identity-agency
+description: "Encourage an equal distribution of users per server."
 tags:
-  - app
-  - identity
+  - ui
 ---
 
 ## The Design Problem

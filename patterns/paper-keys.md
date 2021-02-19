@@ -1,9 +1,9 @@
 ---
 title: Paper Keys
+category: sharing-permissions
+description: "Accessible verification, backup, and sharing"
 tags:
-  - app
-  - recovery
-  - sharing
+  - ui
 ---
 
 ## The Design Problem

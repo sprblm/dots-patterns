@@ -1,9 +1,9 @@
 ---
 title: Standards Marker
+category: sharing-permissions
+description: "Quickly find and open files that are related to your application."
 tags:
-  - app
-  - sharing
-  - files
+  - ui
 ---
 
 ## The Design Problem

@@ -1,9 +1,9 @@
 ---
 title: Physical Beacon
+category: sync-status
+description: "Control the physical location of data."
 tags:
-  - sync
-  - location
-  - archiving
+  - ui
 ---
 
 ## The Design Problem
@@ -15,14 +15,14 @@ relatively easy for the vast majority of cases. However, the choice of provider
 of data, based on where the user lives.
 
 For example, in Fall 2019, a change in export law required that US companies
-block users connecting from [Syria, Iran, Venezuela, Crimea and
-Cuba](https://techcrunch.com/2019/07/29/github-ban-sanctioned-countries).
-Without warning, US companies effectively cut off account access. Companies
-also give data to authorities – for example, [Yahoo! collaborated with
+block users connecting from [certain countries](https://techcrunch.com/2019/07/29/github-ban-sanctioned-countries).
+Without warning, some US companies effectively cut off account access for
+people connecting from these regions. Companies also give data to authorities
+– for example, [Yahoo! collaborated with
 China](https://www.theguardian.com/world/2013/sep/08/chinese-activist-yahoo-email-freed)
-to incriminate political dissidents in 2005. These acts set
-a dangerous precedent, where knowledge can disappear, becoming inaccessible
-permanently, or be shared with third parties without warning. This is a power
+to incriminate political dissidents in 2005. These acts set a dangerous
+precedent, where knowledge can disappear, becoming inaccessible permanently, or
+be shared with third parties without warning. This is a power
 dynamic that creates information security vulnerabilities and is especially
 dangerous for vulnerable populations with sensitive information.
 

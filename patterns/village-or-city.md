@@ -2,12 +2,7 @@
 title: Village or City
 category: moderation-curation
 tags:
-  - curation
-  - social
-related:
-  - cautious-optimism
-  - social-radius-slider
-  - content-curators
+  - ui
 description: "Set clear expectations around the kinds of social interactions you want to see."
 ---
 
@@ -23,7 +18,12 @@ close connections with everyone you talk to. Think of a texting app, or an
 invite-only chat room. If it's more like a city (think Twitter), your users will have more
 interactions with strangers.
 
-Some users will want to be in a village in certain contexts; but some communities may want to feel more like cities. Making sure your assumptions about village or city is built into your platform will help users understand the kinds of interactions that are possible and appropriate.
+Some users will want to be in a village in certain contexts; but some
+communities may want to feel more like cities. Making sure your assumptions
+about village or city is built into your platform will help users understand
+the kinds of interactions that are possible and appropriate. Consider patterns
+like [cautious optimisim](cautious-optimism.md) to allow users to opt-in to
+discovering new users safely.
 
 If you envision a city-like platform, make posts public and anonymous by default - people are used to random and rude behavior in cities. But if you are building a village-like platform, people will expect posts to be shared within a smaller and safer group.
 

@@ -1,8 +1,9 @@
 ---
 title: Conditional File Sharing
+category: moderation-curation
 tags:
-  - resilience
-  - app
+  - ui
+description: "Help users collectively keep data online"
 ---
 
 ## The Design Problem

@@ -1,8 +1,9 @@
 ---
 title: Disposable Identity
+category: agency-identity
 tags:
-  - app
-  - identity
+  - protocol
+description:
 ---
 
 ## Why Choose Disposable Identity?

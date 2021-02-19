@@ -1,8 +1,10 @@
 ---
 title: Whisper Links
+category: sharing-permissions
 tags:
-  - app
-  - sharing
+  - ui
+  - protocol
+description: "Share resources quickly between two trusted users."
 ---
 
 ## The Design Problem
