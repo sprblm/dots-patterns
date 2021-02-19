@@ -1,11 +1,9 @@
 ---
 title: Tombstones
-category: moderation-curation
+topic: moderation-curation
 description: "Protect privacy & safety through networked deletion"
 tags:
-  - pattern
   - protocol
-layout: pattern
 ---
 
 ## The Design Problem

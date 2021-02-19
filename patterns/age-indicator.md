@@ -1,10 +1,8 @@
 ---
 title: Age Indicator
-category: sync-status
+topic: sync-status
 tags:
-  - pattern
   - ui
-layout: pattern
 description: "Quickly distinguish if information is viral or stale"
 ---
 

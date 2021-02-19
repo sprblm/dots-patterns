@@ -4,7 +4,6 @@ about: Request a new pattern to be worked on for the library.
 title: "[request]"
 labels: pattern-request
 assignees: ''
-
 ---
 
 **Is your pattern request related to a problem? Please describe.**

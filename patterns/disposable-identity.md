@@ -1,10 +1,8 @@
 ---
 title: Disposable Identity
-category: agency-identity
+topic: agency-identity
 tags:
-  - pattern
   - protocol
-layout: pattern
 description:
 ---
 

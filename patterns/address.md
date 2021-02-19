@@ -1,11 +1,9 @@
 ---
 title: Address
-category: identity-agency
+topic: identity-agency
 tags:
-  - pattern
   - ui
   - protocol
-layout: pattern
 description: "Users are uniquely identified by their handle and a server name."
 ---
 

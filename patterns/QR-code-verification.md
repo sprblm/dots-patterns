@@ -1,11 +1,9 @@
 ---
 title: QR Code Verification
 tags:
-  - pattern
   - ui
-category: sharing-permissions
+topic: sharing-permissions
 description: "Securely verify or transfer information between two peers."
-layout: pattern
 ---
 
 ## The Design Problem

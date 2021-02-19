@@ -1,10 +1,8 @@
 ---
 title: Content Curators
-category: moderation-curation
+topic: moderation-curation
 tags:
-  - pattern
   - ui
-layout: pattern
 description: "Choice, flexibility, and control over feeds."
 ---
 

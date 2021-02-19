@@ -4,7 +4,6 @@ about: Start an in-depth discussion about a particular pattern or topic.
 title: ""
 labels: pattern-discussion
 assignees: ''
-
 ---
 
 ## Pattern

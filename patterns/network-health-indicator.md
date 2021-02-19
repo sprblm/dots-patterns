@@ -1,12 +1,10 @@
 ---
 title: Network Health Indicator
-category: sync-status
+topic: sync-status
 description: "Build trust through data visualizations."
 tags:
-  - pattern
   - protocol
   - ui
-layout: pattern
 ---
 
 ## The Design Problem

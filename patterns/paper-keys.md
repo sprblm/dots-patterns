@@ -1,11 +1,9 @@
 ---
 title: Paper Keys
-category: sharing-permissions
+topic: sharing-permissions
 description: "Accessible verification, backup, and sharing"
 tags:
-  - pattern
   - ui
-layout: pattern
 ---
 
 ## The Design Problem

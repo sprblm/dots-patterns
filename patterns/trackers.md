@@ -1,11 +1,9 @@
 ---
 title: trackers
-category: sync-status
+topic: sync-status
 tags:
-  - pattern
   - protocol
 description: "Trackers can facilitate introduction in peer-to-peer networks."
-layout: pattern
 ---
 
 ## The Design Problem

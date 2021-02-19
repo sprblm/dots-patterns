@@ -1,11 +1,9 @@
 ---
 title: Village or City
-category: moderation-curation
+topic: moderation-curation
 tags:
-  - pattern
   - ui
 description: "Set clear expectations around the kinds of social interactions you want to see."
-layout: pattern
 ---
 
 ## The Design Problem
