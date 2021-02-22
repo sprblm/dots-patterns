@@ -26,8 +26,6 @@ Give users the option to choose a protocol as their default communication method
 
 - Brave offers a 'New Private Window with Tor' option, that uses the Tor network with Onion addresses instead of HTTPS for browing the web. ([source](https://brave.com/tor-tabs-beta/))
 
-![brave-tor-tabs.png](brave-tor-tabs.png)
-
 ## Why Choose Protocol Agnosticism?
 
 Use Protocol Agnosticism if you are supporting a large user base with varied preferences and requirements.
