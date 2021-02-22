@@ -31,7 +31,7 @@ when clicked on, your application will automatically open.
   should be that easy."_ - [Read more about Magic Wormhole's whisper
   links](https://magic-wormhole.readthedocs.io/en/latest/welcome.html#motivation)
 - Jitsi: _"Then there’s the matter of choosing the name. If you start a meeting with the name “Test”, “Yoga” or “FamilyMeeting” for example, chances of having some random uninvited people joining are very, very high. How does one pick a good room name then? Our random meeting name generator is a great start. It offers names that are easy to remember and read out loud on a phone call, and come from a set of over a trillion possible combinations. Picking out one of the auto-generated names is therefore quite safe."_ [Read more about Jitsi's whisper links](https://jitsi.org/security/)
-- Cabal
+- Briar
 
 ## Why Choose Whisper Links?
 
