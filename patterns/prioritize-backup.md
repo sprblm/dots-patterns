@@ -1,7 +1,7 @@
 ---
 title: Prioritize Backup
 tags:
-  - ui
+  - protocol
 topic: moderation-curation
 description: "Prioritizing backup is crucial for competing with centralized services that provide long-term storage."
 ---
@@ -18,9 +18,8 @@ Prioritize backing up all data in multiple locations, ideally across the world. 
 
 ### Examples
 
-- Dropbox app (checkmarks)
+- Status.im
 - IPFS
-- Matrix
 
 ## Why Choose Prioritize Backup?
 
@@ -28,14 +27,14 @@ When users depend upon long-term storage of their data.
 
 ## Best Practice: How to Implement Prioritize Backup
 
-- Prioritize backup can be more useful for static data.
-- Trust needs to be established among organizations beforehand to create systems that are resilient with good feedback loops.
+- It can be more useful for static data (i.e., data that doesn't change).
+- Trust needs to be established among any partner organizations beforehand to ensure a resilient backup network.
 - Make sure to communicate about the community-owned infrastructure upfront.
 - If possible, encrypt data before backup so that it is not readable by the storage providers.
 
 ## Potential Problems with Prioritize Backup
 
-- Without encryption of contents that are being syncronized across the network, users could be subject to attacks. Be sure to communicate when unencrypted data will be stored and readable by back up services.
+- Without encryption, users could be subject to attacks. Be sure to communicate when unencrypted data will be stored and readable by others.
 - Prioritize backup can be too technical. Hide advanced metrics and show users simple indicators for cancelled, paused, in progress, completed, and error.
 - It could be difficult to delete data if there are many storage providers or peers on the network.
 
