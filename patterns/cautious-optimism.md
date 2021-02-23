@@ -33,9 +33,9 @@ on the context, this could be: sharing (or not sharing) your data for some
 period of time, or on a more social level, sharing with your friends of
 friends.
 
-### Examples
+## Examples
 
-- Regular unchoking in BitTorrent
+- BitTorrent
 - Secure Scuttlebutt
 - Mastodon
 
