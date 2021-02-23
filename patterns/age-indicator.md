@@ -16,7 +16,7 @@ times, and information left by the users could be out-of-date.
 Give a visual indication for the age of a piece of information, for example
 when a peer was last seen. Fading a tag or a card usually works.
 
-### Examples
+## Examples
 
 Trello’s Card Aging
 

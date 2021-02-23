@@ -22,7 +22,7 @@ a phonetically-distinct wordlist.
 Consider using a URI protocol handler link (e.g., myapp://<whisper-link-here>) so that
 when clicked on, your application will automatically open.
 
-### Examples
+## Examples
 
 - Magic Wormhole: _"The notion of a “magic wormhole” comes from the image of two distant wizards
   speaking the same enchanted phrase at the same time, and causing a mystical

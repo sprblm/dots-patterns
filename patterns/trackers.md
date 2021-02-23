@@ -20,7 +20,7 @@ Create centralized "tracker" servers to introduce peers. These trackers have wel
 
 Trackers are a database of content that is available and the contact information for devices that have that content. Traditionally, this contact information is in the form of an IP address and port number, and may contain additional metadata about the peer's bandwidth and supported functionality. However, the contact information could take a variety of other forms, including onion addresses, public keys, or other related content.
 
-### Examples
+## Examples
 
 Trackers are famously used by torrents to introduce peers to content seeds. They are also used to add new peers to distributed hash tables, or similar communication networks like blockchains. Examples include:
 

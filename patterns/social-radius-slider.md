@@ -16,11 +16,9 @@ family. Wanting to proactively manage your feed requires a lot of overhead.
 
 Use a radius to indicate how "big" your circle is today.
 
-### Examples
+## Examples
 
-- Information bubble
-- Google+
-- Secure Scuttlebutt (but hidden internally)
+- Secure Scuttlebutt (at the protocol level)
 
 ## Why Choose Social Radius Slider?
 

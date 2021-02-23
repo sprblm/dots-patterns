@@ -14,7 +14,7 @@ Decentralized applications prioritize portability. In other words, data is not t
 
 When exporting data, such as keys or backups, from the application, ensure that the file has a distinguisable and noticable file extension (e.g., docx or zip). Instead, use the name of your application, or some other name that is unique to your application.
 
-### Examples
+## Examples
 
 - .docx vs .pdf
 - Mapeo

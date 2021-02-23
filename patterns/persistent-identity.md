@@ -28,13 +28,11 @@ name, the `id` does not change, allowing an application to keep an
 up-to-date contact list and make it easier for users to understand if they are
 talking to the same person.
 
-### Examples
+## Examples
 
-PGP (+Keybase)
-
+Keybase
 Various P2P Social Profile Systems (Cabal, SSB, Textile, 3box)
-
-Matrix (p2p beta)
+PGP Keyservers
 
 ## Why Choose Persistent Identity?
 

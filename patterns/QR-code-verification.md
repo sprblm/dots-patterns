@@ -16,7 +16,7 @@ However, decentralized applications often rely upon very long strings of charact
 
 In a decentralized world, QR codes no longer have to link to a centralized shared item. Instead, you can embed information directly in the QR code to share with peers. QR codes can also be exported or printed as an image and sent over a third-party service such as WhatsApp.
 
-### Examples
+## Examples
 
 Encrypted instant messaging services (Signal, Threema, Delta.Chat, Element)
 

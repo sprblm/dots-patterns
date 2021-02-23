@@ -44,7 +44,7 @@ Indicator](network-health-indicator.md) to show which physical beacons are
 currently online. Include concrete information about these locations, such as
 their IP address, city, country, provider name (e.g., URL), and latency.
 
-### Examples
+## Examples
 
 - Holochain
 - Cobox

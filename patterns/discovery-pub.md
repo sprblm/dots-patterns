@@ -27,7 +27,7 @@ Allow users to opt-in to search and discovery of content. For search, add indica
 
 Provide the ability for users to easily configure which servers to search. These considerations can be governed by the protocol or client. For example, the client can be 'fat' (e.g., download everything by default and search it all); 'thin' (e.g., download very little and call out to another server for search); or 'gossipy' (e.g., search only what my direct peers or peers of peers have downloaded).
 
-### Examples
+## Examples
 
 - SSB pubs
 - Mastodon Search

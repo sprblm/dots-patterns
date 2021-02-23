@@ -36,11 +36,11 @@ in conjunction with [age-indicator](age-indicator.md) to understand how long
 it's been since a device has seen another, helping users understand if their
 data is safely replicated to another device and they can turn off their computer.
 
-### Examples
+## Examples
 
-- uTorrent client
-- IPFS daemon
-- Syncthing GUI
+- uTorrent 
+- IPFS 
+- Syncthing 
 
 ## Why Choose Network Heath Indicator?
 

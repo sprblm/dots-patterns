@@ -36,7 +36,7 @@ thus accidentally introducing centralization again.
 The solution here is simple: if there is no reason to choose one hosting
 provider over another, randomly assign new users to a hosting provider.
 
-### Examples
+## Examples
 
 Nextcloud
 
