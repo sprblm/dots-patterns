@@ -28,7 +28,7 @@ often not sufficient to understand who you're talking to.
 
 Users are uniquely identified by their handle and a server name.
 
-### Examples
+## Examples
 
 - E-mail
 - XMPP
