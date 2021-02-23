@@ -20,6 +20,7 @@ Prioritize backing up all data in multiple locations, ideally across the world. 
 
 - Status.im
 - IPFS
+- Aether
 
 ## Why Choose Prioritize Backup?
 
