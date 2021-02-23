@@ -25,7 +25,7 @@ Users need to obtain a basic understanding of the differences between search tha
 
 Allow users to opt-in to search and discovery of content. For search, add indicators for scope (e.g., local vs global). For discovery, add indicators for filtering and curation. Allow users to opt-out of having their content searched through (e.g. locally vs globally).
 
-Provide the ability for users to easily configure which servers to search. These considerations can be governed by the protocol or client. For example, the client can be 'fat' (e.g., download everything by default and search it all); 'thin' (e.g., download very little and call out to another server for search); or 'gossipy' (e.g., search only what my direct peers or peers of peers have downloaded). 
+Provide the ability for users to easily configure which servers to search. These considerations can be governed by the protocol or client. For example, the client can be 'fat' (e.g., download everything by default and search it all); 'thin' (e.g., download very little and call out to another server for search); or 'gossipy' (e.g., search only what my direct peers or peers of peers have downloaded).
 
 ### Examples
 
@@ -46,7 +46,7 @@ When your application is heavily enriched by the ability to search and discover 
 
 ## Potential Problems with Discovery Pub
 
-- This can cause a dependency on particular services, re-centralizing the technical architecture and causing potential failures. To mitigate this, the protocol could allow for any peer to provide the search functions to another peer. 
+- This can cause a dependency on particular services, re-centralizing the technical architecture and causing potential failures. To mitigate this, the protocol could allow for any peer to provide the search functions to another peer.
 - There is still a need to address the privacy concerns regarding search queries and end-to-end encrypted information. For example, in a pure peer-to-peer network, users' search queries might encounter a risk if exposed to a wider network.
 
 ## The Take Away

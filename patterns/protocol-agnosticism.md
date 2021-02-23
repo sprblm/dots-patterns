@@ -20,7 +20,7 @@ Give users the option to choose a protocol as their default communication method
 
 ### Examples
 
-- Email clients require users to choose either POP or IMAP. 
+- Email clients require users to choose either POP or IMAP.
 
 - Adium allows users to select from a variety of different chat applications.
 
