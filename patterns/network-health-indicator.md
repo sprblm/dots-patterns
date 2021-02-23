@@ -38,9 +38,9 @@ data is safely replicated to another device and they can turn off their computer
 
 ## Examples
 
-- uTorrent 
-- IPFS 
-- Syncthing 
+- uTorrent
+- IPFS
+- Syncthing
 
 ## Why Choose Network Heath Indicator?
 
