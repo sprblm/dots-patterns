@@ -29,11 +29,10 @@ manually "self-destruct" all related identity information.
 You can also create an internal timer that deletes the identity after a certain
 amount of time. Display this prominently to the user upon identity creation.
 
-### Examples
+## Examples
 
-Delta.chat
-
-Discord
+- Delta.chat
+- Discord
 
 ## Best Practice: How to Implement Disposable Identity
 
