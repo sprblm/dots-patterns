@@ -30,9 +30,8 @@ codes with the device's camera.
 ### Examples
 
 - Disk encryption recovery keys (Apple)
-- 2FA backup codes, (GitHub, Lastpass)
+- Backup codes (1Password, 2 Factor Authenticators)
 - [Keybase](https://keybase.io/blog/keybase-new-key-model)
-- [Delta Chat](https://deltachat) burner account codes.
 
 ## Why Choose Paper Keys?
 
