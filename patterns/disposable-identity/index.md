@@ -31,8 +31,15 @@ amount of time. Display this prominently to the user upon identity creation.
 
 ## Examples
 
-- Delta.chat
-- Discord
+::: examples
+
+- [![Disposable identity in Delta.chat](disposable-identity-deltachat.png) Delta.chat QR codes create short-lived Email accounts](disposable-identity-deltachat.png)
+
+- [![Disposable identity in Discord](disposable-identity-discord.png) Discord requires only a nickname to get started](disposable-identity-discord.png)
+
+- [![Disposable identity in Cabal](disposable-identity-cabal.png) Cabal random nicknames can be changed later](disposable-identity-cabal.png)
+
+::: examples
 
 ## Best Practice: How to Implement Disposable Identity
 
