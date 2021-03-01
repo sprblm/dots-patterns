@@ -48,7 +48,7 @@ Allow users to create their own whisper links.
 
 Consider only allowing a certain number of failed attempts to protect against spammers and brute-force attacks. See [password-authenticated key agreement](https://en.wikipedia.org/wiki/Password-authenticated_key_agreement) for more implementation details.
 
-This could be used in conjunction with [QR code verification](qr-code-verification) if two users are able to share an image or
+This could be used in conjunction with [[QR code verification]] if two users are able to share an image or
 are in the same physical location.
 
 ## Potential Problems with Whisper Links

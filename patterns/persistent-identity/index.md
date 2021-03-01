@@ -56,7 +56,7 @@ create entirely anonymous accounts. For example, if a 3rd-party finds the id
 secret in the profile on the device's hard drive, they have linked that device
 to that account. To give extra security guarantees, ensure any identifiers are deleted
 completely from devices upon account deletion. See
-[disposable-identity](disposable-identity.md) for more information about
+[[disposable-identity]] for more information about
 anonymous, one-time, and short-lived accounts.
 
 ## The Take Away

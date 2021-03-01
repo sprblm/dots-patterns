@@ -21,7 +21,7 @@ In a peer-to-peer application, you can only search for what you have downloaded,
 
 ## The Design Solution
 
-Users need to obtain a basic understanding of the differences between search that is mediated by federation and search enabled by a central service. Pair with the [Content Curators](content-curators.md) pattern.
+Users need to obtain a basic understanding of the differences between search that is mediated by federation and search enabled by a central service. Pair with the [[Content Curators]] pattern.
 
 Allow users to opt-in to search and discovery of content. For search, add indicators for scope (e.g., local vs global). For discovery, add indicators for filtering and curation. Allow users to opt-out of having their content searched through (e.g. locally vs globally).
 

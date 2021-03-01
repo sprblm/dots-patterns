@@ -39,8 +39,8 @@ physical beacons that are syncronizing and backing up the data on the internet.
 It is good for grasping a concrete aspect of the network for those who might
 not understand the conceptual aspect of it.
 
-Use this in conjunction with [Network Health
-Indicator](network-health-indicator.md) to show which physical beacons are
+Use this in conjunction with [[Network Health
+Indicator]] to show which physical beacons are
 currently online. Include concrete information about these locations, such as
 their IP address, city, country, provider name (e.g., URL), and latency.
 

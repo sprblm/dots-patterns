@@ -24,7 +24,7 @@ how your data is being shared between instances.
   trying to improve application or protocol performance if there are many
   users on the network.
 - **Create incentives** that encourage hosting less popular content. For example,
-  "Users who share datasets with less than 5 peers get a free gold account." See [sharing is caring](sharing-is-caring.md) for more details.
+  "Users who share datasets with less than 5 peers get a free gold account." See [[sharing is caring]] for more details.
 
 ### Examples
 
@@ -54,4 +54,4 @@ Conditional sharing helps users collectively keep data online when it needs to b
 
 ## References and Where to Learn More
 
-Integrating the data availability layer (p2p redundant hosting) with tracking where data is being shared can provide insight into how data is being used by peers. See [network health indicators](patterns/network-health-indicator.md) for more.
+Integrating the data availability layer (p2p redundant hosting) with tracking where data is being shared can provide insight into how data is being used by peers. See [[network health indicator|network health indicators]] for more.

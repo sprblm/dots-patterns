@@ -22,7 +22,7 @@ Some users will want to be in a village in certain contexts; but some
 communities may want to feel more like cities. Making sure your assumptions
 about village or city is built into your platform will help users understand
 the kinds of interactions that are possible and appropriate. Consider patterns
-like [cautious optimisim](cautious-optimism.md) to allow users to opt-in to
+like [[cautious optimisim]] to allow users to opt-in to
 discovering new users safely.
 
 If you envision a city-like platform, make posts public and anonymous by default - people are used to random and rude behavior in cities. But if you are building a village-like platform, people will expect posts to be shared within a smaller and safer group.
@@ -30,8 +30,8 @@ If you envision a city-like platform, make posts public and anonymous by default
 This aspect also affects community growth. For example, communities that are invite-only will feel more like villages. The more
 controls you create around who is allowed to issue invites (e.g., only
 moderators/admins or everyone) will further restrict community growth. Give users and moderators clear controls on how to grow their communities.
-Utilize patterns like [social radius slider](social-radius-slider.md)
-and [content curators](content-curators.md) to give fine-grained control over
+Utilize patterns like [[social radius slider]]
+and [[content curators]] to give fine-grained control over
 social feeds.
 
 ## Examples

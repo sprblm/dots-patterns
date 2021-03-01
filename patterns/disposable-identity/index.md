@@ -41,8 +41,8 @@ amount of time. Display this prominently to the user upon identity creation.
   parameter.
 
 - Some users may want to decide to keep their identities as their permanent
-  one after some time in use. Allow users to upgrade to a [persistent
-  identity](persistent-identity.md) if they want to keep it.
+  one after some time in use. Allow users to upgrade to a [[persistent
+identity]] if they want to keep it.
 
 - Consider making disposible identtity very easy to create or even the default
   identity creation action. Allow users to simply scan a QR Code or click a link
