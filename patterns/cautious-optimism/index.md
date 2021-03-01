@@ -71,4 +71,4 @@ bad behavior.
 
 The "tit for tat" strategy
 
-See [network health indicators](patterns/network-health-indicator.md) for one implementation strategy, tracking how long peers share data to determine whether to share with them in the future
+See [[network health indicator|network health indicators]] for one implementation strategy, tracking how long peers share data to determine whether to share with them in the future

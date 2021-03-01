@@ -23,8 +23,8 @@ in the physical world.
 The user can save or print a file that can be used to gain access to the
 resource. The file itself should be easily human readable and printable.
 
-You can use this in conjunction with the [QR Code
-verification](QR-code-verification.md) pattern to make it easier to import the
+You can use this in conjunction with the [[QR Code
+verification]] pattern to make it easier to import the
 codes with the device's camera.
 
 ### Examples
