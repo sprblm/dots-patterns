@@ -46,9 +46,15 @@ their IP address, city, country, provider name (e.g., URL), and latency.
 
 ## Examples
 
-- Holochain
-- Cobox
-- Syncthing
+::: examples
+
+- [![Physical Beacon in Holo](physical-beacon-holo.png) Holo is a box
+  comparable in size to a home router](physical-beacon-holo.png)
+
+- [![Physical Beacon in Syncthing](physical-beacon-syncthing.png) One of syncthing's primary functions is to add a remote device](physical-beacon-syncthing.png)
+
+::: examples
+
 
 ## Why Choose Physical Beacon?
 
