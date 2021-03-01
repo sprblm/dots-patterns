@@ -20,11 +20,17 @@ Give users the option to choose a protocol as their default communication method
 
 ### Examples
 
-- Email clients require users to choose either POP or IMAP.
 
-- Adium allows users to select from a variety of different chat applications.
+::: examples
 
-- Brave offers a 'New Private Window with Tor' option, that uses the Tor network with Onion addresses instead of HTTPS for browing the web. ([source](https://brave.com/tor-tabs-beta/))
+- [![Email](protocol-agnosticism-email.png) Email clients require users to choose either POP or IMAP.](protocol-agnosticism-email.png)
+
+- [![Adium](protocol-agnosticism-adium.png) Adium allows users to select from a variety of different chat applications.](protocol-agnosticism-adium.png)
+
+- [![Brave](protocol-agnosticism-brave.png) Brave offers a 'New Private Window with Tor' option ](protocol-agnosticism-brave.png)
+
+::: examples
+
 
 ## Why Choose Protocol Agnosticism?
 

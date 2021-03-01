@@ -1,5 +1,5 @@
 ---
-title: Discovery Pub
+title: Discovery Server 
 topic: sync-status
 tags:
   - protocol
@@ -34,17 +34,25 @@ Provide the ability for users to easily configure which servers to search. These
 - Fediverse network
 - Radicle Seeds
 
-## Why Choose Discovery Pub?
+::: examples
+
+- [![Discovery servers in Radicle](discovery-pub-radicle.png) Discovery servers are called 'Seeds' in Radicle](discovery-pub-radicle.png)
+
+- [![Secure Scuttlebutt](discovery-pub-ssb.png) 'Pubs' (as in a bar) in Secure Scuttlebutt](discovery-pub-ssb.png)
+
+::: examples
+
+## Why Choose Discovery Server?
 
 When your application is heavily enriched by the ability to search and discover new content (e.g., social networks).
 
-## Best Practice: How to Implement Discovery Pub
+## Best Practice: How to Implement Discovery Server 
 
 - Provide the possibilities to curate data and expand one's network while staying local.
 - If you are using a service for your search algorithm, transparently show the name of the service along with a way to contact those people (e.g., a git repository or website).
 - Services should provide filters for well-known abusive, fraudulent, or spam content. This is critical to prevent a scenario where first-time users see a bombardment of irrelevant or harmful content.
 
-## Potential Problems with Discovery Pub
+## Potential Problems with Discovery Server
 
 - This can cause a dependency on particular services, re-centralizing the technical architecture and causing potential failures. To mitigate this, the protocol could allow for any peer to provide the search functions to another peer.
 - There is still a need to address the privacy concerns regarding search queries and end-to-end encrypted information. For example, in a pure peer-to-peer network, users' search queries might encounter a risk if exposed to a wider network.

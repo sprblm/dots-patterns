@@ -18,9 +18,10 @@ when a peer was last seen. Fading a tag or a card usually works.
 
 ## Examples
 
-Trello’s Card Aging
 
-![Image of Trello](https://d33v4339jhl8k0.cloudfront.net/docs/assets/545804d8e4b09c5ca72525ce/images/54875c94e4b08bfc37e2ab47/314700)
+::: examples
+
+- [![Age indicator in Trello](age-indicator-trello.png) Trello's Card Aging](age-indicator-trello.png)
 
 ## Why Choose Age Indicator?
 

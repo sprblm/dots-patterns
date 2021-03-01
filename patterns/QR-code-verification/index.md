@@ -18,7 +18,18 @@ In a decentralized world, QR codes no longer have to link to a centralized share
 
 ## Examples
 
-Encrypted instant messaging services (Signal, Threema, Delta.Chat, Element)
+::: examples
+
+- [![QR Codes in Delta.Chat](qr-code-deltachat.png) delta.chat for verfied groups](qr-code-deltachat.png)
+
+- [![QR Codes in Signal](qr-code-signal.png) Signal for verified devices](qr-code-signal.png)
+
+- [![QR Codes in SSB](qr-code-ssb.png) Secure Scuttlebutt for invitations](qr-code-ssb.png)
+
+- [![QR Codes in Threema](qr-code-threema.png) Threema makes QR Code prominent as part of the user id](qr-code-threema.png)
+
+::: examples
+
 
 ## Why Choose QR Code Verifcation?
 
