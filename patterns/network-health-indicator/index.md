@@ -42,6 +42,18 @@ data is safely replicated to another device and they can turn off their computer
 - IPFS
 - Syncthing
 
+
+::: examples
+
+- [![Network health indicator in uTorrent](network-health-indicator-utorrent.png) uTorrent provides a dense overview of network traffic](network-health-indicator-utorrent.png)
+
+- [![Network health indicator in IPFS](network-health-indicator-ipfs.png) IPFS gives it a modern touch](network-health-indicator-ipfs.png)
+
+- [![Network health indicator in Syncthing](network-health-indicator-syncthing.png) Syncthing provides device monitoring & control](network-health-indicator-syncthing.png)
+
+
+::: examples
+
 ## Why Choose Network Heath Indicator?
 
 - Confirm that shared data remains widely available
