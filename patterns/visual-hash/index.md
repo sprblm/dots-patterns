@@ -26,8 +26,13 @@ the user.
 
 ### Examples
 
-- Cabal
-- [Github Identicons](https://github.blog/2013-08-14-identicons/)
+::: examples
+
+- [![Visual hash in Cabal](visual-hash-cabal.png) This is Cabal's visual hash format](visual-hash-cabal.png)
+- [![Visual hash in Cabal](visual-hash-github.png) Notice how Github uses colors](visual-hash-github.png)
+- [![Visual hash in Radicle](visual-hash-radicle.png) Radicle shows how visual hashes don't need to look like QR codes](visual-hash-radicle.png)
+
+::: examples
 
 ## Why Choose Visual Hash?
 
