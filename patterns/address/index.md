@@ -51,8 +51,8 @@ It is often complex for a user to convert their username, account, contact list,
 If the user does decide to move to a new server, the user then needs to take on
 the cumbersome task of notifying all contacts of their new address. Recipients
 would need to trust your new address, without strong proof if it is the same
-person or even the same device. See [Persistent
-Identity](persistent-identity.md) for making portability more secure.
+person or even the same device. See [[Persistent
+Identity]] for making portability more secure.
 
 ## The Take Away
 

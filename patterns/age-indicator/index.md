@@ -33,8 +33,8 @@ Age indicator shows you information about participants without taking up too muc
   checked for validity. As such, it enables an assertion of truth as
   information gets referenced over time.
 - Make sure context is always clear.
-- Use Age Indicator in combination with a [network health
-  indicator](network-health-indicator.md) to give advanced users more fine-grained detail.
+- Use Age Indicator in combination with a [[network health
+indicator]] to give advanced users more fine-grained detail.
 
 ## Potential Problems with Age Indicator
 
