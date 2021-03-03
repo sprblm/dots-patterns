@@ -36,7 +36,6 @@ talking to the same person.
 
 ::: examples
 
-
 ## Why Choose Persistent Identity?
 
 - When you want to enable users to securely move between providers and names

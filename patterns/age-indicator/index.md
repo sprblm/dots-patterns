@@ -23,6 +23,9 @@ when a peer was last seen. Fading a tag or a card usually works.
 
 - [![Age indicator in Trello](age-indicator-trello.png) Trello's Card Aging](age-indicator-trello.png)
 
+::: examples
+
+
 ## Why Choose Age Indicator?
 
 Age indicator shows you information about participants without taking up too much space. It comes in handy to distinguish if information is viral or stale.

@@ -29,11 +29,6 @@ Provide the ability for users to easily configure which servers to search. These
 
 ## Examples
 
-- SSB pubs
-- Mastodon Search
-- Fediverse network
-- Radicle Seeds
-
 ::: examples
 
 - [![Discovery servers in Radicle](discovery-pub-radicle.png) Discovery servers are called 'Seeds' in Radicle](discovery-pub-radicle.png)
