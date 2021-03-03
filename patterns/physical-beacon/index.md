@@ -55,7 +55,6 @@ their IP address, city, country, provider name (e.g., URL), and latency.
 
 ::: examples
 
-
 ## Why Choose Physical Beacon?
 
 - When users want to control the physical location of their data.

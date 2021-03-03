@@ -36,12 +36,6 @@ in conjunction with [[age-indicator]] to understand how long
 it's been since a device has seen another, helping users understand if their
 data is safely replicated to another device and they can turn off their computer.
 
-## Examples
-
-- uTorrent
-- IPFS
-- Syncthing
-
 
 ::: examples
 

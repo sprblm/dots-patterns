@@ -30,7 +30,6 @@ In a decentralized world, QR codes no longer have to link to a centralized share
 
 ::: examples
 
-
 ## Why Choose QR Code Verifcation?
 
 When you want to securely verify or transfer information between two peers.
