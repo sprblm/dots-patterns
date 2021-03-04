@@ -1,5 +1,5 @@
 ---
-title: trackers
+title: Trackers
 topic: sync-status
 tags:
   - protocol
