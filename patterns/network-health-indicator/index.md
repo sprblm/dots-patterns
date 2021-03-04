@@ -36,11 +36,17 @@ in conjunction with [[age-indicator]] to understand how long
 it's been since a device has seen another, helping users understand if their
 data is safely replicated to another device and they can turn off their computer.
 
-### Examples
 
-- uTorrent client
-- IPFS daemon
-- Syncthing GUI
+::: examples
+
+- [![Network health indicator in uTorrent](network-health-indicator-utorrent.png) uTorrent provides a dense overview of network traffic](network-health-indicator-utorrent.png)
+
+- [![Network health indicator in IPFS](network-health-indicator-ipfs.png) IPFS gives it a modern touch](network-health-indicator-ipfs.png)
+
+- [![Network health indicator in Syncthing](network-health-indicator-syncthing.png) Syncthing provides device monitoring & control](network-health-indicator-syncthing.png)
+
+
+::: examples
 
 ## Why Choose Network Heath Indicator?
 

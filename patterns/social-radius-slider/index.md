@@ -16,11 +16,16 @@ family. Wanting to proactively manage your feed requires a lot of overhead.
 
 Use a radius to indicate how "big" your circle is today.
 
-### Examples
+## Examples
 
-- Information bubble
-- Google+
-- Secure Scuttlebutt (but hidden internally)
+::: examples
+
+- [![Social Radius Slider in SSB](social-radius-slider-patchbay.jpg) Patchbay presents choices horizontally](social-radius-slider-patchbay.jpg)
+
+- [![Social Radius Slider in Gather.town](social-radius-slider-gathertown.png) Gathertown radius displayed as a circle](social-radius-slider-gathertown.png)
+
+
+::: examples
 
 ## Why Choose Social Radius Slider?
 

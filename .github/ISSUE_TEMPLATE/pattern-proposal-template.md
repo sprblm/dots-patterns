@@ -10,6 +10,8 @@ assignees: ''
 
 ## The Design Solution
 
+## Examples
+
 ## Why Choose ... ?
 
 ## Best Practice: How to Implement ...

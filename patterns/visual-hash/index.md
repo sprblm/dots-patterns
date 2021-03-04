@@ -24,8 +24,7 @@ users a part quickly.
 Generate an image based upon the hash of the content or the ID of
 the user.
 
-### Examples
-
+## Examples
 ::: examples
 
 - [![Visual hash in Cabal](visual-hash-cabal.png) This is Cabal's visual hash format](visual-hash-cabal.png)

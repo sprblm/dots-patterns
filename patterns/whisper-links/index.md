@@ -22,16 +22,17 @@ a phonetically-distinct wordlist.
 Consider using a URI protocol handler link (e.g., myapp://<whisper-link-here>) so that
 when clicked on, your application will automatically open.
 
-### Examples
+## Examples
 
-- Magic Wormhole: _"The notion of a “magic wormhole” comes from the image of two distant wizards
-  speaking the same enchanted phrase at the same time, and causing a mystical
-  connection to pop into existence between them. The wizards then throw books
-  into the wormhole and they fall out the other side. Transferring files securely
-  should be that easy."_ - [Read more about Magic Wormhole's whisper
-  links](https://magic-wormhole.readthedocs.io/en/latest/welcome.html#motivation)
-- Jitsi: _"Then there’s the matter of choosing the name. If you start a meeting with the name “Test”, “Yoga” or “FamilyMeeting” for example, chances of having some random uninvited people joining are very, very high. How does one pick a good room name then? Our random meeting name generator is a great start. It offers names that are easy to remember and read out loud on a phone call, and come from a set of over a trillion possible combinations. Picking out one of the auto-generated names is therefore quite safe."_ [Read more about Jitsi's whisper links](https://jitsi.org/security/)
-- Briar
+::: examples
+
+- [![Whisper links in Magic Wormhole](whisper-links-magicwormhole.png) Magic Wormhole automatically generates pronouncable phrases](whisper-links-magicwormhole.png)
+
+- [![Whisper links in Jitsi](whisper-links-jitsi.png) Jitsi allows users to choose a phrase](whisper-links-jitsi.png)
+
+- [![Whisper links in Briar](whisper-links-briar.png) Briar's phrases are cryptographicly secure but unpronouncable](whisper-links-briar.png)
+
+::: examples
 
 ## Why Choose Whisper Links?
 

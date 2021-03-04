@@ -1,5 +1,5 @@
 ---
-title: Discovery Pub
+title: Discovery Server 
 topic: sync-status
 tags:
   - protocol
@@ -27,24 +27,27 @@ Allow users to opt-in to search and discovery of content. For search, add indica
 
 Provide the ability for users to easily configure which servers to search. These considerations can be governed by the protocol or client. For example, the client can be 'fat' (e.g., download everything by default and search it all); 'thin' (e.g., download very little and call out to another server for search); or 'gossipy' (e.g., search only what my direct peers or peers of peers have downloaded).
 
-### Examples
+## Examples
 
-- SSB pubs
-- Mastodon Search
-- Fediverse network
-- Radicle Seeds
+::: examples
 
-## Why Choose Discovery Pub?
+- [![Discovery servers in Radicle](discovery-pub-radicle.png) Discovery servers are called 'Seeds' in Radicle](discovery-pub-radicle.png)
+
+- [![Secure Scuttlebutt](discovery-pub-ssb.png) 'Pubs' (as in a bar) in Secure Scuttlebutt](discovery-pub-ssb.png)
+
+::: examples
+
+## Why Choose Discovery Server?
 
 When your application is heavily enriched by the ability to search and discover new content (e.g., social networks).
 
-## Best Practice: How to Implement Discovery Pub
+## Best Practice: How to Implement Discovery Server 
 
 - Provide the possibilities to curate data and expand one's network while staying local.
 - If you are using a service for your search algorithm, transparently show the name of the service along with a way to contact those people (e.g., a git repository or website).
 - Services should provide filters for well-known abusive, fraudulent, or spam content. This is critical to prevent a scenario where first-time users see a bombardment of irrelevant or harmful content.
 
-## Potential Problems with Discovery Pub
+## Potential Problems with Discovery Server
 
 - This can cause a dependency on particular services, re-centralizing the technical architecture and causing potential failures. To mitigate this, the protocol could allow for any peer to provide the search functions to another peer.
 - There is still a need to address the privacy concerns regarding search queries and end-to-end encrypted information. For example, in a pure peer-to-peer network, users' search queries might encounter a risk if exposed to a wider network.

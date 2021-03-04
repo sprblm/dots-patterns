@@ -18,7 +18,7 @@ Users can pick third-party organizations, applicatoins, or services to curate
 their content feed. Make it easy for developers to write programs that provide
 curation for social network feeds. Allow users to choose what algorithm(s) they want to use.
 
-### Examples
+## Examples
 
 - CTZN
 - Aether

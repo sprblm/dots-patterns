@@ -18,7 +18,7 @@ In a decentralized application, deletion gets even harder.
 
 We can encourage deletion across the network quite well by using Tombstones.
 
-### Examples
+## Examples
 
 - "Delete" as seen in Mapeo
 - "Unpublish" as seen in hackmd

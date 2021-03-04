@@ -34,10 +34,11 @@ Utilize patterns like [[social radius slider]]
 and [[content curators]] to give fine-grained control over
 social feeds.
 
-### Examples
+## Examples
 
 - Biton
 - Mastodon
+- Aether
 
 ## Why Choose Village or City?
 
