@@ -38,7 +38,7 @@ Users are uniquely identified by their handle and a server name.
 
 - [![Address in Matrix](address-matrix.png) Matrix gives more visual guidance for address choice](address-matrix.png)
 
-::: examples
+::: 
 
 ## Why Choose Address ?
 

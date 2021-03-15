@@ -34,7 +34,7 @@ talking to the same person.
 
 - [![Persistent Identity in Keybase](persistent-identity-keybase.png) Keybase encourages publicly proving long-term ownership](persistent-identity-keybase.png)
 
-::: examples
+:::
 
 ## Why Choose Persistent Identity?
 

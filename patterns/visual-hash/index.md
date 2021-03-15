@@ -31,7 +31,7 @@ the user.
 - [![Visual hash in Cabal](visual-hash-github.png) Notice how Github uses colors](visual-hash-github.png)
 - [![Visual hash in Radicle](visual-hash-radicle.png) Radicle shows how visual hashes don't need to look like QR codes](visual-hash-radicle.png)
 
-::: examples
+::: 
 
 ## Why Choose Visual Hash?
 

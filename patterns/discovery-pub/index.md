@@ -35,7 +35,7 @@ Provide the ability for users to easily configure which servers to search. These
 
 - [![Secure Scuttlebutt](discovery-pub-ssb.png) 'Pubs' (as in a bar) in Secure Scuttlebutt](discovery-pub-ssb.png)
 
-::: examples
+::: 
 
 ## Why Choose Discovery Server?
 

@@ -25,7 +25,7 @@ Use a radius to indicate how "big" your circle is today.
 - [![Social Radius Slider in Gather.town](social-radius-slider-gathertown.png) Gathertown radius displayed as a circle](social-radius-slider-gathertown.png)
 
 
-::: examples
+::: 
 
 ## Why Choose Social Radius Slider?
 

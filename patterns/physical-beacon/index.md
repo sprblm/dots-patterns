@@ -53,7 +53,7 @@ their IP address, city, country, provider name (e.g., URL), and latency.
 
 - [![Physical Beacon in Syncthing](physical-beacon-syncthing.png) One of syncthing's primary functions is to add a remote device](physical-beacon-syncthing.png)
 
-::: examples
+::: 
 
 ## Why Choose Physical Beacon?
 

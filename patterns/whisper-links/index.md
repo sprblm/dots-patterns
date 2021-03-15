@@ -32,7 +32,7 @@ when clicked on, your application will automatically open.
 
 - [![Whisper links in Briar](whisper-links-briar.png) Briar's phrases are cryptographicly secure but unpronouncable](whisper-links-briar.png)
 
-::: examples
+::: 
 
 ## Why Choose Whisper Links?
 

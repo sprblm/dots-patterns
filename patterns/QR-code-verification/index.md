@@ -28,7 +28,7 @@ In a decentralized world, QR codes no longer have to link to a centralized share
 
 - [![QR Codes in Threema](qr-code-threema.png) Threema makes QR Code prominent as part of the user id](qr-code-threema.png)
 
-::: examples
+::: 
 
 ## Why Choose QR Code Verifcation?
 

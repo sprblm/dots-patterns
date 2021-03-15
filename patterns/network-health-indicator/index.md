@@ -46,7 +46,7 @@ data is safely replicated to another device and they can turn off their computer
 - [![Network health indicator in Syncthing](network-health-indicator-syncthing.png) Syncthing provides device monitoring & control](network-health-indicator-syncthing.png)
 
 
-::: examples
+::: 
 
 ## Why Choose Network Heath Indicator?
 
