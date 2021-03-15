@@ -7,5 +7,6 @@ module.exports = {
   eleventyComputed: {
     published: (data) => data.page.date.toLocaleDateString("en-us"),
     relatedPatterns: (data) => data.helpers.relatedPatterns(data),
+    categoryName: (data) => data.helpers.categoryName(data),
   },
 };
