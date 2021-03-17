@@ -38,7 +38,11 @@ provider over another, randomly assign new users to a hosting provider.
 
 ## Examples
 
-Nextcloud
+::: examples
+
+- [![Nextcoud hosts](Nextcloud.png) Nextcloud randomly selects a server for you](Nextcloud.png)
+
+::: 
 
 ## Why Choose Host Roulette ?
 
