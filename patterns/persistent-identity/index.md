@@ -34,6 +34,9 @@ talking to the same person.
 
 - [![Persistent Identity in Keybase](persistent-identity-keybase.png) Keybase encourages publicly proving long-term ownership](persistent-identity-keybase.png)
 
+- [![GPG Keychain](gpg.png) GPG Keychains associate
+  multiple keypairs with a single address](gpg.png)
+
 :::
 
 ## Why Choose Persistent Identity?
@@ -70,6 +73,4 @@ a specific provider.
 
 ## References & Where to Learn More
 
-- PGP local device storage/contact list
-- Keybase proofs
-- Research papers
+- [Keybase seitan tokens](https://keybase.io/docs/seitan)
