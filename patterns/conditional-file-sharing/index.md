@@ -28,9 +28,13 @@ how your data is being shared between instances.
 
 ### Examples
 
-- Disappearing messages
-- Nextcloud retention
-- BitTorrent trackers
+::: examples
+
+- [![Timed messages in Wire](Wire.pnge) Wire offers timed messages)](Wire.png)
+
+- [![Nextcloud retention](nextcloud.png) Nextcloud' retention can be filtered by tag)](nextcloud.png)
+
+:::
 
 ## Why Choose Conditional Sharing?
 
