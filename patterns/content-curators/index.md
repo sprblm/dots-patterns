@@ -20,8 +20,9 @@ curation for social network feeds. Allow users to choose what algorithm(s) they 
 
 ## Examples
 
-- CTZN
 - Aether
+- Mastodon
+- Twitter lists
 
 ## Why Choose Content Curators?
 
