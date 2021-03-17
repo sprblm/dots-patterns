@@ -72,4 +72,3 @@ a specific provider.
 
 - PGP local device storage/contact list
 - Keybase proofs
-- Research papers
