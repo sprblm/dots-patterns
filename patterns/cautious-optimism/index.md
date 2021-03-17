@@ -37,8 +37,9 @@ friends.
 
 - ["Optimistic Unchoking" in BitTorrent](https://www.cs.helsinki.fi/webfm_send/1330) to mitigate free-riders, and promote peers who are willing to share
 files back.
-- Secure Scuttlebutt
-- Mastodon
+- ["Transitive interest gossip" in Secure
+  Scuttlebutt](https://dicg2020.github.io/papers/kermarrec.pdf) promotes peers
+to share information with those who share the same interests or social networks.
 
 ## Why Choose Cautious Optimism?
 
@@ -70,6 +71,9 @@ bad behavior.
 
 ## References & Where to Learn More
 
-The "[tit for tat](https://en.wikipedia.org/wiki/Tit_for_tat)" strategy in game theory.
+- The "[tit for tat](https://en.wikipedia.org/wiki/Tit_for_tat)" strategy in game theory.
 
-See [[network health indicator|network health indicators]] for one implementation strategy, tracking how long peers share data to determine whether to share with them in the future
+- Rodrigues, Carlo Kleber da Silva. ["Analyzing peer selection policies for BitTorrent multimedia on-demand streaming systems in internet."](https://arxiv.org/abs/1402.2187) International Journal of Computer Networks & Communications (IJCNC) Vol.6, No.1, January 2014. 
+
+- See [[network health indicator|network health indicators]] for one implementation strategy, tracking how long peers share data to determine whether to share with them in the future.
+
