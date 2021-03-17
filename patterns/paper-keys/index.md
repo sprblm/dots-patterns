@@ -49,7 +49,6 @@ If lost, access to data is potentially lost permanently.
 
 If found by an adversary, it can lead to unauthorized access to data.
 
-## The Take-Away
 
 ## References & Where to Learn More
 

@@ -36,6 +36,7 @@ in conjunction with [[age-indicator]] to understand how long
 it's been since a device has seen another, helping users understand if their
 data is safely replicated to another device and they can turn off their computer.
 
+## Examples
 
 ::: examples
 
@@ -62,11 +63,11 @@ data is safely replicated to another device and they can turn off their computer
 
 ## Potential Problems with Network Health Indicator
 
-- There can be a lot of information about each device that isn't really useful
+There can be a lot of information about each device that isn't really useful
   to all users. Some users will want to see advanced information, like the IP address. Consider 'advanced' and 'basic' views that users can toggle on or
   off depending on what they need from the interface.
 
-- Keeping a local database may not be enough to have the full scope of history,
+Keeping a local database may not be enough to have the full scope of history,
   especially in peer to peer applications. Consider gossiping the data as part
   of the replication protocol. For example, if Bob syncronizes with Sally, and
   then logs off. Later Sally syncronizes with John, and John logs off. When Bob
@@ -74,11 +75,11 @@ data is safely replicated to another device and they can turn off their computer
   should automatically tell Bob that she saw John while Bob was offline. This
   will ensure that users know who has seen the latest information.
 
-- Some protocols by default will not have the ability to acknowledge or verify how much
+Some protocols by default will not have the ability to acknowledge or verify how much
   of a dataset has been replicated by particular devices. This is required
   to make Network Health Indicator more informative and accurate.
 
-- Network Health Indicators may be unreliable in offline (i.e., [sneakernet](https://en.wikipedia.org/wiki/Sneakernet)) networks,
+Network Health Indicators may be unreliable in offline (i.e., [sneakernet](https://en.wikipedia.org/wiki/Sneakernet)) networks,
   where people share data offline using hard drives or other physical methods.
   This is also true for applications where users may disconnect from the network
   for large stretches of time. Implementing indicators in these environments may

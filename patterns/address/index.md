@@ -38,7 +38,7 @@ Users are uniquely identified by their handle and a server name.
 
 - [![Address in Matrix](address-matrix.png) Matrix gives more visual guidance for address choice](address-matrix.png)
 
-::: 
+:::
 
 ## Why Choose Address ?
 
@@ -63,5 +63,3 @@ Identity]] for making portability more secure.
 ## The Take Away
 
 Address can help give users trust in who they're talking to.
-
-## References & Where to Learn More
