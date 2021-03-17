@@ -35,7 +35,8 @@ friends.
 
 ## Examples
 
-- BitTorrent
+- ["Optimistic Unchoking" in BitTorrent](https://www.cs.helsinki.fi/webfm_send/1330) to mitigate free-riders, and promote peers who are willing to share
+files back.
 - Secure Scuttlebutt
 - Mastodon
 
