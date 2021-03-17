@@ -33,7 +33,7 @@ Provide the ability for users to easily configure which servers to search. These
 
 - [![Discovery servers in Radicle](discovery-pub-radicle.png) Discovery servers are called 'Seeds' in Radicle](discovery-pub-radicle.png)
 
-- [![Secure Scuttlebutt](discovery-pub-ssb.png) 'Pubs' (as in a bar) in Secure Scuttlebutt](discovery-pub-ssb.png)
+- [![Secure Scuttlebutt](discovery-pub-ssb.jpeg) 'Pubs' in Secure Scuttlebutt](discovery-pub-ssb.jpeg)
 
 :::
 

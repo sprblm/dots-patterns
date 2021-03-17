@@ -12,28 +12,28 @@ On centralized social networks, users can identify content and peers relevant to
 
 This is not always true in peer-to-peer systems. Once a user found peers offering relevant content, they can ask those peers for contact information for adjacent peers, and connect to a larger portion of the network - but finding the initial "introduction" peers is a complicated challenge.
 
-(Even once relevant peers are identified, creating a peer-to-peer network connection between two home networks requires NAT traversal, also referred to as NAT hole punching. This usually involves utilizing a third party to exchange network address and port information to facilitate a direct connection.)
-
 ## The Design Solution
 
-Create centralized "tracker" servers to introduce peers. These trackers have well known addresses (e.g., HTTP or IP addresses) so they can be easily found by users, and may even have their addresses included in client software to aid peer discovery.
+Create centralized "tracker" servers to introduce peers. These trackers have
+well known domain names or ip addresses so they can be easily found
+by users, and may even have their addresses included in client software.
 
-Trackers are a database of content that is available and the contact information for devices that have that content. Traditionally, this contact information is in the form of an IP address and port number, and may contain additional metadata about the peer's bandwidth and supported functionality. However, the contact information could take a variety of other forms, including onion addresses, public keys, or other related content.
+Trackers are a database of content and the contact information (i.e., ip
+address) all for devices that have that content. This contact information may contain
+additional metadata about the peer's bandwidth and supported functionality.
 
 ## Examples
 
-Trackers are famously used by torrents to introduce peers to content seeds. They are also used to add new peers to distributed hash tables, or similar communication networks like blockchains. Examples include:
 
-- Torrents
-- Kademlia DHT
-- Blockchains
-- Tor Directory Servers
-- IPFS Bootstrap Peers
-- Cabal
+- [![BitTorrent](trackers-bittorrent.jpeg) 'Trackers' in BitTorrent](trackers-bittorrent.jpeg)
+- [![Tor](trackers-tor.png) 'Directory Authorities' in Tor use consensus to
+  stay up-to-date](trackers-tor.png)
+- [![IPFS Bootstrap Peers](trackers-ipfs.png) Kademlia Distributed Hash Tables, like the
+  one in IPFS, offer "bootstrap peers"](trackers-ipfs.png) 
 
 ## Why Choose Trackers?
 
-Trackers are a simple technique to solve "first introduction" problems in peer-to-peer systems, provide a natural solution to NAT traversal, and can serve as a bootstrapping step to add clients to a more decentralized network like a distributed hash table.
+Trackers are a simple technique to solve "first introduction" problems in peer-to-peer systems, provide a natural solution to NAT traversal, and can serve as a bootstrapping step to add clients to a more decentralized network like a distributed hash table. If you want to provide more reliable service for unpopular content, use a [[Discovery Server]] which acts as a backup location in addition to tracking content.
 
 ## Best Practice: How to Implement Trackers
 
@@ -51,4 +51,11 @@ Trackers are a simple technique to solve "first introduction" problems in peer-t
 
 ## The Take Away
 
-Trackers are a common component of many peer-to-peer networks, and facilitate peer introduction.
+Trackers are a common component of many peer-to-peer networks, and facilitate peer introduction. 
+
+## References & Where to learn more
+
+Even once relevant peers are identified by a tracker, creating a peer-to-peer network connection between two home networks requires [NAT traversal](https://en.wikipedia.org/wiki/NAT_traversal), also referred to as NAT hole punching. This usually involves utilizing a third party to exchange network address and port information to facilitate a direct connection.
+
+IPFS illustration by [Matt
+  Ober](https://medium.com/pinata/speeding-up-ipfs-pinning-through-swarm-connections-b509b1471986)
