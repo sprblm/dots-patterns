@@ -38,5 +38,3 @@ If you're using a common file format, like sql or zip, it won't be immediately o
 ## The Take-Away
 
 Standards marker helps users quickly find and open files that are related to your application.
-
-## References & Where to Learn More

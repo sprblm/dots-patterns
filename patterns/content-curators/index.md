@@ -20,6 +20,14 @@ curation for social network feeds. Allow users to choose what algorithm(s) they 
 
 ## Examples
 
+::: examples
+
+- [![Mastodon](Mastodon.jpeg) Mastodon gives you the option to filter out "awful servers"](Mastodon.jpeg)
+
+- [![Twitter lists](Twitter_lists.jpeg) Twitter lists allow you to select content from a specific group](Twitter_lists.jpeg)
+
+:::
+
 - CTZN
 - Aether
 
@@ -43,5 +51,3 @@ curation for social network feeds. Allow users to choose what algorithm(s) they 
 ## The Take-Away
 
 This is more of an opt-in option rather than a catch-all solution for curating feeds.
-
-## References and Where to Learn More

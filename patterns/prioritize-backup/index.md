@@ -42,5 +42,3 @@ When users depend upon long-term storage of their data.
 ## The Take-Away
 
 Prioritizing backup is crucial for competing with centralized services that provide long-term storage.
-
-## References & Where to Learn More

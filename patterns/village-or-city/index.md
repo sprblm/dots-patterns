@@ -63,4 +63,4 @@ boundaries are clear and aligned with what they are looking for.
 
 ## References & Where to Learn More
 
-https://runyourown.social/
+[Run Your Own Social](https://runyourown.social/)

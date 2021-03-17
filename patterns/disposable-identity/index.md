@@ -39,6 +39,8 @@ amount of time. Display this prominently to the user upon identity creation.
 
 - [![Disposable identity in Cabal](disposable-identity-cabal.png) Cabal random nicknames can be changed later](disposable-identity-cabal.png)
 
+::: examples
+
 ## Best Practice: How to Implement Disposable Identity
 
 - Identities could be created with limits set up front. For example, "this
@@ -71,5 +73,3 @@ When the main focus of your application is trusted connections and private
 communities, there are strong benefits in both usability and safety when  
 disposible identities are the default interaction. With public content,
 this is much more difficult to implement safely.
-
-## References & Where to Learn More

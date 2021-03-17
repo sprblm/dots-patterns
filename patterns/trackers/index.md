@@ -52,5 +52,3 @@ Trackers are a simple technique to solve "first introduction" problems in peer-t
 ## The Take Away
 
 Trackers are a common component of many peer-to-peer networks, and facilitate peer introduction.
-
-## **References & Where to Learn More**
