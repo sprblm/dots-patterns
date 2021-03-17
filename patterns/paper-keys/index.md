@@ -29,9 +29,11 @@ codes with the device's camera.
 
 ### Examples
 
-- Disk encryption recovery keys (Apple)
-- Backup codes (1Password, 2 Factor Authenticators)
-- [Keybase](https://keybase.io/blog/keybase-new-key-model)
+- [![Paper Keys in 1Password ](paper-keys-1password.png) 1Password offers an all-in-one 'Emergency Kit'](paper-keys-1password.png)
+
+- [![Paper Keys in Filevault](paper-keys-filevault.png) Apple Filevault uses a serial number style key](paper-keys-filevault.png)
+
+- [![Paper Keys in Keybase](paper-keys-keybase.png) Keybase generates a multiple word passphrase](paper-keys-keybase.png)
 
 ## Why Choose Paper Keys?
 
@@ -49,7 +51,8 @@ If lost, access to data is potentially lost permanently.
 
 If found by an adversary, it can lead to unauthorized access to data.
 
-
 ## References & Where to Learn More
 
 Projects by IF has outlined a similar design pattern called [Recovery Codes](https://catalogue.projectsbyif.com/patterns/recovery-codes/).
+
+[Investigating the Usability Issues Non-Crypto Savvy Users Encounter When Setting Up Desktop Wallets](https://medium.com/chockablock-io/investigating-the-usability-issues-non-crypto-savvy-users-encounter-when-setting-up-desktop-68323106587b)
