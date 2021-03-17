@@ -81,6 +81,3 @@ resiliency & archiving capabilities.
 
 ## References & Where to Learn More
 
-## Tags
-
-location, status & sync
