@@ -52,6 +52,4 @@ visible in a typical user's social network (e.g., 1000 items).
 
 ## The Take-Away
 
-Visual hash is a good default image picker.
-
-## References & Where to Learn More
+Visual hash is a good default image picker that helps you differentiate between users or content.

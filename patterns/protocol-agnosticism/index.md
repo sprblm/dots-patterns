@@ -28,7 +28,7 @@ Give users the option to choose a protocol as their default communication method
 
 - [![Brave](protocol-agnosticism-brave.png) Brave offers a 'New Private Window with Tor' option ](protocol-agnosticism-brave.png)
 
-::: 
+:::
 
 ## Why Choose Protocol Agnosticism?
 
@@ -46,4 +46,4 @@ It can be difficult for most users to fully grasp the ramifications of their pro
 
 ## The Take-Away
 
-## References & Where to Learn More
+Protocol agnosticism is a step toward real interoperability.

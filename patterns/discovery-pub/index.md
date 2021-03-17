@@ -1,5 +1,5 @@
 ---
-title: Discovery Server 
+title: Discovery Server
 topic: sync-status
 tags:
   - protocol
@@ -35,13 +35,13 @@ Provide the ability for users to easily configure which servers to search. These
 
 - [![Secure Scuttlebutt](discovery-pub-ssb.png) 'Pubs' (as in a bar) in Secure Scuttlebutt](discovery-pub-ssb.png)
 
-::: 
+:::
 
 ## Why Choose Discovery Server?
 
 When your application is heavily enriched by the ability to search and discover new content (e.g., social networks).
 
-## Best Practice: How to Implement Discovery Server 
+## Best Practice: How to Implement Discovery Server
 
 - Provide the possibilities to curate data and expand one's network while staying local.
 - If you are using a service for your search algorithm, transparently show the name of the service along with a way to contact those people (e.g., a git repository or website).
@@ -55,5 +55,3 @@ When your application is heavily enriched by the ability to search and discover 
 ## The Take Away
 
 Search is possible in a decentralized network, and can provide users better control over which algorithms and filters to use, opening space for a variety of discovery services that can be run by anybody.
-
-## **References & Where to Learn More**

@@ -71,5 +71,3 @@ When the main focus of your application is trusted connections and private
 communities, there are strong benefits in both usability and safety when  
 disposible identities are the default interaction. With public content,
 this is much more difficult to implement safely.
-
-## References & Where to Learn More

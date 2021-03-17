@@ -69,6 +69,6 @@ bad behavior.
 
 ## References & Where to Learn More
 
-The "tit for tat" strategy
+The "[tit for tat](https://en.wikipedia.org/wiki/Tit_for_tat)" strategy in game theory.
 
 See [[network health indicator|network health indicators]] for one implementation strategy, tracking how long peers share data to determine whether to share with them in the future
