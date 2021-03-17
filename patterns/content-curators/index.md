@@ -26,7 +26,7 @@ curation for social network feeds. Allow users to choose what algorithm(s) they 
 
 - [![Twitter lists](Twitter_lists.jpeg) Twitter lists allow you to select content from a specific group](Twitter_lists.jpeg)
 
-::: examples
+::: 
 
 ## Why Choose Content Curators?
 
