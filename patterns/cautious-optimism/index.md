@@ -35,7 +35,8 @@ friends.
 
 ## Examples
 
-- BitTorrent
+- ["Optimistic Unchoking" in BitTorrent](https://www.cs.helsinki.fi/webfm_send/1330) to mitigate free-riders, and promote peers who are willing to share
+files back.
 - Secure Scuttlebutt
 - Mastodon
 
@@ -69,6 +70,6 @@ bad behavior.
 
 ## References & Where to Learn More
 
-The "tit for tat" strategy
+The "tit for tat" strategy in game theory.
 
 See [[network health indicator|network health indicators]] for one implementation strategy, tracking how long peers share data to determine whether to share with them in the future
