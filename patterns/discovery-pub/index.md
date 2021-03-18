@@ -3,7 +3,7 @@ title: Discovery Server
 topic: sync-status
 tags:
   - protocol
-description: "Define scope and filters for decentralized search, and provide users better control over which algorithms and filters to use."
+description: "A centralized server to discover new content and backup user data."
 ---
 
 ### The Design Problem
@@ -49,8 +49,9 @@ When your application is heavily enriched by the ability to search and discover 
 
 ### Potential Problems with Discovery Server
 
-- This can cause a dependency on particular services, re-centralizing the technical architecture and causing potential failures. To mitigate this, the protocol could allow for any peer to provide the search functions to another peer.
-- There is still a need to address the privacy concerns regarding search queries and end-to-end encrypted information. For example, in a pure peer-to-peer network, users' search queries might encounter a risk if exposed to a wider network.
+This can cause a dependency on particular services, re-centralizing the technical architecture and causing potential failures. To mitigate this, the protocol could allow for any peer to provide the search functions to another peer.
+
+There is still a need to address the privacy concerns regarding search queries and end-to-end encrypted information. For example, in a pure peer-to-peer network, users' search queries might encounter a risk if exposed to a wider network.
 
 ### The Take Away
 
