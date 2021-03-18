@@ -10,7 +10,7 @@ tags:
 
 Social networks are mentally taxing. Sometimes news from around the world is inspiring, other times it is just depressing. Sometimes you want to hear from
 strangers, other times you just want posts from your closest friends and
-family. Wanting to proactively manage your feed requires a lot of overhead.
+family. Wanting to pro-actively manage your feed requires a lot of overhead.
 
 ### The Design Solution
 
@@ -43,7 +43,7 @@ built-in, and you want to give the user option to participate in smaller common 
 
 Users will expect different behaviors based on a 'large' or 'small' radius.
 
-Do research on your target userbase to understand what the default setting
+Do research on your target user base to understand what the default setting
 should be, as many users do not change default settings.
 
 ### The Take-Away

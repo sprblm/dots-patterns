@@ -14,7 +14,7 @@ restricts user choice in what they are able to see.
 
 ### The Design Solution
 
-Users can pick third-party organizations, applicatoins, or services to curate
+Users can pick third-party organizations, applications, or services to curate
 their content feed. Make it easy for developers to write programs that provide
 curation for social network feeds. Allow users to choose what algorithm(s) they want to use.
 

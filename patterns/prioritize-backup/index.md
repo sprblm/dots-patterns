@@ -14,7 +14,7 @@ In a decentralized application, we have no guarantee that data will be replicate
 
 ### The Design Solution
 
-Prioritize backing up all data in multiple locations, ideally across the world. Tell the user when data has been syncronized to long-term storage locations. Pair this with [[Network Health Indicator]] for more fine-grained information about where data is syncronized.
+Prioritize backing up all data in multiple locations, ideally across the world. Tell the user when data has been synchronized to long-term storage locations. Pair this with [[Network Health Indicator]] for more fine-grained information about where data is synchronized.
 
 ### Examples
 
@@ -30,13 +30,13 @@ When users depend upon long-term storage of their data.
 
 - It can be more useful for static data (i.e., data that doesn't change).
 - Trust needs to be established among any partner organizations beforehand to ensure a resilient backup network.
-- Make sure to communicate about the community-owned infrastructure upfront.
+- Make sure to communicate about the community-owned infrastructure up-front.
 - If possible, encrypt data before backup so that it is not readable by the storage providers.
 
 ### Potential Problems with Prioritize Backup
 
 - Without encryption, users could be subject to attacks. Be sure to communicate when unencrypted data will be stored and readable by others.
-- Prioritize backup can be too technical. Hide advanced metrics and show users simple indicators for cancelled, paused, in progress, completed, and error.
+- Prioritize backup can be too technical. Hide advanced metrics and show users simple indicators for canceled, paused, in progress, completed, and error.
 - It could be difficult to delete data if there are many storage providers or peers on the network.
 
 ### The Take-Away

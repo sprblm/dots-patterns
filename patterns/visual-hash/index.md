@@ -47,7 +47,7 @@ visible in a typical user's social network (e.g., 1000 items).
 
 - It often isn't a great proxy for the actual user or the content. Use visual
   nudges to remind the user to choose an image.
-- Colorblindness could be an issue in differentating two visual hashes from
+- Color blindness could be an issue in differentiating two visual hashes from
   each other. Ensure that the visual hash uses two colors that can be seen by all users.
 
 ### The Take-Away

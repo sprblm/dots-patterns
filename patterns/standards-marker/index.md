@@ -12,13 +12,13 @@ Decentralized applications prioritize portability. In other words, data is not t
 
 ### The Design Solution
 
-When exporting data, such as keys or backups, from the application, ensure that the file has a distinguisable and noticable file extension (e.g., docx or zip). Instead, use the name of your application, or some other name that is unique to your application.
+When exporting data, such as keys or backups, from the application, ensure that the file has a distinguishable and noticeable file extension (e.g., docx or zip). Instead, use the name of your application, or some other name that is unique to your application.
 
 ### Examples
 
 ::: examples
 
-- [![Standards Marker in Mapeo](mapeo.jpeg) Mapeo users can export and import 'mapeosettings' file to share a proejct between peers](mapeo.jpeg)
+- [![Standards Marker in Mapeo](mapeo.jpeg) Mapeo users can export and import 'mapeosettings' file to share a project between peers](mapeo.jpeg)
 
 - [![Delta Chat](deltachat.png) Delta.Chat exports to a 'bak' file with the current date](deltachat.png)
 

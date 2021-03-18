@@ -15,10 +15,10 @@ This is not always true in peer-to-peer systems. Once a user found peers offerin
 ### The Design Solution
 
 Create centralized "tracker" servers to introduce peers. These trackers have
-well known domain names or ip addresses so they can be easily found
+well known domain names or IP addresses so they can be easily found
 by users, and may even have their addresses included in client software.
 
-Trackers are a database of content and the contact information (i.e., ip
+Trackers are a database of content and the contact information (i.e., IP
 address) all for devices that have that content. This contact information may contain
 additional metadata about the peer's bandwidth and supported functionality.
 

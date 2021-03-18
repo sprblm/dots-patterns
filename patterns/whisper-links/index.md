@@ -17,7 +17,7 @@ challenging.
 
 One user creates a code that can be shared with the other easily using another
 communication channel. The code should be short and human-pronounceable, using
-a phonetically-distinct wordlist.
+a phonetically-distinct word list.
 
 Consider using a URI protocol handler link (e.g., myapp://<whisper-link-here>) so that
 when clicked on, your application will automatically open.
@@ -26,11 +26,11 @@ when clicked on, your application will automatically open.
 
 ::: examples
 
-- [![Whisper links in Magic Wormhole](whisper-links-magicwormhole.png) Magic Wormhole automatically generates pronouncable phrases](whisper-links-magicwormhole.png)
+- [![Whisper links in Magic Wormhole](whisper-links-magicwormhole.png) Magic Wormhole automatically generates pronounceable phrases](whisper-links-magicwormhole.png)
 
 - [![Whisper links in Jitsi](whisper-links-jitsi.png) Jitsi allows users to choose a phrase](whisper-links-jitsi.png)
 
-- [![Whisper links in Briar](whisper-links-briar.png) Briar's phrases are cryptographicly secure but unpronouncable](whisper-links-briar.png)
+- [![Whisper links in Briar](whisper-links-briar.png) Briar's phrases are cryptographicly secure but unpronounceable](whisper-links-briar.png)
 
 ::: 
 
@@ -42,7 +42,7 @@ phone call) already in progress.
 
 ### Best Practice: How to Implement Whisper Links
 
-If using a wordlist, localize it. In other words, use a wordlist language that
+If using a word list, localize it. In other words, use a word list language that
 is the same as the user's chosen language.
 
 Allow users to create their own whisper links.

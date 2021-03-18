@@ -22,7 +22,7 @@ Some users will want to be in a village in certain contexts; but some
 communities may want to feel more like cities. Making sure your assumptions
 about village or city is built into your platform will help users understand
 the kinds of interactions that are possible and appropriate. Consider patterns
-like [[cautious optimisim]] to allow users to opt-in to
+like [[cautious optimism]] to allow users to opt-in to
 discovering new users safely.
 
 If you envision a city-like platform, make posts public and anonymous by default - people are used to random and rude behavior in cities. But if you are building a village-like platform, people will expect posts to be shared within a smaller and safer group.

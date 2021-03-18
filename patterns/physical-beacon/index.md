@@ -34,7 +34,7 @@ how best to offer this choice to users.
 
 A physical beacon is as an 'always-on node' that operates in a particular
 jurisdiction. In peer-to-peer and federated contexts, there could be many
-physical beacons that are syncronizing and backing up the data on the internet.
+physical beacons that are synchronizing and backing up the data on the internet.
 
 It is good for grasping a concrete aspect of the network for those who might
 not understand the conceptual aspect of it.
@@ -70,12 +70,12 @@ their IP address, city, country, provider name (e.g., URL), and latency.
 ### Potential Problems with Physical Beacon
 
 Physical Beacon can expose a new attack surface or become a point of failure.
-To avoid this, consider using end-to-end encryption and syncronize with beacons
+To avoid this, consider using end-to-end encryption and synchronize with beacons
 in multiple locations.
 
 ### The Take-Away
 
-Phyiscal Beacon can be useful when it's important that data is stored in
+Physical Beacon can be useful when it's important that data is stored in
 a particular physical location (or many physical locations) for improved data
 resiliency & archiving capabilities.
 

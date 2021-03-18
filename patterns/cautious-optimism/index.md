@@ -26,7 +26,7 @@ Trust can be governed by a protocol. For example, the protocol can be generous
 (trust all by default) or guarded (trust none by default). But these approaches
 can sometimes be too rigid.
 
-Consider modelling game-theoretic insights on cautious optimism, e.g. trust
+Consider modeling game-theoretic insights on cautious optimism, e.g. trust
 each node until they violate a rule. This means the level of
 trust to another network participant is based on their past behavior. Depending
 on the context, this could be: sharing (or not sharing) your data for some

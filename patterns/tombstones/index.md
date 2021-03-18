@@ -8,9 +8,9 @@ tags:
 
 ### The Design Problem
 
-User-generated content may be available forever on some Devices; and thus, could stay on the network somewhere forever. This is more likely the longer this content is online, as crawlers will begin to find it, copy it, and syncronize it to other people.
+User-generated content may be available forever on some Devices; and thus, could stay on the network somewhere forever. This is more likely the longer this content is online, as crawlers will begin to find it, copy it, and synchronize it to other people.
 
-This deletion problem is not just a decentralization issue. In centralized applications, any conversation could be saved as screenshots or as raw data and reshared on the network, long after the original account deleted the post. Thus, it is already very difficult to delete content from the Web once it has been online for some period of time and has had some viewership.
+This deletion problem is not just a decentralization issue. In centralized applications, any conversation could be saved as screenshots or as raw data and re-shared on the network, long after the original account deleted the post. Thus, it is already very difficult to delete content from the Web once it has been online for some period of time and has had some viewership.
 
 In a decentralized application, deletion gets even harder.
 

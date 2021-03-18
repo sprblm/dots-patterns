@@ -67,7 +67,7 @@ anonymous, one-time, and short-lived accounts.
 ### The Take Away
 
 Persistent identities can help give users continuity and trust in who they're
-talking to. It also encourges healthy competition between clients that
+talking to. It also encourages healthy competition between clients that
 implement the protocol, as it's more difficult to lock users into
 a specific provider.
 

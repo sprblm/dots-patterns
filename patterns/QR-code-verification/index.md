@@ -20,7 +20,7 @@ In a decentralized world, QR codes no longer have to link to a centralized share
 
 ::: examples
 
-- [![QR Codes in Delta.Chat](qr-code-deltachat.png) delta.chat for verfied groups](qr-code-deltachat.png)
+- [![QR Codes in Delta.Chat](qr-code-deltachat.png) delta.chat for verified groups](qr-code-deltachat.png)
 
 - [![QR Codes in Signal](qr-code-signal.png) Signal for verified devices](qr-code-signal.png)
 
@@ -30,7 +30,7 @@ In a decentralized world, QR codes no longer have to link to a centralized share
 
 ::: 
 
-### Why Choose QR Code Verifcation?
+### Why Choose QR Code Verification?
 
 When you want to securely verify or transfer information between two peers.
 

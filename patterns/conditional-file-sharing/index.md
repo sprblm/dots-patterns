@@ -13,8 +13,8 @@ when and where data is stored.
 
 However, peer-to-peer applications like BitTorrent flip this concept on its
 head. There is no single provider who decides when and where data is stored; instead,
-anyone with access to the data can choose to rehost it to others at their
-discresion. Similarly, in federated applications, it's hard to know when and
+anyone with access to the data can choose to re-host it to others at their
+discretion. Similarly, in federated applications, it's hard to know when and
 how your data is being shared between instances.
 
 ### The Design Solution

@@ -51,19 +51,19 @@ amount of time. Display this prominently to the user upon identity creation.
   one after some time in use. Allow users to upgrade to a [[persistent
 identity]] if they want to keep it.
 
-- Consider making disposible identtity very easy to create or even the default
+- Consider making disposable identity very easy to create or even the default
   identity creation action. Allow users to simply scan a QR Code or click a link
   to generate their disposable identity.
 
 ### Potential Problems with Disposable Identity
 
 - **Guaranteeing anonymity is hard.** Clearly communicate the risks to users who
-  are creating disposible identities.
-- **Spam and harassment.** Disposible identities should be paired with
+  are creating disposable identities.
+- **Spam and harassment.** Disposable identities should be paired with
   invite-only groups and contact requests for private messages. Implement
   strong anti-abuse features for public communities and content.
-- **Scaling issues.** With many disposible identities over time, some protocols
-  or applciations may have challenges with performance. Consider removing
+- **Scaling issues.** With many disposable identities over time, some protocols
+  or applications may have challenges with performance. Consider removing
   content after the identity has expired, but clearly communicate this to
   users.
 
@@ -71,5 +71,5 @@ identity]] if they want to keep it.
 
 When the main focus of your application is trusted connections and private
 communities, there are strong benefits in both usability and safety when  
-disposible identities are the default interaction. With public content,
+disposable identities are the default interaction. With public content,
 this is much more difficult to implement safely.
