@@ -16,13 +16,11 @@ When exporting data, such as keys or backups, from the application, ensure that 
 
 ## Examples
 
-- Delta Chat
-
 ::: examples
 
 - [![Standards Marker in Mapeo](mapeo.jpeg) Mapeo users can export and import 'mapeosettings' file to share a proejct between peers](mapeo.jpeg)
 
-- [Delta Chat](https://delta.chat) Delta chat exports chat history backup to a file.
+- [![Delta Chat](deltachat.png) Delta.Chat exports to a 'bak' file with the current date](deltachat.png)
 
 :::
 
