@@ -3,7 +3,7 @@ title: Cautious Optimism
 topic: moderation-curation
 tags:
   - protocol
-descrpition: "Build opportunities for detecting and reacting to bad behavior"
+description: "Build opportunities for detecting and reacting to bad behavior"
 ---
 
 ### The Design Problem
