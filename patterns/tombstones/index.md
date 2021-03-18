@@ -20,8 +20,11 @@ We can encourage deletion across the network quite well by using Tombstones.
 
 ## Examples
 
-- "Delete" as seen in Mapeo
-- "Unpublish" as seen in hackmd
+::: examples
+
+- [![Tombstones in Mapeo](mapeo.jpeg) Mapeo has a delete feature which hides items from view](mapeo.jpeg)
+
+:::
 
 ## How to best implement
 
@@ -31,12 +34,13 @@ We can encourage deletion across the network quite well by using Tombstones.
 
 ## Why Choose Tombstones?
 
-- When you want to protect the safety and privacy of users.
+When you want to protect the safety and privacy of users.
 
 ## Potential Problems with Tombstones
 
-- It won't always be clear that content won't be deleted immediately from the network. It can take time before the tombstone message is sent to other devices.
-- Depending on the protocol or library you choose for storage, it may not be possible to delete historical data. In this case, tombstones only 'hide' data from view, rather than delete it from disk.
+It won't always be clear that content won't be deleted immediately from the network. It can take time before the tombstone message is sent to other devices.
+
+Depending on the protocol or library you choose for storage, it may not be possible to delete historical data. In this case, tombstones only 'hide' data from view, rather than delete it from disk.
 
 ## References & Where to Learn More
 
