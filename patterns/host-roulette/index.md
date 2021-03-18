@@ -6,7 +6,7 @@ tags:
   - ui
 ---
 
-## The Design Problem
+### The Design Problem
 
 In a centralized world, onboarding users to a service doesn't involve too many
 individual decisions. Data is hosted in the same place, permissions are handled
@@ -31,12 +31,12 @@ But this introduces another special problem: if all users get the same default,
 recommended "host", then that host will become a super server in the networks,
 thus accidentally introducing centralization again.
 
-## The Design Solution
+### The Design Solution
 
 The solution here is simple: if there is no reason to choose one hosting
 provider over another, randomly assign new users to a hosting provider.
 
-## Examples
+### Examples
 
 ::: examples
 
@@ -44,11 +44,11 @@ provider over another, randomly assign new users to a hosting provider.
 
 ::: 
 
-## Why Choose Host Roulette ?
+### Why Choose Host Roulette ?
 
 - When you want to steer the network into further distribution
 
-## Best Practice: How to Implement Host Roulette
+### Best Practice: How to Implement Host Roulette
 
 - Make sure you indicate that the host was randomly chosen, e.g. write "choose
   a different host" next to it, and visualizing the next randomly assigned host
@@ -56,7 +56,7 @@ provider over another, randomly assign new users to a hosting provider.
 - Always offer users their own choice by making the choice editable (choose
   from list, for example).
 
-## Potential Problems with Host Roulette
+### Potential Problems with Host Roulette
 
 Host Roulette only works if the options are truly equal. If you are building
 a social networks (more than an infrastructural network), you might want to
@@ -65,9 +65,9 @@ present and even showcase different communities differently. In those cases,
 think about the 3-5 bigger communities that you want to offer as options, and
 test the copy with users to see if they all sound similarly attractive.
 
-## The Take Away
+### The Take Away
 
 Host Roulette can help you decentralize a network among equal, federated
 servers.
 
-## References & Where to Learn More
+### References & Where to Learn More

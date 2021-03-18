@@ -6,17 +6,17 @@ tags:
 description: "Quickly distinguish if information is viral or stale"
 ---
 
-## The Design Problem
+### The Design Problem
 
 In a local-first world, peers may or may not be connected at all
 times, and information left by the users could be out-of-date.
 
-## The Design Solution
+### The Design Solution
 
 Give a visual indication for the age of a piece of information, for example
 when a peer was last seen. Fading a tag or a card usually works.
 
-## Examples
+### Examples
 
 
 ::: examples
@@ -26,11 +26,11 @@ when a peer was last seen. Fading a tag or a card usually works.
 :::
 
 
-## Why Choose Age Indicator?
+### Why Choose Age Indicator?
 
 Age indicator shows you information about participants without taking up too much space. It comes in handy to distinguish if information is viral or stale.
 
-## Best Practice: How to Implement Age Indicator
+### Best Practice: How to Implement Age Indicator
 
 - Age Indicator is most effective when it comes to time sensitive information,
   like a 'best-before-date' feature. It highlights when something needs to be
@@ -40,7 +40,7 @@ Age indicator shows you information about participants without taking up too muc
 - Use Age Indicator in combination with a [[network health
 indicator]] to give advanced users more fine-grained detail.
 
-## Potential Problems with Age Indicator
+### Potential Problems with Age Indicator
 
 - **Dimensions**. When there are multiple dimensions of ways information could
   age, it can be difficult to know what is being displayed. Is it when a peer
@@ -52,7 +52,7 @@ indicator]] to give advanced users more fine-grained detail.
   more valuable with the increased engagement over the course of time? Consider
   recommending an action (if any) that could be taken based upon the age of the content.
 
-## The Take-Away
+### The Take-Away
 
 Age indicator helps guide users when the age of content affects how a user
 should interact with it.

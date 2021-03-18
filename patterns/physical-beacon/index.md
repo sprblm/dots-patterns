@@ -6,7 +6,7 @@ tags:
   - ui
 ---
 
-## The Design Problem
+### The Design Problem
 
 In a centralized world, you must trust that your provider is managing
 access and resiliency across the world. Hosting giants have made this
@@ -30,7 +30,7 @@ In a decentralized world, users can choose their provider, and where their data
 is stored. However, it isn't always clear how or why to make this choice, and
 how best to offer this choice to users.
 
-## The Design Solution
+### The Design Solution
 
 A physical beacon is as an 'always-on node' that operates in a particular
 jurisdiction. In peer-to-peer and federated contexts, there could be many
@@ -44,7 +44,7 @@ Indicator]] to show which physical beacons are
 currently online. Include concrete information about these locations, such as
 their IP address, city, country, provider name (e.g., URL), and latency.
 
-## Examples
+### Examples
 
 ::: examples
 
@@ -55,11 +55,11 @@ their IP address, city, country, provider name (e.g., URL), and latency.
 
 ::: 
 
-## Why Choose Physical Beacon?
+### Why Choose Physical Beacon?
 
 - When users want to control the physical location of their data.
 
-## Best Practice: How to Implement Physical Beacon
+### Best Practice: How to Implement Physical Beacon
 
 - Show users when data has been replicated fully to at least one physical beacon. This helps them know when they are able to shut off their device.
 - It should be easy to manage active beacons and transfer data from one beacon to another through a user interface.
@@ -67,17 +67,17 @@ their IP address, city, country, provider name (e.g., URL), and latency.
 - Hosting fees to beacon operators can help sustain infrastructure when users
   do not want to setup and maintain the beacon themselves.
 
-## Potential Problems with Physical Beacon
+### Potential Problems with Physical Beacon
 
 Physical Beacon can expose a new attack surface or become a point of failure.
 To avoid this, consider using end-to-end encryption and syncronize with beacons
 in multiple locations.
 
-## The Take-Away
+### The Take-Away
 
 Phyiscal Beacon can be useful when it's important that data is stored in
 a particular physical location (or many physical locations) for improved data
 resiliency & archiving capabilities.
 
-## References & Where to Learn More
+### References & Where to Learn More
 

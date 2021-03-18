@@ -7,7 +7,7 @@ tags:
   - ui
 ---
 
-## The Design Problem
+### The Design Problem
 
 In a centralized world, users trust a particular server with data. It's assumed
 that the website will always be online, and if it goes down, you aren't able to
@@ -21,7 +21,7 @@ However, in a peer to peer or federated application, each of these servers is
 run by a different entity. It's sometimes unclear how and when these servers
 are online.
 
-## The Design Solution
+### The Design Solution
 
 Monitor and record device that downloads data. Keep a history of
 the time that data was syncronized for each device, and periodically check on
@@ -36,7 +36,7 @@ in conjunction with [[age-indicator]] to understand how long
 it's been since a device has seen another, helping users understand if their
 data is safely replicated to another device and they can turn off their computer.
 
-## Examples
+### Examples
 
 ::: examples
 
@@ -49,19 +49,19 @@ data is safely replicated to another device and they can turn off their computer
 
 ::: 
 
-## Why Choose Network Heath Indicator?
+### Why Choose Network Heath Indicator?
 
 - Confirm that shared data remains widely available
 - Confirm that hosts supply data for a long time
 - Confirm that hosts do _not_ continue providing files after a deletion request
 - Identify peers with similar interests
 
-## Best Practice: How to Implement Network Health Indicator
+### Best Practice: How to Implement Network Health Indicator
 
 - Allows users to perform self-diagnosis and debug their own network and get updated on the uptime of other devices.
 - Provides a variety of different network indicators such as confirmation of uptime, number of active connections, percent downloaded, etc.
 
-## Potential Problems with Network Health Indicator
+### Potential Problems with Network Health Indicator
 
 There can be a lot of information about each device that isn't really useful
   to all users. Some users will want to see advanced information, like the IP address. Consider 'advanced' and 'basic' views that users can toggle on or
@@ -88,11 +88,11 @@ Network Health Indicators may be unreliable in offline (i.e., [sneakernet](https
   when they are connected and available, rather than nodes polling all peers
   periodically to discover availability.
 
-## The Take-Away
+### The Take-Away
 
 Network health indicators reassure users and build trust in your application.
 
-## References & Where to Learn More
+### References & Where to Learn More
 
 Network health indicators overlap with reputation and trust management, in that hosting data for a long period of time can be used to gauge the reliability of a peer. See [[cautious optimism]] and [[conditional file sharing]]. There are potential applications related to preventing DDoS and Sybil attacks.
 
