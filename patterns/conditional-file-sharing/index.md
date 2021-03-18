@@ -24,13 +24,13 @@ how your data is being shared between instances.
   trying to improve application or protocol performance if there are many
   users on the network.
 - **Create incentives** that encourage hosting less popular content. For example,
-  "Users who share datasets with less than 5 peers get a free gold account." See [[sharing is caring]] for more details.
+  "Users who share datasets with less than 5 peers get a free gold account." See [[Cautious Optimism]] for more details.
 
 ### Examples
 
 ::: examples
 
-- [![Timed messages in Wire](Wire.pnge) Wire offers timed messages)](Wire.png)
+- [![Timed messages in Wire](Wire.png) Wire offers timed messages)](Wire.png)
 
 - [![Nextcloud retention](nextcloud.png) Nextcloud' retention can be filtered by tag)](nextcloud.png)
 
