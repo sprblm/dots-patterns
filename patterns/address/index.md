@@ -32,7 +32,7 @@ Users are uniquely identified by their handle and a server name.
 
 ::: examples
 
-- [![Address in Email](address-thunderbird.png) Email is the classic example of addresses (shown: a Thunderbird client)](address-thunderbird.png)
+- [![Address in Email](address-thunderbird.png) Email is the classic example of addresses (shown: Thunderbird app)](address-thunderbird.png)
 
 - [![Address in Adium](address-adium.png) XMPP has addresses similar to Email (shown: Adium app)](address-adium.png)
 

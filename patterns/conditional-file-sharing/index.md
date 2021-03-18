@@ -30,9 +30,9 @@ how your data is being shared between instances.
 
 ::: examples
 
-- [![Timed messages in Wire](Wire.png) Wire offers timed messages)](Wire.png)
+- [![Timed messages in Wire](Wire.png) Wire offers timed messages](Wire.png)
 
-- [![Nextcloud retention](nextcloud.png) Nextcloud' retention can be filtered by tag)](nextcloud.png)
+- [![Nextcloud retention](nextcloud.png) Nextcloud' retention can be filtered by tag](nextcloud.png)
 
 :::
 
