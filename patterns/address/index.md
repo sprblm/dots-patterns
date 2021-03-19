@@ -7,7 +7,7 @@ tags:
 description: "Users are uniquely identified by their handle and a server name."
 ---
 
-## The Design Problem
+### The Design Problem
 
 In a centralized world, it's assumed that other users are mediated through the
 same service. For example, my handle (e.g., @okdistribute) on Twitter is
@@ -24,15 +24,15 @@ different databases that guide what names are available or not, leading
 to two users to have the same username. Because of this, a username alone is
 often not sufficient to understand who you're talking to.
 
-## The Design Solution
+### The Design Solution
 
 Users are uniquely identified by their handle and a server name.
 
-## Examples
+### Examples
 
 ::: examples
 
-- [![Address in Email](address-thunderbird.png) Email is the classic example of addresses (shown: a Thunderbird client)](address-thunderbird.png)
+- [![Address in Email](address-thunderbird.png) Email is the classic example of addresses (shown: Thunderbird app)](address-thunderbird.png)
 
 - [![Address in Adium](address-adium.png) XMPP has addresses similar to Email (shown: Adium app)](address-adium.png)
 
@@ -40,17 +40,17 @@ Users are uniquely identified by their handle and a server name.
 
 :::
 
-## Why Choose Address ?
+### Why Choose Address ?
 
 - When users need to have a dedicated server that is always on and can receive messages or information from other users.
 
-## Best Practice: How to Implement Address
+### Best Practice: How to Implement Address
 
 - Make sure that names are unique on the same instance.
 - Two users on the same device should be able to have two different
   names on separate instances.
 
-## Potential Problems with Address
+### Potential Problems with Address
 
 It is often complex for a user to convert their username, account, contact list, and data to a new server. In practice, most users then do not transfer to a new server even if they become unhappy with their current one.
 
@@ -60,6 +60,6 @@ would need to trust your new address, without strong proof if it is the same
 person or even the same device. See [[Persistent
 Identity]] for making portability more secure.
 
-## The Take Away
+### The Take Away
 
 Address can help give users trust in who they're talking to.

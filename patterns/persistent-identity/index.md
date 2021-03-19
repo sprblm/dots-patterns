@@ -6,7 +6,7 @@ tags:
 description: "Securely move between providers and aliases."
 ---
 
-## The Design Problem
+### The Design Problem
 
 A good design practice is to display extra information that can be used to
 locate a particular user. For example, for a federated service like e-mail, you
@@ -19,7 +19,7 @@ sender is the same person or even using the same device. Users thus rarely
 change names or move providers even if they grow to dislike their current
 provider.
 
-## The Design Solution
+### The Design Solution
 
 Generate a new `id` when a user creates a profile. This is a sufficiently long
 string of characters that would be nearly impossible to guess (e.g., a public
@@ -28,7 +28,7 @@ name, the `id` does not change, allowing an application to keep an
 up-to-date contact list and make it easier for users to understand if they are
 talking to the same person.
 
-## Examples
+### Examples
 
 ::: examples
 
@@ -39,12 +39,12 @@ talking to the same person.
 
 :::
 
-## Why Choose Persistent Identity?
+### Why Choose Persistent Identity?
 
 - When you want to enable users to securely move between providers and names
   with ease.
 
-## Best Practice: How to Implement Persistent Identity
+### Best Practice: How to Implement Persistent Identity
 
 - Users need to have strict control over when and where their id is shared.
   Never automatically share this id on a public service
@@ -54,7 +54,7 @@ talking to the same person.
   to be separate (e.g., two users on the same device should have two different
   ids).
 
-## Potential Problems with Persistent Identity
+### Potential Problems with Persistent Identity
 
 By assigning an id to a particular account, it can make it more difficult to
 create entirely anonymous accounts. For example, if a 3rd-party finds the id
@@ -64,13 +64,13 @@ completely from devices upon account deletion. See
 [[disposable-identity]] for more information about
 anonymous, one-time, and short-lived accounts.
 
-## The Take Away
+### The Take Away
 
 Persistent identities can help give users continuity and trust in who they're
-talking to. It also encourges healthy competition between clients that
+talking to. It also encourages healthy competition between clients that
 implement the protocol, as it's more difficult to lock users into
 a specific provider.
 
-## References & Where to Learn More
+### References & Where to Learn More
 
 - [Keybase seitan tokens](https://keybase.io/docs/seitan)
