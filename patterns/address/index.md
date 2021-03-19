@@ -10,13 +10,11 @@ description: "Users are uniquely identified by their handle and a server name."
 ### The Design Problem
 
 In a centralized world, it's assumed that other users are mediated through the
-same service. For example, my handle on Twitter is
+same service. For example,amy handle on Twitter is
 displayed the same to everyone else on Twitter. There is a global Twitter
-database of these handles, and no one can use the same as someone else. If
-I change my handle, it might be difficult for others to find me unless I tell
-them my new name.
+database of these handles, and each is unique -- no one can use the same handle as someone else. 
 
-In a decentralized world, users may not be connecting to each other from the exact
+In a decentralized application, users may not be connecting to each other from the exact
 same service that you are. Data can be hosted by different
 services, and handles could be displayed differently depending on the
 application each person is using to connect. Because of this, a handle alone is
@@ -44,13 +42,11 @@ Users are uniquely identified by their handle and a server name.
 
 ### Best Practice: How to Implement Address
 
-- Make sure that names are unique on the same instance.
-- Two users on the same device should be able to have two different
-  names on separate instances.
+Make sure that handles are unique on the same instance. Two users on the same device should be able to have two different handles.
 
 ### Potential Problems with Address
 
-It is often complex for a user to convert their username, account, contact list, and data to a new server. In practice, most users then do not transfer to a new server even if they become unhappy with their current one.
+It is often complex for a user to convert their address, account, contact list, and data to a new server. In practice, most users then do not transfer to a new server even if they become unhappy with their current one.
 
 If the user does decide to move to a new server, the user then needs to take on
 the cumbersome task of notifying all contacts of their new address. Recipients
