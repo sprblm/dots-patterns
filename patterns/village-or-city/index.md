@@ -36,9 +36,15 @@ social feeds.
 
 ### Examples
 
-- Biton
-- Mastodon
-- Aether
+
+::: examples
+
+- [![Mastodon](mastodon.png) Mastodon can be
+  configured as invite-only](mastodon.png)
+
+- [![Aether](aether.png) Aether users vote and impeach moderators similar to a democratic city government](aether.png)
+
+:::
 
 ### Why Choose Village or City?
 
