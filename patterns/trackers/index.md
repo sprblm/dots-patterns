@@ -24,12 +24,11 @@ additional metadata about the peer's bandwidth and supported functionality.
 
 ### Examples
 
-
 - [![BitTorrent](trackers-bittorrent.jpeg) 'Trackers' in BitTorrent](trackers-bittorrent.jpeg)
 - [![Tor](trackers-tor.png) 'Directory Authorities' in Tor use consensus to
   stay up-to-date](trackers-tor.png)
 - [![IPFS Bootstrap Peers](trackers-ipfs.png) Kademlia Distributed Hash Tables, like the
-  one in IPFS, offer "bootstrap peers"](trackers-ipfs.png) 
+  one in IPFS, offer "bootstrap peers"](trackers-ipfs.png)
 
 ### Why Choose Trackers?
 
@@ -51,11 +50,11 @@ Trackers are a simple technique to solve "first introduction" problems in peer-t
 
 ### The Take Away
 
-Trackers are a common component of many peer-to-peer networks, and facilitate peer introduction. 
+Trackers are a common component of many peer-to-peer networks, and facilitate peer introduction.
 
 ### References & Where to learn more
 
 Even once relevant peers are identified by a tracker, creating a peer-to-peer network connection between two home networks requires [NAT traversal](https://en.wikipedia.org/wiki/NAT_traversal), also referred to as NAT hole punching. This usually involves utilizing a third party to exchange network address and port information to facilitate a direct connection.
 
 IPFS illustration by [Matt
-  Ober](https://medium.com/pinata/speeding-up-ipfs-pinning-through-swarm-connections-b509b1471986)
+Ober](https://medium.com/pinata/speeding-up-ipfs-pinning-through-swarm-connections-b509b1471986)
