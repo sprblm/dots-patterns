@@ -64,7 +64,7 @@ present and even showcase different communities differently. In those cases,
 **choice matters**, and no default option should be provided at all. Instead,
 think about the 3-5 bigger communities that you want to offer as options, and
 test the copy with users to see if they all sound similarly attractive. See  
-[[Vilage or City]] for ways to describe  
+[[Village or City]] for ways to describe  
 
 ### The Take Away
 

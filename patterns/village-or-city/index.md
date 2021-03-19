@@ -39,8 +39,8 @@ social feeds.
 
 ::: examples
 
-- [![Mastodon](mastodon.jpeg) Mastodon can be
-  configured as invite-only](mastodon.jpeg)
+- [![Mastodon](mastodon.png) Mastodon can be
+  configured as invite-only](mastodon.png)
 
 - [![Aether](aether.png) Aether users vote and impeach moderators similar to a democratic city government](aether.png)
 
