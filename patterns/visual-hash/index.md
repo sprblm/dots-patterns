@@ -2,7 +2,6 @@
 title: Visual Hash
 topic: sharing-permissions
 tags:
-  - pattern
   - ui
 description: "Quickly differentiate between two users or pieces of content."
 layout: pattern
@@ -25,6 +24,7 @@ Generate an image based upon the hash of the content or the ID of
 the user.
 
 ### Examples
+
 ::: examples
 
 - [![Visual hash in Cabal](visual-hash-cabal.png) Cabal's visual hash format](visual-hash-cabal.png)

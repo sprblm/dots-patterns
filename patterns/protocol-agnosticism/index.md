@@ -2,7 +2,6 @@
 title: Protocol Agnosticism
 topic: sync-status
 tags:
-  - pattern
   - protocol
 description: "Give options for which relevant protocols to use."
 layout: pattern
