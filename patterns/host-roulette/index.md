@@ -46,14 +46,15 @@ provider over another, randomly assign new users to a hosting provider.
 
 ### Why Choose Host Roulette ?
 
-- When you want to steer the network into further distribution
+When you want to steer the network into further distribution
 
 ### Best Practice: How to Implement Host Roulette
 
-- Make sure you indicate that the host was randomly chosen, e.g. write "choose
+Make sure you indicate that the host was randomly chosen, e.g. write "choose
   a different host" next to it, and visualizing the next randomly assigned host
   in a similar fashion. Think about animating this, too.
-- Always offer users their own choice by making the choice editable (choose
+
+Always offer users their own choice by making the choice editable (choose
   from list, for example).
 
 ### Potential Problems with Host Roulette
