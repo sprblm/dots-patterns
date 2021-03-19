@@ -22,7 +22,7 @@ We can encourage deletion across the network quite well by using Tombstones.
 
 ::: examples
 
-- [![Tombstones in Mapeo](mapeo.jpeg) Mapeo has a delete feature which hides items from view](mapeo.jpeg)
+- [![Tombstones in Mapeo](mapeo.png) Mapeo has a delete feature which hides items from view](mapeo.png)
 
 :::
 

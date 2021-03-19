@@ -35,9 +35,9 @@ built-in, and you want to give the user option to participate in smaller common 
 
 ### Best Practice: How to Implement Social Radius Slider
 
-- Social Radius Slider is a temporary filter and doesn't have to be persistent.
-  It allows users to control and extend their network as well as to moderate
-  their data consumption.
+Social Radius Slider is a temporary filter and doesn't have to be persistent.
+It allows users to control and extend their network as well as to moderate
+their data consumption.
 
 ### Potential Problems with Social Radius Slider
 
