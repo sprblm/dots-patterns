@@ -10,7 +10,7 @@ description: "Users are uniquely identified by their handle and a server name."
 ### The Design Problem
 
 In a centralized world, it's assumed that other users are mediated through the
-same service. For example,amy handle on Twitter is
+same service. For example, a handle on Twitter is
 displayed the same to everyone else on Twitter. There is a global Twitter
 database of these handles, and each is unique -- no one can use the same handle as someone else. 
 
