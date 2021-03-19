@@ -42,7 +42,7 @@ provider over another, randomly assign new users to a hosting provider.
 
 - [![Nextcoud hosts](Nextcloud.png) Nextcloud randomly selects a server for you](Nextcloud.png)
 
-::: 
+:::
 
 ## Why Choose Host Roulette ?
 
@@ -71,3 +71,5 @@ Host Roulette can help you decentralize a network among equal, federated
 servers.
 
 ## References & Where to Learn More
+
+[Nextcloud's design decision](https://opensource.com/article/20/9/decentralization-signup)
