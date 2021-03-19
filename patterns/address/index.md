@@ -10,18 +10,16 @@ description: "Users are uniquely identified by their handle and a server name."
 ### The Design Problem
 
 In a centralized world, it's assumed that other users are mediated through the
-same service. For example, my handle (e.g., @okdistribute) on Twitter is
+same service. For example, my handle on Twitter is
 displayed the same to everyone else on Twitter. There is a global Twitter
 database of these handles, and no one can use the same as someone else. If
 I change my handle, it might be difficult for others to find me unless I tell
 them my new name.
 
-In a decentralized world, users may not be connecting to you from the exact
-same service or application that you are. Data can be hosted by different
-parties, and handles could be displayed differently depending on the
-application or service each person is using to connect. There may also be many
-different databases that guide what names are available or not, leading
-to two users to have the same username. Because of this, a username alone is
+In a decentralized world, users may not be connecting to each other from the exact
+same service that you are. Data can be hosted by different
+services, and handles could be displayed differently depending on the
+application each person is using to connect. Because of this, a handle alone is
 often not sufficient to understand who you're talking to.
 
 ### The Design Solution
@@ -42,7 +40,7 @@ Users are uniquely identified by their handle and a server name.
 
 ### Why Choose Address ?
 
-- When users need to have a dedicated server that is always on and can receive messages or information from other users.
+- When users have a server that receives messages from other users.
 
 ### Best Practice: How to Implement Address
 
