@@ -44,4 +44,4 @@ Depending on the protocol or library you choose for storage, it may not be possi
 
 ### References & Where to Learn More
 
-Network "[heartbeats](<https://en.wikipedia.org/wiki/Heartbeat_(computing)>)" can track which peers with a copy of data continue to share it after a tombstone has been sent. See [[network health indicators]] for more on this approach.
+Network "[heartbeats](<https://en.wikipedia.org/wiki/Heartbeat_(computing)>)" can track which peers with a copy of data continue to share it after a tombstone has been sent. See [[network health indicator]] for more on this approach.
