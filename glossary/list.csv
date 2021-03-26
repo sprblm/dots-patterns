@@ -14,8 +14,8 @@ Federation,Many connected servers where each server has autonomy over access rul
 Replication,When a computer downloads the same data as another computer.,
 Sync,When multiple computers see the same data.,
 Peer to Peer,"Each computer can act as a server for others, without needing a single (central) server.",
-Seed,A computer in a peer to peer network that uploads data to another computer.,"host, pin"
-Leech,A computer in a peer to peer network that downloads data from a seed.,
+Seed,A computer in a peer to peer network that uploads data to other computers.,"host, pin"
+Leech,A computer in a peer to peer network that downloads data from a seed without uploading.,
 Peer,A computer in a peer to peer network that both uploads and downloads data.,node
 Discovery,The process by which one peer is able to make a connection with another peer.,search
 Third party,"A person or group besides the two (i.e., two computers) primarily involved.",
