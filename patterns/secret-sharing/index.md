@@ -8,11 +8,31 @@ description: "Backup your keys and other secrets with your trusted peers."
 
 ## The Design Problem
 
-Key management is hard - decentralized or not! Whether it's your most important password, your wallet ID or your private encryption key, there don't seem to be good choices. Leave it on a device that you manage, which may get lost or stolen, or submit it to a central authority that can leak your data (intentionally or untintentionally)? There is no good way to encode trust in our current default key management tools.
+Managing your "secrets" (like keys and passwords) is hard! If it saved only on
+a single device, this is highly secure because someone must gain posession of
+your device to get your secret. But the secret can be gone forever if the
+device is lost or stolen, so it can be highly risky. If it's uploaded to
+a server owned by another person, company, or organization, it's highly
+available anywhere even if you lose your device. But it is possible that an
+attacker or rogue employee may lose, corrupt, or misuse it (intentionally or
+unintentionally). 
+
+Thus, gaining trust thus has become an important part of marketing strategies
+for many Internet companies today that store your important information. This
+is why many companies focus on creating a social, friendly, and trusted image
+in their brand.  
 
 ## The Design Solution
 
-Because trust is inherently social, we can model key management in a social way also. Secret sharing allows you to share your "secret" (passwords and keys, for example) with a number of your peers - friends, family members, or any entity you place your trust in! If you lose your original secret, these peers (some of them, or all of them) have to come together to recreate your secret. Thanks to some mathematical magic (AKA cryptography!) no single peer can recreate your secret.
+Because trust is inherently social, we can model secret management in a social
+way also. Secret sharing allows you to share your secret with a number of
+people - friends, family members, or any organization you place your trust in!
+
+If you lose your original secret, these peers could choose to come together to
+recreate your secret for you. Thanks to some mathematical magic (cryptography!) no
+single peer can recreate your secret. This prevents a single attacker or rogue
+employee from stealing your secret, as they would need to coordinate with
+a number of your peers to unlock the secret.  
 
 ## Examples
 
@@ -24,12 +44,39 @@ Because trust is inherently social, we can model key management in a social way 
 
 ## Why Choose Secret Sharing?
 
+In a scenario where users have to maintain a single secret across all of their
+devices, and losing that secret can be catastrophic. For example, in
+applications that manage sensitive information such as money, personal
+identifying information, or encrypted documents.
 
 ## Best Practice: How to Implement Secret Sharing
 
+Allow users to choose a minimum number of peers that need to come together to
+re-create the secret. The number of peers can be small, as little as two. Most
+users may not need more than two or three peers to have a high guarantee of
+security and usability. 
+
+Despite only needing two or more peers to use secret sharing, it's important
+that more peers are included just in case something goes wrong with a peer. For
+example, recommend that the user create at least three shards with two minimum
+peers, or five shards with at least three minimum peers. This way, if one of
+the peers is unable or unwilling to participate at a later date, the secret
+won't be lost.
 
 ## Potential Problems with Secret Sharing
 
+The simplest way to implement secret sharing likely requires the users to
+distribute the secret shards to peers themselves in an ad-hoc manner. There
+are three significant problems:
+
+1. The shard could be stolen by an unauthorized third-party.
+2. The shard could be lost by the intended recipient.
+3. The shard could be rendered invalid because one of the peers went rogue.
+
+The shard distribution workflow could be automated through a user interface on
+the application to make it easier for users to create, send, and revoke keys
+over encrypted channels, but that is not always an easy task for development
+teams to build and deploy.
 
 ## The Take Away
 
@@ -38,3 +85,4 @@ Secret Sharing is a protocol that models trust in a social and distributed fashi
 ## References & Where to Learn More
 
 [Dark Crystal](https://darkcrystal.pw/what-is-secret-sharing/)
+
