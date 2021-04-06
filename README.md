@@ -20,7 +20,7 @@ Decentralization Off The Shelf is an initiative hosted by Simply Secure, a US-ba
 
 The initiative is currently maintained by Eileen Wagner and Karissa McKelvey, and has a group of volunteer contributors and advisors.
 
-[Read more about governance stcutures and our Code of Conduct.](https://decentpatterns.xyz/governance/)
+[Read more about governance structures and our Code of Conduct.](https://decentpatterns.xyz/governance/)
 
 ## Support Us
 
