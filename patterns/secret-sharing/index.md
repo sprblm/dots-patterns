@@ -8,14 +8,14 @@ description: "Backup your keys and other secrets with your trusted peers."
 
 ## The Design Problem
 
-Managing your "secrets" (like keys and passwords) is hard! If it saved only on
-a single device, this is highly secure because someone must gain posession of
-your device to get your secret. But the secret can be gone forever if the
-device is lost or stolen, so it can be highly risky. If it's uploaded to
+Managing your "secrets" (like keys and passwords) is hard! If they are saved only on
+a single device, they are highly secure because someone must gain possession of
+your device to get your secrets. But these secrets can be gone forever if the
+device is lost or stolen, so this approach can be highly risky. If your secrets are uploaded to
 a server owned by another person, company, or organization, it's highly
 available anywhere even if you lose your device. But it is possible that an
 attacker or rogue employee may lose, corrupt, or misuse it (intentionally or
-unintentionally). 
+unintentionally).
 
 Thus, gaining trust thus has become an important part of marketing strategies
 for many Internet companies today that store your important information. This
@@ -24,15 +24,17 @@ in their brand.
 
 ## The Design Solution
 
-Because trust is inherently social, we can model secret management in a social
-way also. Secret sharing allows you to share your secret with a number of
+Because trust is inherently social, we can also model secret management in a social
+way. Secret sharing allows you to share your secret with a number of
 people - friends, family members, or any organization you place your trust in!
 
-If you lose your original secret, these peers could choose to come together to
-recreate your secret for you. Thanks to some mathematical magic (cryptography!) no
-single peer can recreate your secret. This prevents a single attacker or rogue
+If you lose your original secret, these people (peers) could choose to come together to
+recreate your secret for you. Secret sharing is also known as "sharding" -- think about breaking up a secret
+into different shards, spread across a number of peers. Thanks to some mathematical magic (cryptography!) no
+single peer can recreate your secret with their shard. This prevents a single attacker or rogue
 employee from stealing your secret, as they would need to coordinate with
-a number of your peers to unlock the secret.  
+a number of your peers to unlock the secret.
+
 
 ## Examples
 
@@ -44,9 +46,9 @@ a number of your peers to unlock the secret.
 
 ## Why Choose Secret Sharing?
 
-In a scenario where users have to maintain a single secret across all of their
+Secret sharing is great in a scenario where users have to maintain a single secret across all of their
 devices, and losing that secret can be catastrophic. For example, in
-applications that manage sensitive information such as money, personal
+applications that manage sensitive information such as money, personally
 identifying information, or encrypted documents.
 
 ## Best Practice: How to Implement Secret Sharing
@@ -54,7 +56,7 @@ identifying information, or encrypted documents.
 Allow users to choose a minimum number of peers that need to come together to
 re-create the secret. The number of peers can be small, as little as two. Most
 users may not need more than two or three peers to have a high guarantee of
-security and usability. 
+security and usability.
 
 Despite only needing two or more peers to use secret sharing, it's important
 that more peers are included just in case something goes wrong with a peer. For
@@ -85,4 +87,3 @@ Secret Sharing is a protocol that models trust in a social and distributed fashi
 ## References & Where to Learn More
 
 [Dark Crystal](https://darkcrystal.pw/what-is-secret-sharing/)
-
