@@ -24,11 +24,15 @@ additional metadata about the peer's bandwidth and supported functionality.
 
 ### Examples
 
+::: examples
+
 - [![BitTorrent](trackers-bittorrent.jpeg) 'Trackers' in BitTorrent](trackers-bittorrent.jpeg)
 - [![Tor](trackers-tor.png) 'Directory Authorities' in Tor use consensus to
   stay up-to-date](trackers-tor.png)
 - [![IPFS Bootstrap Peers](trackers-ipfs.png) Kademlia Distributed Hash Tables, like the
   one in IPFS, offer "bootstrap peers"](trackers-ipfs.png)
+
+:::
 
 ### Why Choose Trackers?
 
