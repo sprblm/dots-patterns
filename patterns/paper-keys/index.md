@@ -29,11 +29,15 @@ codes with the device's camera.
 
 #### Examples
 
+::: examples
+
 - [![Paper Keys in 1Password ](paper-keys-1password.png) 1Password offers an all-in-one 'Emergency Kit'](paper-keys-1password.png)
 
 - [![Paper Keys in Filevault](paper-keys-filevault.png) Apple Filevault uses a serial number style key](paper-keys-filevault.png)
 
 - [![Paper Keys in Keybase](paper-keys-keybase.png) Keybase generates a multiple word passphrase](paper-keys-keybase.png)
+
+:::
 
 ### Why Choose Paper Keys?
 
