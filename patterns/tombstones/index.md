@@ -8,11 +8,11 @@ tags:
 
 ### The Design Problem
 
-User-generated content may be available forever on some devices; and thus, it's difficult to delete all copies of information once it's been copied to other devices. This is more likely the longer this content is online, as crawlers will begin to find it, copy it, and give it to other people.
+User-generated content may be available forever on some devices; and thus, it's difficult to delete all copies on all other devices. This is more likely the longer this content is online, as crawlers will begin to find it, copy it, and give it to other people.
 
 This deletion problem is not just a decentralization issue. In centralized applications, any conversation could be saved as screenshots or as raw data, long after the original account deleted the information. Thus, it is already very difficult to delete content from the Web once it has been shared.
 
-In a decentralized application, deletion gets even harder, because we can't ask a central database to delete all reference to the data and copies of the data. we may have to ask many databases to delete the data.
+In a decentralized application, deletion gets even harder, because we can't ask a central database to delete all reference to the data and copies of the data -- instead, we have to ask many databases to delete the data.
 
 ### The Design Solution
 
