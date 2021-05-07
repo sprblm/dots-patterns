@@ -16,7 +16,7 @@ In a decentralized application, deletion gets even harder, because we can't ask 
 
 ### The Design Solution
 
-We can encourage deletion across the network quite well by using Tombstones. A tombstone is a message that says "Please, delete the information with the following reference numbers or ids." This message can be sent to everyone or only certain devices or servers, depending on the use case.
+We can encourage deletion across the network quite well by using Tombstones. A tombstone is a message that says "Please, delete the information with the following identification numbers." These tombstone messages can be sent to everyone or only certain devices or servers, depending on the use case.
 
 ### Examples
 
