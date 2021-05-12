@@ -8,15 +8,15 @@ tags:
 
 ### The Design Problem
 
-User-generated content may be available forever on some Devices; and thus, could stay on the network somewhere forever. This is more likely the longer this content is online, as crawlers will begin to find it, copy it, and synchronize it to other people.
+User-generated content may be available forever on some devices; and thus, it's difficult to delete all copies on all other devices. This is more likely the longer this content is online, as crawlers will begin to find it, copy it, and give it to other people.
 
-This deletion problem is not just a decentralization issue. In centralized applications, any conversation could be saved as screenshots or as raw data and re-shared on the network, long after the original account deleted the post. Thus, it is already very difficult to delete content from the Web once it has been online for some period of time and has had some viewership.
+This deletion problem is not just a decentralization issue. In centralized applications, any conversation could be saved as screenshots or as raw data, long after the original account deleted the information. Thus, it is already very difficult to delete content from the Web once it has been shared.
 
-In a decentralized application, deletion gets even harder.
+In a decentralized application, deletion gets even harder, because we can't just ask a single, central database to delete all references to the data -- instead, we have to ask many databases or devices to delete their copies.
 
 ### The Design Solution
 
-We can encourage deletion across the network quite well by using Tombstones.
+We can encourage deletion across the network quite well by using Tombstones. A tombstone is a message that says "Please, delete the information with the following identification numbers." These tombstone messages can be sent to everyone or only certain devices or servers, depending on the use case.
 
 ### Examples
 
