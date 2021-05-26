@@ -1,5 +1,4 @@
 Word,Definition,AKA
-Information,,
 Computer,"Anything with computing power (e.g., mobile phone, laptop, raspberry pi, router); that is, anything that can store, read, or write zeros and ones.",device
 Data,"Zeros and ones stored in a computer, often combining to represent information.",
 Software,A defined process that reads or writes data.,program
@@ -25,7 +24,7 @@ Gossip,When one computer (A) tells another computer (B) about data it received f
 Group,A set of users who share some common data. Anyone can edit.,
 Swarms,A set of peers on a peer to peer network that are all serving the same data.,"backups, peers, hosts"
 Fork,An editable copy.,remixing
-Keypair,A two-part key used in cryptography to provide end-to-end encryption and signature verification.,
+Keypair,A two-part key used in cryptography to provide end-to-end encryption and signature verification., credential
 Public key,The part of a keypair that can be used by others to verify a signature.,
 Private key,The part of a keypair that is used to create signatures and should be kept secret.,
 Signed Data,Data with associated cryptographic payload that confirms the creator of the data also possessed the associated private key at the time the data was created.,
