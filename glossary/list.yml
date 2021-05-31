@@ -1,0 +1,146 @@
+- word: Information
+  definition: ''
+  aka: ''
+- word: Computer
+  definition: >-
+    Anything with computing power (e.g., mobile phone, laptop, raspberry pi,
+    router). Anything that can store, read, or write zeros and ones.
+  aka: device
+- word: Data
+  definition: >-
+    Zeros and ones stored in a computer, often combining to represent
+    information.
+  aka: ''
+- word: Software
+  definition: A defined process that reads or writes data.
+  aka: program
+- word: Database
+  definition: 'Software that organizes, manages, and queries data.'
+  aka: ''
+- word: Access
+  definition: The ability to read or write data on a computer.
+  aka: ''
+- word: Protocol
+  definition: A set of well-defined rules for how data is sent between computers.
+  aka: ''
+- word: Network
+  definition: Many computers connected by a shared protocol.
+  aka: ''
+- word: Server
+  definition: A computer that manages access to data in a network.
+  aka: ''
+- word: Cloud
+  definition: Many connected servers.
+  aka: ''
+- word: System
+  definition: >-
+    A set of computers and software working together as parts of an
+    interconnecting network.
+  aka: ''
+- word: Federation
+  definition: Many connected servers where each server has autonomy over access rules.
+  aka: ''
+- word: Replication
+  definition: When a computer downloads the same data as another computer.
+  aka: ''
+- word: Sync
+  definition: When multiple computers see the same data.
+  aka: ''
+- word: Peer to Peer
+  definition: >-
+    Each computer can act as a server for others, without needing a single
+    (central) server.
+  aka: ''
+- word: Seed
+  definition: A computer in a peer to peer network that uploads data to other computers.
+  aka: 'host, pin'
+- word: Leech
+  definition: >-
+    A computer in a peer to peer network that downloads data from a seed without
+    uploading.
+  aka: ''
+- word: Peer
+  definition: A computer in a peer to peer network that both uploads and downloads data.
+  aka: node
+- word: Discovery
+  definition: >-
+    The process by which one peer is able to make a connection with another
+    peer.
+  aka: search
+- word: Third party
+  definition: 'A person or group besides the two coimputers primarily involved.'
+  aka: ''
+- word: Data structure
+  definition: ''
+  aka: ''
+- word: Distributed Hash Table 
+  definition: >-
+    A common data structure used across servers so that peers can discover each
+    other.
+  aka: ''
+- word: Gossip
+  definition: >-
+    When one computer (A) tells another computer (B) about data it received from
+    a 3rd computer (C) without B and C talking directly.
+  aka: ''
+- word: Group
+  definition: A set of users who share some common data. Anyone can edit.
+  aka: ''
+- word: Swarms
+  definition: A set of peers on a peer to peer network that are all serving the same data.
+  aka: 'backups, peers, hosts'
+- word: Fork
+  definition: An editable copy.
+  aka: remixing
+- word: Keypair
+  definition: >-
+    A two-part key used in cryptography to provide end-to-end encryption and
+    signature verification.
+  aka: ''
+- word: Public key
+  definition: The part of a keypair that can be used by others to verify a signature.
+  aka: ''
+- word: Private key
+  definition: >-
+    The part of a keypair that is used to create signatures and should be kept
+    secret.
+  aka: ''
+- word: Signed Data
+  definition: >-
+    Data with associated cryptographic payload that confirms the creator of the
+    data also possessed the associated private key at the time the data was
+    created.
+  aka: ''
+- word: Interoperable
+  definition: >-
+    When two systems are able to exchange and make use of information from each
+    other.
+  aka: ''
+- word: Identifier
+  definition: >-
+    A number or string of characters that does not change and can be used to
+    reference a piece of data or user at any point in time.
+  aka: ''
+- word: Content Addressible
+  definition: A piece of data that can be queried or referenced by what it contains.
+  aka: ''
+- word: Hash
+  definition: >-
+    A list of characters that uniquely represents a piece of data as long as the
+    same hash function is used.
+  aka: ''
+- word: Tree
+  definition: A data structure.
+  aka: ''
+- word: Merkle Tree
+  definition: >-
+    A data structure common in peer-to-peer applications that protects and
+    verifies data from tampering.
+  aka: ''
+- word: Block
+  definition: >-
+    A small piece of data amongst many other small pieces of data with a
+    specified maximum length. A block on its own may not be useful or
+    interesting, but many blocks combined may represent more meaningful
+    information.
+  aka: ''
