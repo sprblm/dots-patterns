@@ -6,6 +6,8 @@ However, adoption is slow. Developers and designers need resources that help the
 
 This is the work-in-progress library of patterns to support the design and development of better user-facing applications that are backed by decentralized architecture.
 
+You can see these patterns in ther published state, on the [pattern library section of the Decentralization, off the shelf website](https://decentpatterns.xyz/library).
+
 ## Contributing
 
 This pattern library would not exist without YOUR contributions. Please feel free to open an issue or pull request to start a discussion or suggest changes to any of these patterns -- or add a new one! We are actively seeking more input and expertise to advance existing patterns we've already released in this repository.
