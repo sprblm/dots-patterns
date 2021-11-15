@@ -26,7 +26,7 @@ additional metadata about the peer's bandwidth and supported functionality.
 
 ::: examples
 
-- [![BitTorrent](trackers-bittorrent.png) 'Trackers' in BitTorrent](trackers-bittorrent.png)
+- [![BitTorrent](trackers-bittorrent.png)'Trackers' in BitTorrent](trackers-bittorrent.png)
 - [![Tor](trackers-tor.png) 'Directory Authorities' in Tor use consensus to
   stay up-to-date](trackers-tor.png)
 - [![IPFS Bootstrap Peers](trackers-ipfs.png) Kademlia Distributed Hash Tables, like the
