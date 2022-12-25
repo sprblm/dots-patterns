@@ -56,4 +56,4 @@ Identity]] for making portability more secure.
 
 ### The Take Away
 
-Address can help give users trust in who they're talking to.
+Addresses can help give users trust in who they're talking to.
